@@ -1,13 +1,15 @@
-import { ReactFlow, Background } from "reactflow";
-
+import { ReactFlow, Background, Panel } from "reactflow";
+import  { useState } from "react";
 import "reactflow/dist/style.css";
 import data from "./data.json";
+import Sidebar from "./Sidebar";
+import Searchbar from "./Searchbar";
 
-const poi = "Balwantrao Abhisheki";
+function updateNodes(poi) {
+  console.log("updateNodes", poi);
 
-function updateNodes() {
   var numAboveCount = 0;
-  var numSameCount = 0;
+  var numSameCount = 1;
   var numBelowCount = 0;
 
   var nodes = [{ id: poi, position: { x: 300, y: 300 }, data: { label: poi } }];
@@ -22,17 +24,23 @@ function updateNodes() {
 
     if (link["source"] == poi) {
 
-      console.log(link["target"])
 
       if (link["relation"] == "parent-child") {
-        let mult = numSameCount%2 == 0 ? 1 : -1;
-        position.x = 300 + 200 * mult * (numBelowCount);
+        if (numBelowCount%2 == 0) {
+          position.x = 300 + 200 *  (numBelowCount/2);
+        } else {
+          position.x = 300 - 200 *  ((numBelowCount+1)/2);
+        }
         position.y = 500;
         numBelowCount += 1;
 
       } else if ( link["relation"] == "marriage" || link["relation"] == "sibling") {
-        let mult = numSameCount%2 == 0 ? 1 : -1;
-        position.x = 300 + 300 * mult * (numSameCount + 1); // We add 1 bc we want to leave space for the poi
+
+        if (numSameCount%2 == 0) {
+          position.x = 300 + 200 * (numSameCount/2);
+        } else {
+          position.x = 300 - 200 * ((numSameCount+1)/2);
+        }
         position.y = 300;
         sourcePosition = numSameCount%2 == 0 ? 'left' : 'right';
         targetPosition = numSameCount%2 == 0 ? 'left' : 'right';
@@ -57,17 +65,22 @@ function updateNodes() {
     }
 
     if (link["target"] == poi) {
-      console.log(link["source"])
       if (link["relation"] == "parent-child") {
-        let mult = numAboveCount%2 == 0 ? 1 : -1;
-        position.x = 300 + (200 * mult * (numAboveCount));
+        if (numAboveCount%2 == 0) {
+          position.x = 300 + 200 * (numAboveCount/2);
+        } else {
+          position.x = 300 - 200 * ((numAboveCount+1)/2);
+        }
         position.y = 100;
-        console.log(position.x, position.y, numAboveCount)
         numAboveCount += 1;
-      } else if (
-        link["relation"] == "marriage" || link["relation"] == "sibling") {
-        let mult = numSameCount%2 == 0 ? 1 : -1;
-        position.x = 300 + 300 * mult * (numSameCount + 1);
+      } else if (link["relation"] == "marriage" || link["relation"] == "sibling") {
+        
+        if (numSameCount%2 == 0) {
+          position.x = 300 + 200 * (numSameCount/2);
+        } else {
+          position.x = 300 - 200 * ((numSameCount+1)/2);
+        }
+        
         position.y = 300;
         sourcePosition = numSameCount%2 == 0 ? 'left' : 'right';
         targetPosition = numSameCount%2 == 0 ? 'left' : 'right';
@@ -98,13 +111,22 @@ function updateNodes() {
 
 export default function App() {
   
+  let [poi, setPoi] = useState("Raj Kapoor"); // Default Person
+  let { nodes, edges } = updateNodes(poi);
 
-  let { nodes, edges } = updateNodes();
+  const handleNodeClick = (event, node) => {
+    console.log("click", node);
+    setPoi(node.id);
+  }
+
   return (
-    <div style={{ width: "100vw", height: "100vh" }}>
-      <ReactFlow nodes={nodes} edges={edges} draggable={true} fitView>
+    <div className="w-screen h-screen flex flex-row">
+      <ReactFlow nodes={nodes} edges={edges} draggable={true} fitView onNodeClick={handleNodeClick} >
+      <Panel position="top-left">     <Searchbar names={data['nodes']} setPoi={setPoi} /></Panel>
+
         <Background variant="dots" gap={12} size={1} />
       </ReactFlow>
+      <Sidebar poi={poi} />
     </div>
   );
 }
