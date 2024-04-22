@@ -1,10 +1,17 @@
-import { ReactFlow, Background, Panel } from "reactflow";
+import { ReactFlow, Background, Panel, MarkerType} from "reactflow";
 import  { useState } from "react";
 import "reactflow/dist/style.css";
 import nodes_json from "./nodes.json";
 import edges_json from "./edges.json";
 import Sidebar from "./Sidebar";
 import Searchbar from "./Searchbar";
+
+
+const color_of_relation = {
+  "parent-child": "#FF5733",
+  "marriage": "#33FF57",
+  "sibling": "#3357FF",
+};
 
 function getNodeName(poi){
   // Binary search to find the node with the given id
@@ -82,6 +89,10 @@ function updateNodes(poi) {
         source: link["source_id"],
         target: link["target_id"],
         label: link["relation"],
+        style: {
+          strokeWidth: 2,
+          stroke: color_of_relation[link["relation"]],
+        },
       });
     }
 
@@ -122,6 +133,10 @@ function updateNodes(poi) {
         source: link["source_id"],
         target: link["target_id"],
         label: link["relation"],
+        style: {
+          strokeWidth: 2,
+          stroke: color_of_relation[link["relation"]],
+        },
       });
     }
   }
