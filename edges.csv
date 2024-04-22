@@ -1,0 +1,872 @@
+"id","source_id","Slastname","Sfirstname","target_id","Tlastname","Tfirstname","relation","collab"
+"1","nf7720308","Abhisheki","Balwantrao","nm7720308","Abhisheki","Jitendra","parent-child","0"
+"2","nf7720308","Abhisheki","Balwantrao","nf0542195","Mangeshkar","Dinanath","sibling","0"
+"3","nm7720308","Abhisheki","Jitendra","nf7720309","Abhisheki","Shounak","parent-child","0"
+"4","nm1027679","Adarsh","B. K.","nm2104913","Adarsh","Taran","parent-child","0"
+"5","nm2655625","Agnihotri","Alvira Khan","nm0006795","Khan","Salman","sibling","22"
+"6","nm0013158","Agnihotri","Atul","nm2655625","Agnihotri","Alvira Khan","marriage","6"
+"7","nm0013159","Agnihotri","Rati","nm4858207","Virwani","Tanuj","parent-child","1"
+"8","nm0038020","Ahuja","Arun","nm0332871","Ahuja","Govinda","parent-child","0"
+"9","nm0038020","Ahuja","Arun","nm0222469","Ahuja","Nirmala","marriage","4"
+"10","nm0222469","Ahuja","Nirmala","nm0332871","Ahuja","Govinda","parent-child","0"
+"11","nm0015287","Akhtar","Javed","nm1027719","Akhtar","Farhan","parent-child","19"
+"12","nm0015287","Akhtar","Javed","nm0015295","Akhtar","Zoya","parent-child","11"
+"14","nm0004699","Ali","Lucky","nm1815193","Ali","Pucky","sibling","1"
+"15","nm5934356","Ali","Macky","nm0004699","Ali","Lucky","sibling","2"
+"16","nm5934356","Ali","Macky","nm1815193","Ali","Pucky","sibling","0"
+"17","nf0576454","Ali","Madhu","nm0004699","Ali","Lucky","parent-child","0"
+"18","nf0576454","Ali","Madhu","nm5934356","Ali","Macky","parent-child","0"
+"19","nf0576454","Ali","Madhu","nm1815193","Ali","Pucky","parent-child","0"
+"20","nf0576454","Ali","Madhu","nm0576454","Ali","Mehmood","marriage","0"
+"21","nm0576454","Ali","Mehmoood","nf0576455","Ali","(Baby) Ginny","parent-child","0"
+"22","nm0576454","Ali","Mehmood","nm0004699","Ali","Lucky","parent-child","6"
+"23","nm0576454","Ali","Mehmood","nm5934356","Ali","Macky","parent-child","2"
+"24","nm0576454","Ali","Mehmood","nm1815193","Ali","Pucky","parent-child","1"
+"25","nm0576454","Ali","Mehmood","nm0612618","Mumtaz","Minoo","sibling","16"
+"26","nm0019462","Ali","Mumtaz","nm0019402","Ali","Anwar","parent-child","1"
+"27","nm0019462","Ali","Mumtaz","nm0576454","Ali","Mehmood","parent-child","5"
+"28","nm0019462","Ali","Mumtaz","nm0612618","Mumtaz","Minoo","parent-child","1"
+"31","nf0080321","Ali","Shirin","nf0080322","Ali","Poornima","sibling","0"
+"32","nf0080321","Ali","Shirin","nm0080315","Bhatt","Mahesh","parent-child","0"
+"33","nf0080321","Ali","Shirin","nm0080319","Bhatt","Mukesh","parent-child","0"
+"36","nm5934357","Ali","Tracy","nf0576455","Ali","(Baby) Ginny","parent-child","0"
+"37","nm5934357","Ali","Tracy","nm0576454","Ali","Mehmood","marriage","1"
+"38","nm8562373","Ambani","Anil","nm0612870","Ambani","Tina","marriage","0"
+"39","nm0025399","Amrohi","Kamal","nm2173354","Amrohi","Tajdar","parent-child","1"
+"40","nm2173354","Amrohi","Tajdar","nm6235678",,,"parent-child","1"
+"41","nm2173354","Amrohi","Tajdar","nm4141638",,,"parent-child","2"
+"42","nm2173354","Amrohi","Tajdar","nf0451261","Amrohi","Tajdar's wife","marriage","0"
+"43","nf0451261","Amrohi","Tajdar's wife","nm0451261","Khan","Mazhar","sibling","0"
+"44","nm1027791","Anand","Bittu","nm1893457",,,"parent-child","0"
+"45","nm1027791","Anand","Bittu","nm0025627","Anand","Tinnu","sibling","3"
+"47","nm0025608","Anand","Chetan","nm0025629","Anand","Vijay","sibling","7"
+"48","nm0007147","Anand","Dev","nm0025608","Anand","Chetan","sibling","9"
+"49","nm0007147","Anand","Dev","nm0025629","Anand","Vijay","sibling","17"
+"50","nm0007147","Anand","Dev","nm0440235","Karthik","Kalpana","marriage","12"
+"51","nm0025613","Anand","Inder Raj","nm1027791","Anand","Bittu","parent-child","2"
+"52","nm0025613","Anand","Inder Raj","nm0025627","Anand","Tinnu","parent-child","4"
+"54","nm0025628","Anand","Uma","nm0025617","Anand","Ketan","parent-child","0"
+"55","nm0037019","Arora","Malaika","nm1147677","Arora","Amrita","sibling","4"
+"56","nm0037019","Arora","Malaika","nm0451170","Khan","Arbaaz","marriage","10"
+"57","nm1201873","Azim","Neelima","nm1372788",,,"parent-child","1"
+"58","nm1201873","Azim","Neelima","nm0438488","Kapur","Pankaj","marriage","0"
+"59","nm1201873","Azim","Neelima","nm2020109",,,"parent-child","0"
+"60","nm0044337","Azmi","Baba","nm0044343","Azmi","Tanvi","marriage","2"
+"61","nm0000818","Azmi","Shabana","nm0015287","Akhtar","Javed","marriage","21"
+"62","nm0000818","Azmi","Shabana","nm0044337","Azmi","Baba","sibling","3"
+"63","nm1318321","Babbar","Nadira","nm1191646",,,"parent-child","0"
+"64","nm1318321","Babbar","Nadira","nm1318320",,,"parent-child","1"
+"65","nm0044796","Babbar","Raj","nm1191646","Babbar","Arya","parent-child","0"
+"66","nm0044796","Babbar","Raj","nm1318321","Babbar","Nadira","marriage","4"
+"67","nm0044796","Babbar","Raj","nm3070408","Babbar","Prateik","parent-child","0"
+"68","nm0044796","Babbar","Raj","nm0665599","Patil","Smita","marriage","21"
+"69","nm0044796","Babbar","Raj","nm1318320","Babbar","Juhi","parent-child","2"
+"70","nm0045393","Bachchan","Abhishek","nm0706787","Bachchan","Aishwarya Rai","marriage","17"
+"71","nm0045393","Bachchan","Abhishek","nf0000821","Nanda","Shweta Bachchan","sibling","0"
+"72","nf0000822","Bachchan","Ajitabh","nf0000823","Bachchan","Naina","parent-child","0"
+"73","nm0000821","Bachchan","Amitabh","nm0045393","Bachchan","Abhishek","parent-child","26"
+"74","nm0000821","Bachchan","Amitabh","nf0000821","Nanda","Shweta Bachchan","parent-child","0"
+"75","nm0045394","Bachchan","Harivansh Rai","nf0000822","Bachchan","Ajitabh","parent-child","0"
+"76","nm0080149","Bachchan","Jaya","nm0045393","Bachchan","Abhishek","parent-child","6"
+"77","nm0080149","Bachchan","Jaya","nm0000821","Bachchan","Amitabh","marriage","21"
+"78","nm0080149","Bachchan","Jaya","nf0000821","Nanda","Shweta Bachchan","parent-child","0"
+"79","nf0000823","Bachchan","Naina","nm1577858","Kapoor","Kunal","marriage","0"
+"80","nf0000820","Bachchan","Teji","nf0000822","Bachchan","Ajitabh","parent-child","0"
+"81","nf0000820","Bachchan","Teji","nm0000821","Bachchan","Amitabh","parent-child","0"
+"82","nf0000820","Bachchan","Teji","nm0045394","Bachchan","Harivansh","marriage","0"
+"83","nm0638295","Bahl","Nutan","nm0046894","Bahl","Mohnish","parent-child","3"
+"85","nm0047009","Bai","Rattan","nm0006358","Samarth","Shobhna","parent-child","1"
+"86","nf0047009","Bai","Rattan's Brother","nm0419787","Jaywant","Nalini","parent-child","0"
+"87","nm0080251","Bharti","Divya","nm0618898","Nadiadwala","Sajid","marriage","4"
+"88","nf0080323","Bhatt","Heena","nm1887138","Suri","Mohit","parent-child","0"
+"89","nf0080323","Suri","Heena","nm2124966","Suri","Smiley","parent-child","0"
+"90","nm0080315","Bhatt","Mahesh","nm1017633","Bhatt","Alia","parent-child","3"
+"91","nm0080315","Bhatt","Mahesh","nf0080323","Bhatt","Heena","sibling","0"
+"92","nm0080315","Bhatt","Mahesh","nm0080324","Bhatt","Pooja","parent-child","21"
+"94","nm0080315","Bhatt","Mahesh","nf0080318","Darshan","Sheila","sibling","0"
+"95","nm0080315","Bhatt","Mahesh","nm0713618","Razdan","Sony","marriage","17"
+"96","nm0080319","Bhatt","Mukesh","nf0080323","Bhatt","Heena","sibling","0"
+"97","nm0080319","Bhatt","Mukesh","nm0080315","Bhatt","Mahesh","sibling","42"
+"99","nm0080319","Bhatt","Mukesh","nf0080318","Darshan","Sheila","sibling","0"
+"100","nm0080320","Bhatt","Nanabhai","nf0080321","Ali","Shirin","marriage","0"
+"101","nm0080320","Bhatt","Nanabhai","nf0080323","Bhatt","Heena","parent-child","0"
+"102","nm0080320","Bhatt","Nanabhai","nm0080315","Bhatt","Mahesh","parent-child","3"
+"103","nm0080320","Bhatt","Nanabhai","nm0080319","Bhatt","Mukesh","parent-child","1"
+"105","nm0080320","Bhatt","Nanabhai","nf0080318","Darshan","Sheila","parent-child","0"
+"106","nm0080324","Bhatt","Pooja","nm1017633","Bhatt","Alia","sibling","1"
+"107","nm0080325","Bhatt","Pravin","nm0080333","Bhatt","Vikram","parent-child","25"
+"109","nm0080332","Bhatt","Vijay","nm0080325","Bhatt","Pravin","parent-child","5"
+"110","nm0080345","Bhattacharya","Basu","nm1023986","Bhattacharya","Aditya","parent-child","0"
+"111","nm0080345","Bhattacharya","Basu","nm1125302",,,"marriage","3"
+"112","nm1125302","Bhattacharya","Rinki Roy","nm1023986","Bhattacharya","Aditya","parent-child","0"
+"113","nm0080427","Bhosle","Asha","nm1599231",,,"sibling","3"
+"114","nm0080427","Bhosle","Asha","nm0542195","Mangeshkar","Hridaynath","sibling","5"
+"115","nm0149822","Chakraborty","Mithun","nm3002347","Chakraborty","Mimoh","parent-child","3"
+"118","nm0084428","Chatterjee","Biswajit","nm0154146","Chatterjee","Prosenjit","parent-child","2"
+"119","nm0004487","Chawla","Juhi","nf0004487","Mehta","Jay","marriage","0"
+"120","nm0159147","Chopra","Aditya","nm0159167","Chopra","Uday","sibling","13"
+"121","nm0159147","Chopra","Aditya","nm0611552","Mukherjee","Rani","marriage","13"
+"122","nm0159148","Chopra","B. R. ","nm1531347","Chopra","Raj","sibling","6"
+"123","nm0159148","Chopra","B. R. ","nm0159150","Chopra","Dharam Raj","sibling","114"
+"124","nm0159148","Chopra","B. R. ","nm0159162","Chopra","Ravi","parent-child","114"
+"125","nm0159150","Chopra","Dharam Raj","nm1531347","Chopra","Raj","sibling","6"
+"126","nf0159149","Chopra","Pamela","nm0159147","Chopra","Aditya","parent-child","0"
+"127","nf0159149","Chopra","Pamela","nm0159167","Chopra","Uday","parent-child","0"
+"128","nm0159159","Chopra","Prem","nf0159160","Chopra","Prerana","parent-child","0"
+"129","nf0159160","Chopra","Prerana","nm0430817","Joshi","Sharman","marriage","0"
+"130","nm1231899","Chopra","Priyanka","nm4495174","Chopra","Parineeti","sibling","3"
+"131","nm1531347","Chopra","Raj","nm2106220",,,"parent-child","0"
+"132","nm0007181","Chopra","Yash","nm0159147","Chopra","Aditya","parent-child","29"
+"133","nm0007181","Chopra","Yash","nm0159148","Chopra","B. R.","sibling","9"
+"134","nm0007181","Chopra","Yash","nm0159150","Chopra","Dharam Raj","sibling","7"
+"135","nm0007181","Chopra","Yash","nf0159149","Chopra","Pamela","marriage","0"
+"136","nm0007181","Chopra","Yash","nm1531347","Chopra","Raj","sibling","1"
+"137","nm0007181","Chopra","Yash","nm0159167","Chopra","Uday","parent-child","14"
+"138","nf0080318","Darshan","Sheila","nm0201710","Darshan","Dharmesh","parent-child","0"
+"139","nf0080318","Darshan","Sheila","nm0201713","Darshan","Suneil","parent-child","0"
+"140","nm0004429","Deol","Dharmendra","nm0219967","Deol","Bobby","parent-child","12"
+"141","nm0004429","Deol","Dharmendra","nm0219968","Deol","Esha","parent-child","1"
+"142","nm0004429","Deol","Dharmendra","nm0004564","Deol","Hema Malini","marriage","45"
+"143","nm0004429","Deol","Dharmendra","nm0219971","Deol","Sunny","parent-child","22"
+"144","nm0219968","Deol","Esha","nm0219967","Deol","Bobby","sibling","0"
+"145","nm0219968","Deol","Esha","nm0219971","Deol","Sunny","sibling","0"
+"146","nm0004564","Deol","Hema Malini","nm0219968","Deol","Esha","parent-child","5"
+"147","nm0219971","Deol","Sunny","nm0219967","Deol","Bobby","sibling","16"
+"148","nm0219971","Deol","Sunny","nm5376616","Deol","Karan","parent-child","3"
+"149","nm1216260","Desai","Kanchan","nm0220823","Desai","Ketan","marriage","1"
+"150","nm0220828","Desai","Manmohan","nm0220823","Desai","Ketan","parent-child","11"
+"151","nm1299011","Deshmukh","Riteish","nm1299510",,,"marriage","6"
+"152","nm0222426","Devgan","Ajay","nm0222427","Devgan","Anil","sibling","10"
+"153","nm0004418","Mukherjee","Kajol","nm0849500","Mukherjee","Tanisha","sibling","0"
+"154","nm0222428","Devgan","Veeru","nm0222426","Devgan","Ajay","parent-child","13"
+"155","nm0222428","Devgan","Veeru","nm0222427","Devgan","Anil","parent-child","4"
+"156","nm0223521","Dhawan","Anil","nm0223522","Dhawan","David","sibling","14"
+"157","nm0223521","Dhawan","Anil","nm2102682","Dhawan","Siddharth","parent-child","0"
+"158","nm0223522","Dhawan","David","nm2539328","Dhawan","Rohit","parent-child","1"
+"159","nm0223522","Dhawan","David","nm3315894","Dhawan","Varun","parent-child","4"
+"160","nm3315894","Dhawan","Varun","nm2539328",,,"sibling","2"
+"161","nm0244870","Dutt","Guru","nm0244869","Dutt","Geeta","marriage","14"
+"162","nm0244870","Dutt","Guru","nf0244870","Lajmi","Lalita","sibling","0"
+"163","nf0004571","Dutt","Namrata","nm0310173","Gaurav","Kumar","marriage","0"
+"164","nm0004291","Dutt","Nargis","nf0004571","Dutt","Namrata","parent-child","0"
+"165","nm0004291","Dutt","Nargis","nm3571404","Dutt","Priya","parent-child","0"
+"166","nm0004291","Dutt","Nargis","nm0004569","Dutt","Sanjay","parent-child","1"
+"167","nm3571404","Dutt","Priya","nf0004571","Dutt","Namrata","sibling","0"
+"168","nm0004569","Dutt","Sanjay","nf0004571","Dutt","Namrata","sibling","0"
+"169","nm0004569","Dutt","Sanjay","nm3571404","Dutt","Priya","sibling","0"
+"170","nm0004570","Dutt","Sunil","nf0004571","Dutt","Namrata","parent-child","0"
+"171","nm0004570","Dutt","Sunil","nm0004291","Dutt","Nargis","marriage","2"
+"172","nm0004570","Dutt","Sunil","nm3571404","Dutt","Priya","parent-child","0"
+"173","nm0004570","Dutt","Sunil","nm0004569","Dutt","Sanjay","parent-child","8"
+"174","nm0006369","Ganguly","Ashok Kumar","nm0415526","Jaffrey","Bharti","parent-child","0"
+"176","nm0474822","Ganguly","Kishore Kumar","nm0151293","Chandravarkar","Leena","marriage","25"
+"177","nm0474822","Ganguly","Kishore Kumar","nm0474776","Ganguly","Amit Kumar","parent-child","82"
+"178","nm5578266","Govil","Hoshang","nm4640704",,,"parent-child","0"
+"179","nm0045141","Govil","Tabassum","nm5578266","Govil","Hoshang","parent-child","2"
+"180","nf4468244","Govil","Vijay","nm4468244",,,"sibling","0"
+"181","nf4468244","Govil","Vijay","nm5578266",,,"parent-child","0"
+"182","nf4468244","Govil","Vijay","nm0045141","Govil","Tabassum","marriage","0"
+"183","nm0346614","Guha Thakurta","Ruma","nm0474776","Ganguly","Kishore Kumar","parent-child","4"
+"184","nm0346614","Guha Thakurta","Ruma","nm0474822","Ganguly","Kishore Kumar","marriage","6"
+"186","nm0368098","Hashmi","Jamal","nm2226774","Hashmi","Farha Naaz","parent-child","0"
+"187","nm0368098","Hashmi","Jamal","nm0007102","Khanna","Twinkle","parent-child","0"
+"188","nm0409790","Irani","Honey","nm1027719","Akhtar","Farhan","parent-child","1"
+"189","nm0409790","Irani","Honey","nm0015287","Akhtar","Javed","marriage","5"
+"190","nm0409790","Irani","Honey","nm0015295","Akhtar","Zoya","parent-child","1"
+"191","nm0409790","Irani","Honey","nm0409787","Irani","Daisy","sibling","5"
+"192","nm0409790","Irani","Honey","nm5055250","Irani","Menaka","sibling","0"
+"193","nm5055250","Irani","Menka","nm0007134","Khan","Farah","parent-child","0"
+"194","nm5055250","Irani","Menka","nm0436967","Khan","Kamran","marriage","0"
+"195","nm5055250","Irani","Menka","nm1349318",,,"parent-child","0"
+"196","nm0415526","Jaffrey","Bharti","nm0665351","Patel","Anuradha","parent-child","0"
+"197","nf4221665","Jain","Rima","nm8938569",,,"parent-child","0"
+"198","nf4221665","Jain","Rima","nm4221666",,,"parent-child","0"
+"199","nm2140421","Jariwala","Kishore Kumar","nm0474876","Kumar","Sanjeev","sibling","2"
+"200","nm0424101","Johar","Hiroo","nm0424103","Johar","Karan","parent-child","36"
+"201","nm0424105","Johar","Yash","nm0424101","Johar","Hiroo","marriage","9"
+"202","nm0424105","Johar","Yash","nm0424103","Johar","Karan","parent-child","4"
+"203","nm0430817","Joshi","Sharman","nm2265217","Roy","Manasi Joshi","sibling","0"
+"204","nm0438092","Kapadia","Dimple","nm0438098","Kapadia","Simple","sibling","7"
+"205","nm0438463","Kapoor","Anil","nm0438470","Kapoor","Boney","sibling","13"
+"206","nm0438463","Kapoor","Anil","nm7561367","Kapoor","Harshvardhan","parent-child","2"
+"207","nm0438463","Kapoor","Anil","nm3608045","Kapoor","Rhea","parent-child","5"
+"208","nm0438463","Kapoor","Anil","nm0438503","Kapoor","Sanjay","sibling","4"
+"209","nm0438463","Kapoor","Anil","nm2128238","Kapoor","Sonam","parent-child","7"
+"210","nm0044999","Kapoor","Babita","nm0004626","Kapoor","Kareena","parent-child","0"
+"212","nm0044999","Kapoor","Babita","nm0006433","Kapoor","Karisma","parent-child","0"
+"214","nm0438470","Kapoor","Boney","nm1819083","Kapoor","Arjun","parent-child","6"
+"215","nm0438470","Kapoor","Boney","nm0004437","Kapoor","Sridevi","marriage","189"
+"216","nm0050188","Kapoor","Geeta Bali","nm1216260","Desai","Kanchan","parent-child","0"
+"217","nm0050188","Kapoor","Geeta Bali","nm1207480","Kapoor","Aditya Raj","parent-child","0"
+"218","nm0419707","Kapoor","Jayasudha","nm1629078","Kapoor","Nitin","marriage","3"
+"219","nm0420090","Kapoor","Jeetendra","nm0438471","Kapoor","Ekta","parent-child","5"
+"220","nm0420090","Kapoor","Jeetendra","nf0420090","Kapoor","Shashi/Madhu","sibling","0"
+"221","nm0420090","Kapoor","Jeetendra","nm0438506","Kapoor","Shobha","marriage","4"
+"222","nm0420090","Kapoor","Jeetendra","nm0969428","Kapoor","Tusshar","parent-child","3"
+"223","nm0447557","Kendall","Jennifer","nm0004430","Kapoor","Karan","parent-child","3"
+"224","nm0004626","Kapoor","Kareena","nm0006433","Kapoor","Karisma","sibling","6"
+"225","nm0004626","Kapoor","Kareena","nm0451307","Khan","Saif Ali","marriage","14"
+"226","nm0438481","Kapoor","Mahendra","nm1225454","Kapoor","Rohan","parent-child","0"
+"227","nm0802183","Kapoor","Neetu Singh","nm1633541",,,"parent-child","2"
+"228","nm0004432","Kapoor","Prithviraj","nm0004292","Kapoor","Raj","parent-child","8"
+"229","nm0004432","Kapoor","Prithviraj","nm0004433","Kapoor","Shammi","parent-child","4"
+"230","nm0004432","Kapoor","Prithviraj","nm0004434","Kapoor","Shashi","parent-child","1"
+"232","nm0004292","Kapoor","Raj","nf4221665","Jain","Rima","parent-child","0"
+"233","nm0004292","Kapoor","Raj","nm2049722","Kapoor","Krishna","marriage","1"
+"234","nm0004292","Kapoor","Raj","nm0196380","Kapoor","Randhir","parent-child","11"
+"235","nm0004292","Kapoor","Raj","nm0438501","Kapoor","Rishi","parent-child","11"
+"236","nm0004292","Kapoor","Raj","nf0004293","Nanda","Ritu","parent-child","0"
+"237","nm0004292","Kapoor","Raj","nm0004433","Kapoor","Shammi","sibling","8"
+"238","nm0004292","Kapoor","Raj","nm0004434","Kapoor","Shashi","sibling","7"
+"239","nm0438497","Kapoor","Rajiv","nf4221665","Jain","Rima","sibling","0"
+"240","nm0438497","Kapoor","Rajiv","nf0004293","Nanda","Ritu","sibling","0"
+"241","nm0196380","Kapoor","Randhir","nf4221665","Jain","Rima","sibling","0"
+"242","nm0196380","Kapoor","Randhir","nm0044999","Kapoor","Babita","marriage","2"
+"243","nm0196380","Kapoor","Randhir","nm0006433","Kapoor","Karisma","parent-child","0"
+"244","nm0196380","Kapoor","Randhir","nf0004293","Nanda","Ritu","sibling","0"
+"245","nm0438501","Kapoor","Rishi","nf4221665","Jain","Rima","sibling","0"
+"246","nm0438501","Kapoor","Rishi","nm0802183","Kapoor","Neetu Singh","marriage","28"
+"247","nm0438501","Kapoor","Rishi","nf0004293","Nanda","Ritu","sibling","0"
+"248","nm0438504","Kapoor","Sanjana","nm1023986","Bhattacharya","Aditya","marriage","0"
+"249","nm0438504","Kapoor","Sanjana","nm2838280",,,"marriage","0"
+"251","nm0007106","Kapoor","Shakti","nm3601766","Kapoor","Shraddha","parent-child","1"
+"252","nm0007106","Kapoor","Shakti","nm4948769","Kapoor","Siddhanth","parent-child","2"
+"253","nm0007106","Kapoor","Shakti","nm2552990","Kolhapure","Shivangi","marriage","3"
+"254","nm0004433","Kapoor","Shammi","nm0050188","Bali","Geeta","marriage","6"
+"255","nm0004433","Kapoor","Shammi","nm1216260","Desai","Kanchan","parent-child","1"
+"256","nm0004433","Kapoor","Shammi","nm1207480","Kapoor","Aditya Raj","parent-child","1"
+"257","nm0004434","Kapoor","Shashi","nm0447557","Kapoor","Jennifer Kendal","marriage","15"
+"258","nm0004434","Kapoor","Shashi","nm0004430","Kapoor","Karan","parent-child","5"
+"259","nf0420090","Kapoor","Sashi/Madhu","nm0438461","Kapoor","Abhishek","parent-child","0"
+"260","nm0004437","Kapoor","Sridevi","nm9427099","Kapoor","Janhvi","parent-child","1"
+"261","nm0438501","Kapoor","Rishi","nm1633541",,,"parent-child","7"
+"262","nm0438488","Kapur","Pankaj","nm1372788","Kapur","Sanah","parent-child","2"
+"263","nm0438488","Kapur","Pankaj","nm6886938","Kapoor","Shahid","parent-child","1"
+"264","nf0001408","Kapur","Sheel Kanta","nm0025608","Anand","Vijay","sibling","0"
+"265","nf0001408","Kapur","Sheel Kanta","nm0007147","Anand","Dev","sibling","0"
+"266","nf0001408","Kapur","Sheel Kanta","nm0025629","Anand","Chetan","sibling","0"
+"267","nf0001408","Kapur","Sheel Kanta","nm0001408","Kapur","Shekhar","parent-child","0"
+"268","nm0001408","Kapur","Shekhar","nf0001410","Kapur","Aruna","sibling","0"
+"269","nm0001408","Kapur","Shekhar","nf0001409","Kapur","Neelu","sibling","0"
+"270","nm0451148","Khan","Aamir","nm0451207","Khan","Faisal","sibling","5"
+"271","nm0451148","Khan","Aamir","nm1539779","Khan",,"sibling","2"
+"272","nm0023863","Khan","Amanullah","nm0023868","Aman","Zeenat","parent-child","0"
+"273","nm0451170","Khan","Arbaaz","nm0037019","Khan","Malaika Arora","marriage","10"
+"274","nm0451170","Khan","Arbaaz","nm0006795","Khan","Salman","sibling","18"
+"275","nm0007134","Khan","Farah","nm1145655","Kunder","Sirish","marriage","7"
+"276","nm0451211","Khan","Feroze","nm0007228","Khan","Fardeen","parent-child","5"
+"277","nm0451215","Khan","Gauri","nm0451175","Khan","Aryan","parent-child","0"
+"278","nm0436967",,"Kamran","nm0007134","Khan","Farah","parent-child","0"
+"279","nm0436967",,"Kamran","nm1349318","Khan","Sajid","parent-child","0"
+"280","nm0451261","Khan","Mazhar","nm0023868","Aman","Zeenat","marriage","5"
+"281","nm0403826","Khan","Nasir Hussain","nm0451257","Khan","Mansoor","parent-child",NULL
+"282","nm0403826","Khan","Nasir Hussain","nm0403981","Khan","Tahir Hussain","sibling","7"
+"284","nm0451307","Khan","Saif Ali ","nm1675786","Khan",,"sibling","2"
+"285","nm1349318","Khan","Sajid","nm0007134","Khan","Farah","sibling","11"
+"286","nm0451311","Khan","Salim","nm2655625","Khan",,"parent-child",NULL
+"287","nm0451311","Khan","Salim","nm0451170","Khan","Arbaaz","parent-child",NULL
+"288","nm0451311","Khan","Salim","nm0374974","Khan","Helen","marriage",NULL
+"289","nm0451311","Khan","Salim","nm0006795","Khan","Salman","parent-child",NULL
+"290","nm0451311","Khan","Salim","nm0451326","Khan","Sohail","parent-child",NULL
+"292","nm0451313","Khan","Sanjay","nm1139068",,,"sibling",NULL
+"293","nm0451313","Khan","Sanjay","nm0451211","Khan","Feroze","sibling",NULL
+"294","nm0451313","Khan","Sanjay","nm1300301",,,"parent-child",NULL
+"295","nm0451321","Khan","Shah Rukh","nm0451175","Khan","Aryan","parent-child",NULL
+"296","nm0451321","Khan","Shah Rukh","nm0451215","Khan","Gauri","marriage",NULL
+"297","nm0403981","Khan","Tahir Hussain","nm0451148","Khan","Aamir","parent-child",NULL
+"298","nm0403981","Khan","Tahir Hussain","nm0451207","Khan","Faisal","parent-child",NULL
+"299","nm2020109","Khatter","Ishaan","nm1372788",,,"sibling",NULL
+"300","nm1279922","Khatter","Rajesh","nm2020109","Khatter","Ishaan","parent-child",NULL
+"301","nm0451600","Kher ","Anupam","nm0451601","Kher","Kirron","marriage",NULL
+"302","nm0451600","Kher ","Anupam","nm1199508",,,"sibling",NULL
+"303","nm0451601","Kher ","Kirron","nm3071488",,,"parent-child",NULL
+"305","nm0451846","Khosla","Raj","nm0527453","Luthria","Milan","parent-child",NULL
+"306","nm0456096","Kiran","Usha","nm0044343","Azmi","Tanvi","parent-child",NULL
+"307","nf7720306","Kolhapure","Krishnarao","nf7720307","Abhisheki","s/Balwantrao","sibling","0"
+"308","nf7720306","Kolhapure","Krishnarao","nm9181878",,,"parent-child","0"
+"309","nm0464075","Kolhapure","Padmini","nm2552990",,,"sibling",NULL
+"310","nm9181878","Kolhapure","Pandharinath","nm0464075","Kolhapure","Padmini","parent-child",NULL
+"311","nm9181878","Kolhapure","Pandharinath","nm2552990","Kolhapure","Shivangi","parent-child",NULL
+"312","nm9181878","Kolhapure","Pandharinath","nm1339267","Kolhapure","Tejaswini","parent-child",NULL
+"313","nm1339267","Kolhapure","Tejaswini","nm0464075","Kolhapure","Padmini","sibling",NULL
+"314","nm1339267","Kolhapure","Tejaswini","nm2552990",,,"sibling",NULL
+"315","nm0006348","Kumar","Rajendra","nm0310173","Gaurav","Kumar","parent-child",NULL
+"316","nm0474932","Kumari","Meena","nf0576454","Ali","Madhu","sibling","0"
+"317","nm0474932","Kumari","Meena","nm0025399","Amrohi","Kamal","marriage",NULL
+"318","nf0244870","Lajmi","Lalita","nm0493923","Lajmi","Kalpana","parent-child","0"
+"319","nf0527451","Luthria","Arjun","nm0527453","Luthria","Milan","parent-child","0"
+"322","nf0527451","Luthria","Arjun","nm0837199","Luthria","Sudhir","sibling","0"
+"323","nf0527452","Luthria","Milan's Mother","nf0527451","Luthria","Arjun","marriage","0"
+"324","nf0527452","Luthria","Milan's Mother","nm0527453","Luthria","Milan","parent-child","0"
+"325","nm0622193","Malhotra","Prem Nath","nm2049722",,,"sibling",NULL
+"326","nm0622193","Malhotra","Prem Nath","nm0471427","Krishan","Prem","parent-child",NULL
+"327","nm0622193","Malhotra","Prem Nath","nm0961448","Malhotra","Narendra Nath","sibling",NULL
+"328","nm0622193","Malhotra","Prem Nath","nm0706790","Rai","Bina","marriage",NULL
+"329","nm0707398","Malhotra","Rajendra Nath","nm0961448",,,"sibling",NULL
+"330","nm0707398","Malhotra","Rajendra Nath","nm0622193","Malhotra","Prem Nath","sibling",NULL
+"331","nf0542195","Mangeshkar","Dinanath","nm0080427","Bhosle","Asha","parent-child","0"
+"332","nf0542195","Mangeshkar","Dinanath","nm1599231",,,"parent-child","0"
+"333","nf0542195","Mangeshkar","Dinanath","nm0542195","Mangeshkar","Hridaynath","parent-child","0"
+"334","nf0542195","Mangeshkar","Dinanath","nm0542196","Mangeshkar","Lata","parent-child","0"
+"335","nf0542195","Mangeshkar","Dinanath","nm0542197","Mangeshkar","Usha","parent-child","0"
+"336","nm0542195","Mangeshkar","Hridaynath","nm1599231",,,"sibling",NULL
+"337","nm0542195","Mangeshkar","Hridaynath","nm1599231",,,"sibling",NULL
+"338","nm0542195","Mangeshkar","Hridaynath","nm0542197","Mangeshkar","Usha","sibling",NULL
+"339","nm0542196","Mangeshkar","Lata","nm0080427","Bhosle","Asha","sibling",NULL
+"340","nm0542196","Mangeshkar","Lata","nm1599231",,,"sibling",NULL
+"341","nm0542196","Mangeshkar","Lata","nm0542195","Mangeshkar","Hridaynath","sibling",NULL
+"342","nm0542196","Mangeshkar","Lata","nm0542197","Mangeshkar","Usha","sibling",NULL
+"343","nm0542197","Mangeshkar","Usha","nm0080427","Bhosle","Asha","sibling",NULL
+"344","nm0542197","Mangeshkar","Usha","nm1599231",,,"sibling",NULL
+"345","nm0542197","Mangeshkar","Usha","nm0542195","Mangeshkar","Hridaynath","sibling",NULL
+"346","nm0007107","Matondkar","Urmila","nm3473452","Akhtar","Mohsin","marriage",NULL
+"347","nm0971111","Mukherjee","Deb","nm2209781",,,"parent-child",NULL
+"348","nm0611535","Mukherjee","Joy","nm0971111","Mukherjee","Deb","sibling",NULL
+"349","nm2752803","Mukherjee","Krishna","nm5619229",,,"parent-child",NULL
+"350","nm2752803","Mukherjee","Krishna","nm0611552","Mukherjee","Rani","parent-child",NULL
+"351","nm0611550","Mukherjee","Ram","nm2752803",,,"marriage",NULL
+"352","nm0611550","Mukherjee","Ram","nm5619229",,,"parent-child",NULL
+"353","nm0611550","Mukherjee","Ram","nm0611552","Mukherjee","Rani","parent-child",NULL
+"354","nf1642510","Mukherjee","Ravindramohan","nm0611550","Mukherjee","Ram","parent-child","0"
+"355","nf1642510","Mukherjee","Ravindramohan","nm1860887",,,"parent-child","0"
+"356","nm1642511","Mukherjee","Sashadhar","nm0611535","Mukherjee","Joy","parent-child",NULL
+"357","nm1642511","Mukherjee","Sashadhar","nm4554077",,,"marriage",NULL
+"358","nm1642511","Mukherjee","Sashadhar","nm1126884",,,"parent-child",NULL
+"359","nm4554077","Mukherjee","Sati devi","nm0474780","Ganguly","Anoop Kumar","sibling",NULL
+"360","nm4554077","Mukherjee","Sati devi","nm0006369",,,"sibling",NULL
+"361","nm4554077","Mukherjee","Sati devi","nm0474822","Ganguly","Kishore Kumar","sibling",NULL
+"362","nm1642511","Mukherjee","Sashadhar","nf1642510","Mukherjee","Ravindramohan","sibling","0"
+"363","nm1126884","Mukherjee","Shomu","nm0004418","Mukherjee","Kajol","parent-child",NULL
+"364","nm1126884","Mukherjee","Shomu","nm0611535","Mukherjee","Joy","sibling",NULL
+"365","nm1126884","Mukherjee","Shomu","nm0849500","Mukherjee","Tanisha","parent-child",NULL
+"366","nm1126884","Mukherjee","Shomu","nm0849863","Mukherjee","Tanuja","marriage",NULL
+"367","nm0849863","Mukherjee","Tanuja","nm0004418","Mukherjee","Kajol","parent-child",NULL
+"368","nm0849863","Mukherjee","Tanuja","nm0849500","Mukherjee","Tanisha","parent-child",NULL
+"369","nm1195705","Nadiadwala","A. K.","nm1396405",,,"parent-child",NULL
+"371","nm1396405","Nadiadwala","H. A.","nm0618898","Nadiadwala","Sajid","parent-child",NULL
+"372","nf0004293","Nanda","Ritu","nf4221665","Jain","Rima","sibling","0"
+"373","nf0004293","Nanda","Ritu","nf0004294","Nanda","Nikhil","parent-child","0"
+"374","nf0000821","Bachchan","Shweta","nf0004294","Nanda","Nikhil","marriage","0"
+"375","nm0622196","Nath","Rakesh","nm0707534","Nath","Reema ","marriage",NULL
+"376","nm0707534","Nath","Reema ","nm0992664","Nath","Karan","parent-child",NULL
+"378","nm2936282","Nijjar","Jai Singh","nm5478232",,,"parent-child",NULL
+"379","nm0632615","Nischol","Navin","nf0001409","Kapur","Neelu","marriage","0"
+"380","nm0643350","Oberoi","Suresh","nm1059103",,,"parent-child",NULL
+"381","nf0643350","Oberoi","Suresh's brother","nm0643348","Oberoi","Akshay","parent-child","0"
+"382","nm2138653","Padukone","Deepika","nm3828984","Singh","Ranvir","marriage",NULL
+"383","nm0659156","Pancholi","Aditya","nm4808460",,,"parent-child",NULL
+"384","nm0659156","Pancholi","Aditya","nm0906226",,,"marriage",NULL
+"385","nm1637738","Parekh","Sudha","nm0661239","Parekh","Asha","parent-child",NULL
+"386","nm0665351","Patel","Anuradha","nm3389361",,,"sibling",NULL
+"387","nm0665351","Patel","Anuradha","nm1942776",,,"marriage",NULL
+"388","nm0665544","Pathak","Dina","nm0665550","Pathak","Ratna","parent-child",NULL
+"389","nm0665544","Pathak","Dina","nm0665554","Pathak","Supriya","parent-child",NULL
+"390","nm0665550","Pathak","Ratna","nm1437485",,,"parent-child",NULL
+"391","nm0665550","Pathak","Ratna","nm3865073",,,"parent-child",NULL
+"392","nm0665554","Pathak","Supriya","nm0438488","Kapur","Pankaj","marriage",NULL
+"393","nm0665554","Pathak","Supriya","nm6886938",,,"parent-child",NULL
+"394","nm0665554","Pathak","Supriya","nm0665550","Pathak","Ratna","sibling",NULL
+"395","nm0665599","Patil","Smita","nm3070408","Babbar","Prateik","parent-child",NULL
+"396","nf0534865",,"Raghunath","nm0004564","Deol","Hema Malini","sibling","0"
+"397","nf0534865",,"Raghunath","nm0534866",,"Madhoo","parent-child","0"
+"399","nm0713618","Razdan","Soni","nm1017633","Bhatt","Alia","parent-child",NULL
+"400","nm0713618","Razdan","Soni","nm7248508",,,"parent-child",NULL
+"401","nm0004436","Roshan","Rajesh","nm0004363","Roshan","Rakesh","sibling","0"
+"402","nm0004363","Roshan","Rakesh","nm0004335","Roshan","Hrithik","parent-child","23"
+"403","nm0004362","Roshan",,"nm0004436","Roshan","Rajesh","parent-child","0"
+"404","nm0004362","Roshan",,"nm0004363","Roshan","Rakesh","parent-child","0"
+"405","nm0746950","Roy","Bimal","nm1125302",,,"parent-child",NULL
+"406","nm0746987","Roy","Debashree","nm2752803",,,"sibling",NULL
+"407","nm0746987","Roy","Debashree","nm0154146","Chatterjee","Prosenjit","marriage",NULL
+"408","nm1123937","Roy","Rohit","nm0747172","Roy","Ronit","sibling",NULL
+"409","nm0756379","Sahni","Balraj","nm0756380","Sahni","Bhisham","sibling",NULL
+"410","nm0756379","Sahni","Balraj","nm0756378","Sahni","Parikshat","parent-child",NULL
+"411","nm1442631","Sahni","Damayanti","nm0756379","Sahni","Balraj","marriage",NULL
+"412","nm1442631","Sahni","Damayanti","nm0756378","Sahni","Parikshat","parent-child",NULL
+"413","nm0756378","Sahni","Parikshat","nf0001410","Kapur","Aruna","marriage","0"
+"414","nm1062896","Samanta","Ashim","nm5055052",,,"parent-child",NULL
+"415","nm0759662","Samanta","Shakti","nm1062896",,,"parent-child",NULL
+"416","nm0006358","Samarth","Shobhana","nm0638295","Bahl","Nutan","parent-child",NULL
+"417","nm0006358","Samarth","Shobhana","nm0849863","Mukherjee","Tanuja","parent-child",NULL
+"418","nm0006358","Samarth","Shobhana","nf0006357","Samarth","Kumarsen","marriage","0"
+"419","nm0764314","Santoshi","P. L.","nm0764316","Santoshi","Rajkumar","parent-child",NULL
+"420","nm1927212","Sapru","D. K.","nm0707534","Nath","Reema ","parent-child",NULL
+"421","nm1927212","Sapru","D. K.","nm0764667","Sapru","Priti","parent-child",NULL
+"422","nm1927212","Sapru","D. K.","nm0764669","Sapru","Tej","parent-child",NULL
+"423","nm0764667","Sapru","Priti","nm0707534","Nath","Reema ","sibling",NULL
+"424","nm0764669","Sapru","Tej","nm0707534","Nath","Reema ","sibling",NULL
+"425","nm0764669","Sapru","Tej","nm0764667","Sapru","Priti","sibling",NULL
+"426","nm0787462","Shah","Naseeruddin","nm0665550","Pathak","Ratna","marriage",NULL
+"427","nm0787462","Shah","Naseeruddin","nm1437485",,,"parent-child",NULL
+"428","nm0787462","Shah","Naseeruddin","nm3865073",,,"parent-child",NULL
+"429","nm3865073","Shah","Vivaan","nm1437485",,,"sibling",NULL
+"431","nm0794484","Shivdasani","Hari","nm0044999","Kapoor","Babita","parent-child",NULL
+"432","nm0794484","Shivdasani","Hari","nf0794484","Shivdasani","Hari's brother","sibling","0"
+"433","nf0794484","Shivdasani","Hari's brother","nm0623321","Shivdasani","Sadhana","parent-child","0"
+"435","nm1228897","Shroff","Ayesha","nm5899377",,,"parent-child",NULL
+"436","nm0006763","Shroff","Jackie","nm1228897","Shroff","Ayesha","marriage",NULL
+"437","nm0006763","Shroff","Jackie","nm5899377","Shroff","Tiger","parent-child",NULL
+"438","nm0802080","Singh","Amrita","nm9071083",,,"parent-child",NULL
+"439","nf0307230","Singh","Darshi","nm0307231","Garewal","Simi","parent-child","0"
+"440","nf0307230","Singh","Darshi","nf0159148","Singh","Mohinder","sibling","0"
+"441","nm1942776","Singh","Kanwaljit","nm0665351","Patel","Anuradha","marriage",NULL
+"442","nf0159148","Singh","Mohinder","nf0159149","Chopra","Pamela","parent-child","0"
+"443","nm2182334","Sippy","Ajit","nm0802693","Sippy","Ramesh","sibling",NULL
+"444","nm2182334","Sippy","Ajit","nm1242277",,,"parent-child",NULL
+"445","nm0802688","Sippy","G. P.","nm0802693",,,"parent-child",NULL
+"446","nm0802693","Sippy","Ramesh","nm1185265",,,"marriage",NULL
+"447","nm0802693","Sippy","Ramesh","nm1391682",,,"parent-child",NULL
+"448","nm0802693","Sippy","Ramesh","nm1762903",,,"parent-child",NULL
+"449","nf0802689","Sippy","Sunita","nm6327493",,,"parent-child","0"
+"450","nm0802695","Sippy","Vijay","nm6327494",,,"parent-child",NULL
+"451","nm1887138","Suri","Mohit","nm1571396",,,"marriage",NULL
+"452","nm1887138","Suri","Mohit","nm2124966",,,"sibling",NULL
+"453","nm0846616","Tagore","Sharmila","nm0451307","Khan","Saif Ali ","parent-child",NULL
+"454","nm0846616","Tagore","Sharmila","nm1675786",,,"parent-child",NULL
+"455","nm0906226","Wahab","Zarina","nm4808460",,,"parent-child",NULL
+"458","nm0438508","Kapoor","Surinder","nm0438463","Kapoor","Anil","parent-child",NULL
+"460","nm0149822","Chakraborty","Mithun","nm0004437","Kapoor","Sridevi","marriage",NULL
+"461","nf0080326","Bhatt","Sister of Mahesh","nm0080315","Bhatt","Mahesh","sibling","0"
+"462","nm0050197","Bali","Yogeeta","nm0149822","Chakraborty","Mithun","marriage",NULL
+"463","nm0050197","Bali","Yogeeta","nm0474822","Ganguly","Kishore Kumar","marriage",NULL
+"464","nm0050197","Bali","Yogeeta","nm3002347",,,"parent-child",NULL
+"465","nf0438493","Kapoor","Sunita","nm0438463","Kapoor","Anil","marriage","0"
+"466","nf0438493","Kapoor","Sunita","nm7561367","Kapoor","Harshvardhan","parent-child","0"
+"467","nf0438493","Kapoor","Sunita","nm3608045","Kapoor","Rhea","parent-child","0"
+"468","nf0438493","Kapoor","Sunita","nm2128238","Kapoor","Sonam","parent-child","0"
+"469","nm7561367","Kapoor","Harshvardhan","nm3608045",,,"sibling",NULL
+"470","nm3608045","Kapoor","Rhea","nm2128238",,,"sibling",NULL
+"471","nm2128238","Kapoor","Sonam","nm7561367",,,"sibling",NULL
+"472","nm0005983","Burman","R. D.","nm0080427","Bhosle","Asha","marriage",NULL
+"473","nm0059777","Kapoor","Basheswarnath","nm0004432","Kapoor","Prithviraj","parent-child",NULL
+"474","nm0059777","Kapoor","Basheshwarnath","nm0438510","Kapoor","Trilok","parent-child",NULL
+"475","nm0004432","Kapoor","Prithviraj","nm0438510","Kapoor","Trilok","sibling","6"
+"476","nm1867717","Deol","Abhay","nm1184733",,,"parent-child",NULL
+"477","nm1184733","Deol","Ajit Singh","nm0004429","Deol","Dharmendra","sibling",NULL
+"478","nm1464043","Bali","Jaswant","nm0050197","Bali","Yogeeta","parent-child",NULL
+"479","nm1464043","Bali","Jaswant","nm0050188","Bali","Geeta","sibling",NULL
+"480","nm1577858","Kapoor","Kunal","nm1762903",,,"marriage",NULL
+"481","nm1577858","Kapoor","Kunal","nm0004434","Kapoor","Shashi","parent-child",NULL
+"482","nm0415274",,"Jaddanbai","nm0004291","Dutt","Nargis","parent-child","0"
+"483","nf0080326","Bhatt","Sister of Mahesh","nm2143210","Nair","Onjolee","parent-child","0"
+"484","nm0438506","Kapoor","Shobha","nm0969428",,,"parent-child",NULL
+"485","nm0438506","Kapoor","Shobha","nm0438471","Kapoor","Ekta","parent-child",NULL
+"486","nm0969428","Kapoor","Tusshar","nm0438471","Kapoor","Ekta","sibling",NULL
+"488","nm0447240","Khemu","Kunal","nm1675786",,,"marriage",NULL
+"489","nm0474822","Ganguly","Kishore Kumar","nm0534870",,"Madhubala","marriage",NULL
+"490","nm0004435","Khanna","Rajesh","nm0438092","Kapadia","Dimple","marriage",NULL
+"491","nm0004435","Khanna","Rajesh","nm0451392","Khanna","Rinke","parent-child",NULL
+"492","nm0438092","Kapadia","Dimple","nm0451392","Khanna","Rinke","parent-child",NULL
+"494","nm0451396","Khanna","Vinod","nm0451379","Khanna","Akshaye","parent-child",NULL
+"495","nm0451396","Khanna","Vinod","nm0451391","Khanna","Rahul","parent-child",NULL
+"496","nm0451391","Khanna","Rahul","nm0451379","Khanna","Akshaye","sibling",NULL
+"497","nm0592578","Mirza","Akhtar","nm0592595","Mirza","Saeed","parent-child",NULL
+"498","nm0592578","Mirza","Akhtar","nm0592583","Mirza","Aziz","parent-child",NULL
+"499","nm0592583","Mirza","Aziz","nm0592595","Mirza","Saeed","sibling",NULL
+"500","nm0080320","Bhatt","Nanabhai","nm0080327","Bhatt","Robin","parent-child",NULL
+"501","nm0080319","Bhatt","Mukesh","nm5458614",,,"parent-child",NULL
+"502","nm0005984","Burman","S. D.","nm0005983","Burman","R. D.","parent-child",NULL
+"504","nm1123937","Roy","Rohit","nm2265217",,,"marriage",NULL
+"505","nm1123937","Roy","Rohit","nm0747172","Roy","Ronit","sibling",NULL
+"506","nm0403826","Khan","Nasir Hussain","nm1145607","Khan","Nuzhat","parent-child",NULL
+"507","nm1145607","Khan","Nuzhat","nm1405359",,,"parent-child",NULL
+"508","nm1207634","Sippy","Suresh","nm0802688",,,"parent-child",NULL
+"509","nm0611558","Mukherjee","Samrat","nm1166510",,,"sibling",NULL
+"510","nm0802695","Sippy","Vijay","nm0802688",,,"parent-child",NULL
+"512","nm2182334","Sippy","Ajit","nm0802688",,,"parent-child",NULL
+"513","nm0802688","Sippy","G. P.","nf0802689","Sippy","Sunita","parent-child","0"
+"514","nf0802688","Sippy","Mohini","nm0802688",,,"marriage","0"
+"515","nm0424101","Johar","Hiroo","nm0007181","Chopra","Yash","sibling",NULL
+"516","nm0802080","Singh","Amrita","nm0451307","Khan","Saif Ali ","marriage",NULL
+"517","nm0006369","Ganguly",,"nf0433872","Ganguly","Rupa","parent-child","0"
+"518","nf0433872","Ganguly","Rupa","nm0894340","Verma","Deven","marriage","0"
+"519","nm7508187","Shetty","Athiya","nm10892211","Shetty","Ahan","sibling",NULL
+"520","nm1865311","Suri","Ambika","nm0839634","Suri","Sanjay","marriage",NULL
+"521","nm0611582","Mukherjee","Subodh","nm1642511",,,"sibling",NULL
+"522","nf0004434","Kapoor","Neila Devi","nm0004433","Kapoor","Shammi","marriage","0"
+"523","nm0007012","Khanna","Twinkle","nm0004435","Khanna","Rajesh","parent-child",NULL
+"524","nm0438092","Kapadia","Dimple","nm0007012","Khanna","Twinkle","parent-child",NULL
+"525","nm0007012","Khanna","Twinkle","nm0474774","Kumar","Akshay","marriage",NULL
+"526","nm0025608","Anand","Chetan","nm0707502","Rajvansh","Priya","marriage",NULL
+"527","nm0006370","Kumar","Manoj","nm0996960","Goswami","Kunal","parent-child",NULL
+"528","nf8231762","Jaffrey","Hamid","nm0415526","Jaffrey","Bharti","marriage","0"
+"529","nf8231762","Jaffrey","Hamid","nm0006762","Jaffrey","Saeed","sibling","0"
+"530","nm4335706","Mukherjee","Rono","nm0611558","Mukherjee","Samrat","parent-child",NULL
+"531","nm4335706","Mukherjee","Rono","nm1166510",,,"parent-child","1"
+"533","nf0025613","Anand","Inder Raj's Brother","nm0002172","Anand","Mukul","parent-child","0"
+"534","nm0025613","Anand","Inder Raj","nf0025613","Anand","Inder Raj's Brother","sibling","0"
+"535","nm0004434","Kapoor","Shashi","nm0438504","Kapoor","Sanjana","parent-child","3"
+"536","nf7720308","Abhisheki","Balwantrao","nf0542195","Mangeshkar","Dinanath","sibling","0"
+"537","nm0438508","Kapoor","Surinder","nm0438470","Kapoor","Boney","parent-child","9"
+"538","nm2176659","Motiwala","Bhavna","nm0612870","Ambani","Tina","sibling","3"
+"539","nm2176659","Motiwala","Bhavna","nf1963822","Motiwala","Antara","parent-child","0"
+"540","nf1963822","Motiwala","Antara","nm1963822",,,"marriage","0"
+"541","nf1963821","Marwah","Reena","nm1963822",,,"parent-child","0"
+"542","nm0438508","Kapoor","Surinder","nf1963821","Marwah","Reena","parent-child","0"
+"543","nf1963821","Marwah","Reena","nm0438463","Kapoor","Anil","sibling","0"
+"544","nm0438470","Kapoor","Boney","nf1963821","Marwah","Reena","sibling","0"
+"545","nf1619842","Bhavnani","Sunita's father","nf0438493","Kapoor","Sunita","parent-child","0"
+"546","nf3828983","Bhavnani","JagjitSingh'sfather","nf3828984","Singh","JagjitSingh'sfather","parent-child","0"
+"547","nf3828983","Bhavnani","JagjitSingh'sfather","nf1619842","Bhavnani","Sunita's father","sibling","0"
+"548","nf3828984","Singh","Jagjit","nm3828984",,,"parent-child","0"
+"549","nm1642511","Mukherjee","Sashadhar","nm4335706",,,"parent-child","1"
+"550","nm0047009","Bai","Rattan","nf0047009","Brother","Rattan's","sibling","0"
+"551","nm0643350","Oberoi","Suresh","nf0643350","Oberoi","Suresh's brother","sibling","0"
+"552","nm0456096","Kiran","Usha","nf8836090","Kher","Adwait","parent-child","0"
+"553","nf8836090","Kher","Adwait","nm8836090",,,"marriage","0"
+"554","nf8836090","Kher","Adwait","nm4419038",,,"parent-child","0"
+"555","nf8836090","Kher","Adwait","nm7517362",,,"parent-child","0"
+"556","nm0612614",,"Mumtaz","nm0539604","Randhawa","Malika","sibling","9"
+"557","nm0709784","Randhawa","Sardara Singh","nm0539604","Randhawa","Malika","marriage","5"
+"558","nm0709784","Randhawa","Sardara Singh","nm0802107","Singh","Dara","sibling","26"
+"559","nm0539604","Randhawa","Malika","nm2337375",,,"parent-child","0"
+"560","nm0709784","Randhawa","Sardara Singh","nm2337375",,,"parent-child","0"
+"561","nm0007228","Khan","Fardeen","nm2740304","Khan","Laila","sibling","1"
+"562","nm0451211","Khan","Feroze","nm2740304","Khan",,"parent-child","3"
+"563","nm1261158","Nagrath","Ira","nm0004362","Roshan",,"marriage","0"
+"564","nm1261158","Nagrath","Ira","nm0004363","Roshan","Rakesh","parent-child","4"
+"565","nm1261158","Nagrath","Ira","nm0004436","Roshan","Rajesh","parent-child","5"
+"566","nm0451313","Khan","Sanjay","nm7827767",,,"parent-child","2"
+"567","nm0451313","Khan","Sanjay","nm2260359",,,"marriage","1"
+"568","nm2260359","Katrak","Zarine","nm1300301",,,"parent-child","0"
+"569","nm9669384","Naaz","Razvanah","nm0007102",,"Tabu","parent-child","0"
+"570","nm9669384","Naaz","Rezvanah","nm0368098","Hashmi","Jamal","marriage",NULL
+"571","nm9669384","Naaz","Razvanah","nm2226774",,"Farah Naaz","parent-child",NULL
+"572","nm2226774","Hashmi","Farha Naaz","nm2738083",,,"marriage",NULL
+"573","nm0802107","Singh","Dara","nm1532632",,,"parent-child",NULL
+"574","nm0015286","Akhtar","Jan Nissar","nm0015287","Akhtar","Javed","parent-child",NULL
+"575","nm1487785","Pacchi","Ram Prakash","nm0695170","Bakshi","Om Prakash","sibling",NULL
+"576","nm0795652","Shukla","K. K.","nm0409787","Irani","Daisy","marriage",NULL
+"577","nm0409787","Irani","Daisy","nm6021891","Shukla","Ritu","parent-child",NULL
+"578","nm0795652","Shukla","K. K.","nm6021891",,,"parent-child",NULL
+"579","nm2385800","Irani","Sarosh","nm0409787","Irani","Daisy","sibling",NULL
+"580","nm0409791","Kumar","Indra","nm0045119","Irani","Aruna","sibling",NULL
+"581","nm2385800","Irani","Sarosh","nm1524731",,,"marriage",NULL
+"582","nm1024536","Irani","Balraj","nm0045119","Irani","Aruna","sibling",NULL
+"583","nm0409779","Irani","Adi","nm0045119","Irani","Aruna","sibling",NULL
+"584","nm0463315","Kohli","Kuku","nm0045119","Irani","Aruna","marriage",NULL
+"585","nm0430787","Joshi","Arvind","nm0430817","Joshi","Sharman","parent-child",NULL
+"586","nm1030225","Irani","Firoz","nm0409779","Irani","Adi","sibling",NULL
+"587","nm1310264","Irani","Ratan","nm0045119","Irani","Aruna","sibling",NULL
+"588","nm2054330","Mahmood","Mini","nm0045119","Irani","Aruna","sibling",NULL
+"589","nm1934428","Joshi","Sarita","nm5840639",,,"marriage",NULL
+"590","nm1934428","Joshi","Sarita","nm0989106","Dave","Ketki","parent-child",NULL
+"591","nm1934428","Joshi","Sarita","nm3126754",,,"parent-child",NULL
+"592","nm5840639","Joshi","Pravin","nm3126754",,,"parent-child",NULL
+"593","nm5840639","Joshi","Pravin","nm0989106","Dave","Ketki","parent-child",NULL
+"594","nm0849195","Tandon","Lekh","nm2525334",,,"sibling",NULL
+"595","nm0989106","Dave","Ketki","nm1538764",,,"marriage",NULL
+"596","nm1620077","Pandit","Vishwaraj","nm1276931",,,"parent-child",NULL
+"597","nm0659266","Pandit","Vijayata","nm0539781","Malkan","Sameer","marriage",NULL
+"598","nm1149859","Malkan","Jayant","nm0539781","Malkan","Sameer","parent-child",NULL
+"599","nm1149859","Malkan","Jayant","nm1267440",,,"parent-child",NULL
+"600","nm1380426","Jasraj","Pandit","nm0419320","Jasraj","Durga","parent-child",NULL
+"601","nm0419320","Jasraj","Durga","nm1006855","Dev","Shaarang","sibling",NULL
+"602","nm1380426","Jasraj","Pandit","nm1006855","Dev","Shaarang","parent-child",NULL
+"603","nm1269729","Pandit","Jatin","nm1269730",,,"sibling",NULL
+"604","nm1620077","Pandit","Vishwaraj","nm1574540",,,"parent-child",NULL
+"605","nm1574540","Pandit","Shweta","nm1018669","Pandit","Shraddha","sibling",NULL
+"606","nm0409791","Kumar","Indra","nm3149050",,,"parent-child",NULL
+"607","nm0795411","Shrivastava","Adesh","nm0659266","Pandit","Vijayata","marriage",NULL
+"608","nm9076358","Kapadia","Chunnibai","nm0438092","Kapadia","Dimple","parent-child",NULL
+"609","nm0944406","Xavier","Thomas","nm1267440",,,"marriage",NULL
+"610","nm0422552","Jha","Prakash","nm0622732","Naval","Deepti","marriage",NULL
+"611","nm6535488","Pandit","Vinod","nm0622732","Naval","Deepti","marriage",NULL
+"612","nm0422552","Jha","Prakash","nm2936469","Jha","Disha","parent-child",NULL
+"613","nf1380427","Pandit","Maniram","nm6535488",,,"parent-child","0"
+"614","nf1380427","Pandit","Maniram","nm1380426",,,"sibling","0"
+"615","nf1380425","Pandit","Pratap Narayan","nm1380426",,,"sibling","0"
+"616","nf1380425","Pandit","Pratap Narayan","nm1269729",,,"parent-child","0"
+"617","nf1380425","Pandit","Pratap Narayan","nm1269730",,,"parent-child","0"
+"618","nm0244892","Dutta","J. P.","nm0331727","Goswami","Bindiya","marriage",NULL
+"619","nm0244898","Dutta","O. P.","nm0244892","Dutta","J. P.","parent-child",NULL
+"620","nm0451600","Kher ","Anupam","nm3078948",,,"marriage",NULL
+"621","nm3078948","Kapoor","Madhumalti","nm0438499","Kapoor","Ranjit","marriage",NULL
+"622","nm0438499","Kapoor","Ranjit","nm0438465","Kapoor","Annu","sibling",NULL
+"623","nf1380425","Pandit","Pratap Narayan","nm2187933",,,"parent-child","0"
+"624","nm0443503","Kaytee","Manoj","nm0438098","Kapadia","Simple","marriage",NULL
+"625","nm0438479","Kapoor","Kedar","nm0438480","Kapoor","Madhu","parent-child",NULL
+"626","nm0443503","Kaytee","Manoj","nm0438480","Kapoor","Madhu","marriage",NULL
+"627","nm0471427",,,"nm5648841",,,"parent-child",NULL
+"628","nm0471427","Krishan","Prem","nm1178825",,,"parent-child",NULL
+"629","nm5648841","Malhotra","Siddharth","nm1178825",,,"sibling",NULL
+"630","nm0622193","Malhotra","Prem Nath","nm1550928",,,"parent-child",NULL
+"631","nm0471427","Krishan","Prem","nm1550928",,,"sibling",NULL
+"632","nm0700875","Puri","Om","nm0999225","Kapoor","Seema","marriage",NULL
+"633","nm0438499","Kapoor","Ranjit","nm0999225","Kapoor","Seema","sibling",NULL
+"634","nm1566649","Sachdev","Ranjana","nm0755091","Sachdev","Asha","parent-child",NULL
+"635","nf0451173","Hussain","Aashiq","nm1566649","Sachdev","Ranjana","marriage","0"
+"636","nf0451173","Hussain","Aashiq","nm0451174","Warsi","Arshad","parent-child","0"
+"637","nf0451173","Hussain","Aashiq","nm0755091","Sachdev","Asha","parent-child","0"
+"638","nf0451173","Hussain","Aashiq","nm0031684","Hussain","Anwar","parent-child","0"
+"639","nm1566649","Sachdev","Ranjana","nm0031684","Hussain","Anwar","parent-child",NULL
+"640","nf1184734","Deol","Veerta","nm3046740",,,"marriage","0"
+"641","nm1184733","Deol","Ajit Singh","nf1184734","Deol","Veerta","parent-child","0"
+"642","nm0062614","Baweja","Harry","nm2102514",,,"parent-child",NULL
+"643","nm0062614","Baweja","Harry","nm2099162",,,"parent-child",NULL
+"644","nm0062614","Baweja","Harry","nm0996449","Baweja","Paramjeet","marriage",NULL
+"645","nm0849200","Tandon","Ravi","nm3779174",,,"marriage",NULL
+"646","nm0849200","Tandon","Ravi","nm0849199","Tandon","Raveena","parent-child",NULL
+"647","nm3779174","Tandon","Veena","nm0849199","Tandon","Raveena","parent-child",NULL
+"648","nm0849200","Tandon","Ravi","nm5429831",,,"parent-child",NULL
+"649","nm0849199","Tandon","Raveena","nm5429831",,,"sibling",NULL
+"650","nm4870433","Roy Kapur","Salomi","nm3169069",,,"parent-child",NULL
+"651","nm4870433","Roy Kapur","Salomi","nm2622986",,,"parent-child",NULL
+"652","nm0352032","Haasan","Kamal","nm1599046","Haasan","Shruti","parent-child",NULL
+"653","nm1379241","Barjatya","Raj Kumar","nm0054744","Barjatya","Sooraj","parent-child",NULL
+"654","nm1379240","Barjatya","Ajit Kumar","nm1379241",,,"sibling",NULL
+"655","nm1379240","Barjatya","Ajit Kumar","nm0054743","Barjatya","Kamal Kumar","sibling",NULL
+"656","nm0054743","Barjatya","Kamal Kumar","nm3593194",,,"parent-child",NULL
+"657","nm0054745","Barjatya","Tarachand","nm1379240",,,"parent-child",NULL
+"658","nm0054745","Barjatya","Tarachand","nm0054743","Barjatya","Kamal Kumar","parent-child",NULL
+"659","nm0054745","Barjatya","Tarachand","nm1379241",,,"parent-child",NULL
+"660","nm1799038","Balan","Vidya","nm3032965",,,"marriage",NULL
+"661","nm0080205","Bhalla","Vikas","nf0080205","Chopra","Punita","marriage","0"
+"662","nm1042581","Bhatt","Arun","nm3134033",,,"parent-child",NULL
+"663","nm0080332","Bhatt","Vijay","nm1042581",,,"parent-child",NULL
+"664","nf1380425","Pandit","Pratap Narayan","nm0659264","Pandit","Sulakshana","parent-child","0"
+"665","nm0788391","Shantaram","V","nf0788392","Shantaram","Madhura","parent-child","0"
+"666","nm1380426","Jasraj","Pandit","nf0788392","Shantaram","Madhura","marriage","0"
+"667","nm0788391","Shantaram","V","nm0419695","Shantaram","Jayshree","marriage",NULL
+"668","nm0788391","Shantaram","V","nm0707471","Shantaram","Rajshree","parent-child",NULL
+"669","nm0352032","Haasan","Kamal","nm7432227","Haasan","Akshara","parent-child",NULL
+"670","nm0352032","Haasan","Kamal","nm1393654",,,"marriage",NULL
+"671","nm1946407","Menon","Kay Kay","nm3477013",,,"marriage",NULL
+"672","nm0223534","Dheer","Satluj","nm0223533","Dheer","Poonam","marriage",NULL
+"673","nm0223531","Dheer","Anita","nm3049068","Dheer","Nikitin","parent-child",NULL
+"674","nm0223532","Dheer","Pankaj","nm3049068","Dheer","Nikitin","parent-child",NULL
+"675","nm0223532","Dheer","Pankaj","nm0223531","Dheer","Anita","marriage",NULL
+"676","nm1498914","Dheer","C. L.","nm0223532","Dheer","Pankaj","parent-child",NULL
+"677","nm1498914","Dheer","C. L.","nm0223534","Dheer","Satluj","parent-child",NULL
+"678","nm0451234","Khan","Irrfan","nm1399188","Khan",,"marriage",NULL
+"679","nm1946407","Menon","Kay Kay","nm3477013",,,"marriage",NULL
+"680","nm4731677","Khurrana","Ayusmann","nm6269780",,,"sibling",NULL
+"681","nm3190972","Singh","Manjot","nm3464311",,,"sibling",NULL
+"682","nm0747149","Roy","Rahul","nm1069453",,,"marriage",NULL
+"683","nm1267095","Soni","Samir","nm1069453",,,"marriage",NULL
+"684","nm0222493","Devi","Sitara","nm0056427","Barot","Ranjit","parent-child",NULL
+"685","nm2172997","Barot","Pratap","nm0056427","Barot","Ranjit","parent-child",NULL
+"686","nm1629053","Barot","Nutan (Nuti)","nm2172997",,,"sibling",NULL
+"687","nm0056426","Barot","Kamal","nm2172997",,,"sibling",NULL
+"688","nm0056426","Barot","Kamal","nm1629053",,,"sibling",NULL
+"689","nm2172997","Barot","Pratap","nm0222493","Devi","Sitara","marriage",NULL
+"690","nm0056423","Barot","Chandra","nm2172997",,,"sibling",NULL
+"691","nm0056423","Barot","Chandra","nm0056426","Barot","Kamal","sibling",NULL
+"692","nm0056423","Barot","Chandra","nm1629053",,,"sibling",NULL
+"693","nm0659233","Pandey","Chunky","nm9203528",,,"parent-child",NULL
+"694","nm3392486","Ganguly","Rupali","nm3211340",,,"sibling",NULL
+"695","nm1105183","Ganguly","Rajani","nm3211340",,,"parent-child",NULL
+"696","nm1105183","Ganguly","Rajani","nm3392486",,,"parent-child",NULL
+"697","nm0304356","Ganguly","Anil","nm1105183",,,"marriage",NULL
+"698","nm0304356","Ganguly","Anil","nm3211340",,,"parent-child",NULL
+"699","nm0304356","Ganguly","Anil","nm3392486",,,"parent-child",NULL
+"700","nm0332871","Ahuja","Govinda","nm7418890",,,"parent-child",NULL
+"701","nm4004908","Khanna","Ragini","nm8001267",,,"sibling",NULL
+"703","nm2419285","Khanna","Praveen","nm8001267",,,"parent-child",NULL
+"704","nf0332871","Khanna","Kamini","nm8001267","Khanna","Amit","parent-child","0"
+"705","nm2419285","Khanna","Praveen","nm4004908",,,"parent-child",NULL
+"706","nf0332871","Khanna","Kamini","nm2419285","Khanna","Praveen","marriage","0"
+"707","nf0332871","Khanna","Kamini","nm4004908","Khanna","Ragini","parent-child","0"
+"708","nm0038020","Ahuja","Arun","nf0332871","Khanna","Kamini","parent-child","0"
+"709","nf0332872","Anand","Pushpa","nm0025631","Anand","Vinay","parent-child","0"
+"710","nm9913465","Anand","Ravi","nm0025631","Anand","Vinay","parent-child",NULL
+"711","nm9913465","Anand","Ravi","nf0332872","Anand","Pushpa","marriage","0"
+"712","nm0038020","Ahuja","Arun","nf0332872","Anand","Pushpa","parent-child","0"
+"713","nm2243737","Abhishek","Krishna","nm3083916",,,"sibling","3"
+"714","nm0787447","Shah","Kashmira","nm2243737",,,"marriage","5"
+"715","nf0332873","Shah","Padma","nm0787447","Shah","Kashmira","parent-child","0"
+"716","nm0038020","Ahuja","Arun","nf0332873","Shah","Padma","parent-child","0"
+"717","nm3848064","Sinha","Sonakshi","nm3093254",,,"sibling","0"
+"718","nm0464521","Sinha","Poonam(Komal)","nm3093254",,,"parent-child","1"
+"719","nm0802374","Sinha","Shatrughan","nm0464521","Sinha","Poonam(Komal)","marriage","7"
+"720","nm0464521","Sinha","Poonam(Komal)","nm3848064",,,"parent-child","1"
+"721","nm0802374","Sinha","Shatrughan","nm3848064",,,"parent-child","1"
+"722","nf1033012","Brother","JayshreeT's","nm1662277",,,"parent-child","0"
+"723","nm1033012","Talpade","Jayshree","nf1033012","Brother","Jayshree T's","sibling","0"
+"724","nm1306744",,"Meena","nm1033012",,,"sibling",NULL
+"725","nm0620785",,"Nanda","nf0620786","Karnataki","Jaiprakash","sibling","0"
+"726","nm1033012","Talpade","Jayshree","nf0620786","Karnataki","Jaiprakash","marriage","0"
+"727","nm0788391","Shantaram","V","nm0761890","Shantaram","Sandhya","marriage",NULL
+"728","nm0698183",,"Shantipriya","nm0080228",,"Bhanupriya","sibling",NULL
+"729","nm0698183",,"Shantipriya","nm0796494",,"Siddharth","marriage",NULL
+"730","nm0153636",,"Charusheela","nm0796494",,"Siddharth","parent-child",NULL
+"731","nm0788391","Shantaram","V","nm0153636",,"Charusheela","parent-child",NULL
+"732","nm0898521","Karnataki","Master Vinayak","nm0671707","Pendharkar","Baburao","sibling",NULL
+"733","nm0439794","Karnataki","Vasudev","nm0898521",,,"sibling",NULL
+"734","nm0671708","Pendharkar","Bhalji","nm6264567",,,"parent-child",NULL
+"735","nm0671708","Pendharkar","Bhalji","nm0498639","Pendharkar","Leela","marriage",NULL
+"736","nm5047799","Shetty","Mehek","nm1267029",,,"sibling",NULL
+"737","nm5047799","Shetty","Mehek","nm6754036",,,"sibling",NULL
+"738","nm6754036","Shetty","Uday","nm1267029",,,"sibling",NULL
+"739","nm1460159","Shetty","Rohit","nm6754036",,,"sibling",NULL
+"740","nm5047799","Shetty","Mehek","nm1025258","Shetty","Navin","marriage",NULL
+"741","nm2142231","Shetty","Ratna","nm1460159",,,"parent-child",NULL
+"742","nm2142231","Shetty","Ratna","nm5047799",,,"parent-child",NULL
+"743","nm0792901","Shetty","Muddu B.","nm1460159",,,"parent-child",NULL
+"744","nm0792901","Shetty","Muddu B.","nm5047799",,,"parent-child",NULL
+"745","nm0792901","Shetty","Muddu B.","nm1267029",,,"parent-child",NULL
+"746","nm0792901","Shetty","Muddu B.","nm6754036",,,"parent-child",NULL
+"747","nm0792908","Shetty","Shilpa","nm0792906","Shetty","Shamita","sibling",NULL
+"748","nm0792911","Shetty","Sunil","nm7508187","Shetty",,"parent-child",NULL
+"751","nm3583633","Shorey","K. D.","nm5506476",,,"parent-child",NULL
+"752","nm3583633","Shorey","K. D.","nm1249116",,,"parent-child",NULL
+"753","nm1249116","Shorey","Ranvir","nm5506476",,,"parent-child",NULL
+"754","nm0031967","Sen","Aparna","nm1234298","Sen Sharma","Konkona","parent-child",NULL
+"755","nm0201869","Das Gupta","Chidananda","nm0031967","Sen","Aparna","parent-child",NULL
+"756","nm1234298","Sen Sharma","Konkona","nm1249116",,,"marriage",NULL
+"757","nm0784042","Sen","Suchitra","nm0784018","Sen","Moon Moon","parent-child",NULL
+"758","nm0784018","Sen","Moon Moon","nm0784025","Sen","Raima","parent-child",NULL
+"759","nm0784018","Sen","Moon Moon","nm1116258",,,"parent-child",NULL
+"760","nm0708913","Ramsay","Shyam","nm8087086",,,"parent-child",NULL
+"761","nm0450200","Ramsay","Keshu","nm1794338",,,"parent-child",NULL
+"762","nm0708917","Ramsay","Tulsi","nm1598320",,,"parent-child",NULL
+"763","nm1562798","Ramsay","F. U.","nm1618284",,,"parent-child",NULL
+"764","nm1562798","Ramsay","F. U.","nm1516055",,,"parent-child",NULL
+"765","nm1562798","Ramsay","F. U.","nm0450200","Ramsay","Keshu","parent-child",NULL
+"766","nm1562798","Ramsay","F. U.","nm0708899","Ramsay","Kiran","parent-child",NULL
+"768","nm1562798","Ramsay","F. U.","nm0708900","Ramsay","Kumar","parent-child",NULL
+"769","nm1562798","Ramsay","F. U.","nm0708913","Ramsay","Shyam","parent-child",NULL
+"770","nm1562798","Ramsay","F. U.","nm0708917","Ramsay","Tulsi","parent-child",NULL
+"771","nm0534501","Puri","Madan","nm0700869","Puri","Amrish","sibling",NULL
+"772","nm0534501","Puri","Madan","nm1339776",,,"parent-child",NULL
+"773","nm0534501","Puri","Madan","nm1127177",,,"sibling",NULL
+"774","nm0700869","Puri","Amrish","nm1127177",,,"sibling","1"
+"775","nm1127177","Puri","Chaman","nm1261343",,,"parent-child",NULL
+"776","nm0665352","Patel","Asha","nm0665349","Patel","Ameesha","parent-child",NULL
+"777","nm0665352","Patel","Asha","nm1483377",,,"parent-child",NULL
+"778","nm1483377","Patel","Ashmit","nm0665349","Patel","Ameesha","sibling",NULL
+"779","nm0657176","Pal","Niranjan","nm0657159","Pal","Colin","parent-child",NULL
+"780","nm0657159","Pal","Colin","nm1001620","Pal","Deep","parent-child",NULL
+"781","nm0621257","Narayan","Udit","nm0621251","Narayan","Aditya","parent-child",NULL
+"782","nm2602251","Lulla","Sunil","nm4299305",,,"marriage",NULL
+"783","nm2602251","Lulla","Sunil","nm2475355",,,"sibling",NULL
+"784","nm1347210","Purohit","Shekhar","nm1553117",,,"sibling",NULL
+"785","nm0756950",,"Sajjan","nm1347210",,,"parent-child",NULL
+"786","nm0756950",,"Sajjan","nm1553117",,,"parent-child",NULL
+"787","nm0706794","Rai","Gulshan","nm0706800","Rai","Rajiv","parent-child",NULL
+"788","nm0814193","Murad","Sonam (Bakhtawar)","nm0706800","Rai","Rajiv","marriage",NULL
+"789","nf0613417","Khan","Talat","nm0814193","Murad","Sonam (Bakhtawar)","parent-child","0"
+"790","nm1159360","Kabir","N. S.","nm2366197",,,"parent-child",NULL
+"791","nm1159360","Kabir","N. S.","nm1268956",,,"parent-child",NULL
+"792","nm3648164","Kabir","Sabiha","nm1268956",,,"parent-child",NULL
+"793","nm3648164","Kabir","Sabiha","nm2366197",,,"parent-child",NULL
+"794","nm1159360","Kabir","N. S.","nm3648164",,,"marriage",NULL
+"795","nm0613417","Murad","Raza","nm3648164",,,"sibling",NULL
+"796","nm0613407",,"Murad","nm0613417","Murad","Raza","parent-child",NULL
+"797","nm0613407",,"Murad","nm3648164",,,"parent-child",NULL
+"798","nm1274179","Mukherjee","Manas","nm0756010","Mukherjee","Sagarika","parent-child",NULL
+"799","nm2265217","Roy","Manasi Joshi","nm1034805",,,"parent-child",NULL
+"800","nm0756010","Mukherjee","Sagarika","nm1034805",,,"sibling",NULL
+"801","nm0049384","Balaje","Suresh","nf0049384",,"Suchitra","sibling","0"
+"802","nm1163202","Balaji","K.","nm0049384","Balaje","Suresh","parent-child",NULL
+"803","nm0482320",,"Mohanlal","nf0049384",,"Suchitra","marriage","0"
+"804","nm1163202","Balaji","K.","nf0049384",,"Suchitra","parent-child","0"
+"805","nm0007123",,"Mammootty","nm4921260","Salmaan","Dulquer","parent-child",NULL
+"806","nf1343476",,"Rita","nm1343477",,,"parent-child","0"
+"807","nm1042471","Mukesh","Nitin","nf1343476",,"Rita","sibling","0"
+"808","nm0006715","Mathur","Mukesh Chand","nf1343476",,"Rita","parent-child","0"
+"809","nm0006715","Mathur","Mukesh Chand","nm1042471","Mukesh","Nitin","parent-child",NULL
+"810","nm1042471","Mukesh","Nitin","nm1778703",,,"parent-child",NULL
+"811","nm1042471","Mukesh","Nitin","nm5068738",,,"parent-child",NULL
+"812","nm1778703","Mukesh","Neil Nitin","nm5068738",,,"sibling",NULL
+"813","nm0539592","Malik","Sardar","nm0006182","Malik","Anu","parent-child",NULL
+"814","nm0006182","Malik","Anu","nm2083709","Malik","Anmol","parent-child",NULL
+"815","nm0539592","Malik","Sardar","nm0540022","Malik","Daboo (Krish)","parent-child",NULL
+"816","nm0006182","Malik","Anu","nm0540022","Malik","Daboo(Krish)","sibling",NULL
+"817","nm0540022","Malik","Daboo (Krish)","nm6153653",,,"parent-child",NULL
+"818","nm0540022","Malik","Daboo (Krish)","nm3263017",,,"parent-child",NULL
+"819","nm6153653","Malik","Amal","nm3263017","Malik","Armaan","sibling",NULL
+"820","nm0782247","Sehgal","Zohra","nm2996210",,,"marriage",NULL
+"821","nm0474806","Kumar","Gulshan","nm2276001",,,"parent-child",NULL
+"822","nm1539788","Khosla Kumar","Divya","nm1024685","Kumar","Bhushan","marriage",NULL
+"823","nm0474806","Kumar","Gulshan","nm1024685","Kumar","Bhushan","parent-child",NULL
+"824","nm2390814","Rao Hydari","Aditi","nm4288932",,,"marriage",NULL
+"825","nm0451148","Khan","Aamir","nm1444479","Khan",,"marriage",NULL
+"826","nm1145607","Khan","Nuzhat","nm1539779",,,"sibling",NULL
+"827","nm1145607","Khan","Nuzhat","nm0451207","Khan","Faisal","sibling",NULL
+"828","nm1539779","Khan","Nikhat","nm0451207","Khan","Faisal","sibling",NULL
+"829","nm1145607","Khan","Nuzhat","nm1405359",,,"parent-child",NULL
+"830","nm1145607","Khan","Nuzhat","nm0451148","Khan","Aamir","parent-child",NULL
+"831","nm1145607","Khan","Nuzhat","nm0958861",,,"marriage",NULL
+"832","nf0039339","Begum","Sikandara","nm0039339","Asif","K.","sibling","0"
+"833","nm0623419","Khan","Nazir Ahmed","nf0039339",,,"marriage","0"
+"834","nm0623419","Khan","Nazir Ahmed","nm0052455","Swaran","Lata","marriage",NULL
+"835","nf0474801",,"Saeeda","nm0995505","Khan","Saqib","parent-child","0"
+"836","nm0474801","Kumar (Khan)","Dilip (Yusuf)","nf0474801",,"Saeeda","sibling","0"
+"837","nf0660788","Haq","Masruul","nm0201956","Dasgupta","Protima","marriage","0"
+"838","nf0660788","Haq","Masruul","nm0660788","Para","Begum","sibling","0"
+"839","nm0451278","Khan","Nasir","nm0660788","Para","Begum","marriage",NULL
+"840","nm0451278","Khan","Nasir","nm0451183","Khan","Ayub","parent-child",NULL
+"841","nm0660788","Para","Begum","nm0451183","Khan","Ayub","parent-child",NULL
+"842","nm0474801","Kumar (Khan)","Dilip (Yusuf)","nm0451278","Khan","Nasir","sibling",NULL
+"843","nm0039339","Asif","K.","nm0222493","Devi","Sitara","marriage",NULL
+"844","nm0039339","Asif","K.","nm0631416","Sultana","Nigar","marriage",NULL
+"845","nm0039339","Asif","K.","nf0474802",,"Akhtar","marriage","0"
+"846","nm0631416","Sultana","Nigar","nm1244979",,,"parent-child",NULL
+"847","nm0039339","Asif","K.","nm1244979","Kausar","Heena","parent-child",NULL
+"848","nm0474801","Kumar (Khan)","Dilip (Yusuf)","nf0474802",,"Akhtar","sibling","0"
+"849","nm0006371","Khan","Mehboob","nf0006371",,"Rahat","marriage","0"
+"850","nm0006371","Khan","Mehboob","nm0451309","Khan","Sajid","parent-child",NULL
+"851","nm0006371","Khan","Mehboob","nm0015293","Akhtar","Sardar","marriage",NULL
+"852","nm0756489","Saigal","Sumeet","nm1560638",,,"marriage",NULL
+"853","nm0756489","Saigal","Sumeet","nm7548924",,,"parent-child",NULL
+"854","nm1560638","Banu","Shaheen","nm7548924",,,"parent-child",NULL
+"855","nf0006371",,"Rahat","nm1560638","Banu","Shaheen","parent-child","0"
+"856","nm0052570","Banu","Saira","nf0052570",,"Sultan","sibling","0"
+"857","nf0052570","Saira's Brother","Sultan","nf0006371",,"Rahat","marriage","0"
+"858","nm0052570","Banu","Saira","nm0474801","Kumar (Khan)","Dilip (Yusuf)","marriage",NULL
+"860","nm5980225","Jariwala","Nakul","nm0474876","Kumar","Sanjeev","sibling",NULL
+"861","nm2140421","Jariwala","Kishore Kumar","nm5980225",,,"sibling",NULL
+"862","nm0415837","Jain","Ratan","nm0415828","Jain","Ganesh","sibling",NULL
+"863","nm0435753",,"Kalidas","nm2846672","Kumar","Sandeep","parent-child",NULL
+"864","nm0474850","Kumar","Pradeep","nm0435753",,"Kalidas","sibling",NULL
+"865","nm0066455","Banerjee","Beena","nm5070967","Banerjee","Siddharth","parent-child",NULL
+"866","nm0084432","Biswas","Ajoy","nm0347901","Gulzar","Rakhee","marriage",NULL
+"867","nm0084432","Biswas","Ajoy","nm0066455","Banerjee","Beena","marriage",NULL
+"868","nm0474850","Kumar","Pradeep","nm0066455","Banerjee","Beena","parent-child",NULL
+"869","nm0347901","GUlzar","Rakhee","nm0347899","Gulzar",,"marriage",NULL
+"870","nm0347899","Gulzar",,"nm1126068","Gulzar","Meghna","parent-child",NULL
+"871","nm0347901","Gulzar","Rakhee","nm1126068","Gulzar","Meghna","parent-child",NULL
+"872","nm1338477","Bohra","Shree Ram","nm0092170","Bohra","Surendra","parent-child",NULL
+"873","nm0092170","Bohra","Surendra","nm0092169","Bohra","Sunil","parent-child",NULL
+"874","nm1345669","Bohra","Ramkumar","nm1338477",,,"sibling",NULL
+"875","nm2629998","Khote","Nandu","nf2629998","Khote","Vishwanath","sibling","0"
+"876","nf2629998","Khote","Vishwanath","nm0451862","Khote","Durga","marriage","0"
+"877","nm2629998","Khote","Nandu","nm0451863","Khote","Shubha","parent-child",NULL
+"878","nm2629998","Khote","Nandu","nm0451864","Khote","Viju","parent-child",NULL
+"879","nm0451864","Khote","Viju","nm0451863","Khote","Shubha","sibling",NULL
+"880","nm0451863","Khote","Shubha","nm2517876",,,"parent-child",NULL
+"881","nm1128454",,,"nm2517876",,,"marriage",NULL
+"882","nm0451862","Khote","Durga","nf0451863","Khote","Harin","parent-child","0"
+"883","nf0451863","Khote","Harin","nm0576587","Mehta","Vijaya","marriage","0"
+"884","nm0576587","Mehta","Vijaya","nm1327594",,,"marriage",NULL
+"885","nm0576587","Mehta","Vijaya","nm0451861","Khote","Deven","parent-child",NULL
+"886","nm0576587","Mehta","Vijaya","nm0643349","Oberoi","Anahita","parent-child",NULL
+"887","nm0015293","Akhtar","Sardar","nm0451309","Khan","Sajid","parent-child",NULL
+"888","nm4829303","Makijany","Vinati","nm4829299",,,"sibling",NULL
+"889","nm0045136","Thakur","Sarika","nm7432227","Haasan","Akshara","parent-child",NULL
+"890","nm0045136","Thakur","Sarika","nm0352032","Haasan","Kamal","marriage",NULL
+"891","nm0539781","Malkan","Sameer","nm1550531",,,"marriage",NULL
+"894","nf7720308","Abhisheki","Balwantrao","nm7720308",,,"parent-child","0"
+"895","nm7720308","Abhisheki","Jitendra","nf7720309","Abhisheki","Shounak","parent-child","0"
+"896","nm7720308","Abhisheki","Jitendra","nf7720309","Abhisheki","Shounak","parent-child","0"
+"897","nf7720308","Abhisheki","Balwantrao","nf0542195","Mangeshkar","Dinanath","sibling","0"
+"898","nm1815713","Gautam","Mukesh","nm6497558",,,"parent-child",NULL
+"899","nm0792911","Shetty","Sunil","nm10892211","Shetty",,"parent-child",NULL
+"900","nm0451863","Khote","Shubha","nm0051119","Balsawar/Balsave","Ashwyn","parent-child",NULL
+"901","nm0050188","Kapoor","Geeta Bali","nm6334631","Kaur","Haridarshan","sibling",NULL
+"904","nf0080321","Ali","Shirin","nf0080329","Ali","Shirin's sister","sibling","0"
+"905","nm0352032","Haasan","Kamal","nm1202244",,,"sibling",NULL
+"906","nm0802182","Singh","Neelam","nm0747172","Roy","Ronit","marriage",NULL
+"909","nm0595909","Mohan","Mac","nm3672390",,,"parent-child",NULL
+"911","nm1248288","Goswami","Rajiv","nm0006370",,,"sibling",NULL
+"912","nm0006370","Kumar","Manoj","nm2279870","Goswami","Vishal","parent-child",NULL
+"913","nm1815713","Gautam","Mukesh","nm4417069",,,"parent-child",NULL
+"914","nm4417069","Gautam","Yami","nm6497558",,,"sibling",NULL
+"915","nf0080331","Hashmi","Anwar","nm1431656","Hashmi","Emraan","parent-child",NULL
+"916","nf0080322","Ali","Poornima","nf0080331","Hashmi","Anwar","parent-child",NULL
+"918","nf0080329","Ali","Shirin's sister","nm1431656","Luthria","Milan's Mother","parent-child",NULL
+"919","nf0080322","Ali","Poornima","nf0080321","Ali","Shirin","sibling",NULL
+"920","nm0025608","Anand","Chetan","nm0025628","Anand","Uma","marriage",NULL
+"921","nm0438499","Kapoor","Ranjit","nm5244740","Kapoor","Nikhil","sibling",NULL
+"923","nm0050188","Kapoor","Geeta Bali","nm1513920",,"Digvijay","sibling",NULL

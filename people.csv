@@ -1,0 +1,781 @@
+"id","hashid","year_entry","last_name","first_name","profession","Wiki","notes","year_b","year_death"
+"nf0000820","581c706d70a5c6c07635c899503fbc0b","1969","Bachchan","Teji","relative",NULL,NULL,NULL,NULL
+"nf0000821","44702962c62c27d7d53c9e939fc8bbf7","1997","Nanda","Shweta Bachchan","relative",NULL,NULL,NULL,NULL
+"nf0000822","453840e74b33071f21882de0383b9953","1969","Bachchan","Ajitabh","relative",NULL,NULL,NULL,NULL
+"nf0000823","cfac441ad254dbac866ae3d0237adf51","1969","Bachchan","Naina","relative",NULL,NULL,NULL,NULL
+"nf0001408","64f1bfdd4629ea8282ab3b1bc5dd55b8","1974","Kapur","Sheel Kanta","relative",NULL,NULL,NULL,NULL
+"nf0001409","1f25a716755cbee6508203ff65230db0","1974","Kapur","Neelu","relative",NULL,NULL,NULL,NULL
+"nf0001410","607c806167fcbd090d670464d230dc19","1974","Kapur","Aruna","relative",NULL,NULL,NULL,NULL
+"nf0004293","4d8c8636c60b81163982040c4a1c89a3","1997","Nanda","Ritu Kapoor","relative",NULL,NULL,NULL,NULL
+"nf0004294","8219dc526bf4d7e11f3dbb92f03b260b","1997","Nanda","Nikhil","relative",NULL,NULL,NULL,NULL
+"nf0004434","802015a0fc9f111fc9680dfc6b26dcfb","1969","Kapoor","Neila Devi","relative",NULL,NULL,NULL,NULL
+"nf0004487","4ad4313b8643bcc666c48496e05018c9","1995","Mehta","Jay","relative",NULL,NULL,NULL,NULL
+"nf0004571","861dddac70428d85d378852d087e7fbf","1981","Dutt","Namrata","relative",NULL,NULL,NULL,NULL
+"nf0006357","56117398e3b2f7b96f0795e49d1c70f0","1935","Samarth","Kumarsen","director",NULL,NULL,NULL,NULL
+"nf0006371","946992fe5c6f64b3f6c2650e538b898f",NULL,NULL,"Rahat","relative",NULL,"wife of Mehboob Khan and Sultan(Saira banu's brother)",NULL,NULL
+"nf0025613","851c2dfa8a9d744edd54112d56367a3b","1948","Anand","Inder Raj's brother","relative",NULL,NULL,NULL,NULL
+"nf0039339","8882dfa283679e5b027d1b83646ed30b",NULL,"Begum","Sikandara","relative",NULL,NULL,NULL,NULL
+"nf0047009","6a1a76566cbb83c1c2373c7acdbe27f6","1941","Brother","Rattan Bai's","relative",NULL,NULL,NULL,NULL
+"nf0049384","61cfb693ae4e5f80b4367f40b6f927cf",NULL,NULL,"Suchitra","relative",NULL,NULL,NULL,NULL
+"nf0052570","731415ad6dd01d09f7046deb80a8d644",NULL,NULL,"Sultan","relative",NULL,"Brother of Saira Banu",NULL,NULL
+"nf0080205","9bc06d4443261cde6179c1148253cae7","1995","Chopra","Punita","relative",NULL,NULL,NULL,NULL
+"nf0080318","e156cf5d9dc7942260ba49a50bcf5e69","1970","Darshan","Sheila","relative",NULL,NULL,NULL,NULL
+"nf0080321","9a1287e0b26b23ee35744e7348d6cd5d","1949","Ali","Shirin","relative",NULL,NULL,NULL,NULL
+"nf0080322","dd704c3baebc1029bb2ff2b973e0b75d","1949","Ali","Poornima","actor",NULL,NULL,NULL,NULL
+"nf0080323","c190a37529e3bc36bd517ea1eac86c7f","1970","Bhatt","Heena","relative",NULL,NULL,NULL,NULL
+"nf0080326","ca53d25f8cfdcba3539f821ad65df315","1970","Bhatt","Sister of Mahesh","relative",NULL,NULL,NULL,NULL
+"nf0080329","6521920c36c7d09bfb11bd06caf029a7","1949","Sister","Shirin Ali's","relative",NULL,NULL,NULL,NULL
+"nf0080331","fe3fb8a57871d248d1537a2ea0323907","1999","Hashmi","Anwar","director",NULL,NULL,NULL,NULL
+"nf0159148","5de84602ff5db323c36a7766efea47d5","1970","Singh","Mohinder","relative",NULL,NULL,NULL,NULL
+"nf0159149","ecbe207704968a423859629471ef9cc5","1970","Chopra","Pamela","music/producer/other",NULL,NULL,NULL,NULL
+"nf0159160","554fbbdb6f7d8b76008e3c415072f719","1955","Chopra","Prerana","relative",NULL,NULL,NULL,NULL
+"nf0244870","4a327b870f84a36d53861814baa74bd1","1978","Lajmi","Lalita","other",NULL,NULL,NULL,NULL
+"nf0307230","e8d16ec16c1ec6e1267b6ddabd9ebb1e","1962","Singh","Darshi","relative",NULL,NULL,NULL,NULL
+"nf0332871","f7ddb4a72a52d371ed8abb536e64b45e",NULL,"Khanna","Kamini","relative",NULL,NULL,NULL,NULL
+"nf0332872","4c715e0b1726da77cfa3d623e4def286",NULL,"Anand","Pushpa","relative",NULL,NULL,NULL,NULL
+"nf0332873","f13e5ea4a32b350aec05db0b1fd1e537",NULL,"Shah","Padma","relative",NULL,NULL,NULL,NULL
+"nf0420090","ed3b4afa8dcb9d41b33e24b178e6ca55","1995","Kapoor","Sashi/Madhu","relative",NULL,NULL,NULL,NULL
+"nf0433872","8625f79b87f133eabf5d7ef8f70aaae5","1957","Ganguly","Rupa","relative",NULL,NULL,NULL,NULL
+"nf0438493","e996edfc7cf9d628dcaaab232905dc19","1984","Kapoor","Sunita","other",NULL,NULL,NULL,NULL
+"nf0451173","cf0e27f1d0aee74311e9a3526ef10d24",NULL,"Hussain","Aashiq","relative",NULL,NULL,NULL,NULL
+"nf0451261","5e457b6f89c2b348b7a7d7964419eb7a","1983","Amrohi","Tajdar's wife","relative",NULL,NULL,NULL,NULL
+"nf0451863","906adc47032397dc0daf75fc48258153",NULL,"Khote","Harin","relative",NULL,NULL,NULL,NULL
+"nf0474801","b2dacb85f4cd7d295536f91d14a17eab",NULL,NULL,"Saeeda","relative",NULL,"Dilip Kumar's sister
+",NULL,NULL
+"nf0474802","1463b93940ab7ac3b0909d312f6262f9",NULL,NULL,"Akhtar","relative",NULL,"Dilip Kumar's sibling",NULL,NULL
+"nf0527451","79a7987282f6267178de2f5dc2654c38","1989","Luthria","Arjun","relative",NULL,NULL,NULL,NULL
+"nf0527452","0464c25a389a40e8150a68839562a223","1989","Luthria","Milan's Mother","relative",NULL,NULL,NULL,NULL
+"nf0534865","7d8691f834de9c49129887f1fd73e491","1965",,"Raghunath","relative",NULL,NULL,NULL,NULL
+"nf0542195","dd0dcfcd793f211c37ac8c9c96e7933e","1942","Mangeshkar","Dinanath","music",NULL,NULL,NULL,NULL
+"nf0576454","02bc4690a7296a9bf867ec813e6c03f1","1943","Ali","Madhu","relative",NULL,NULL,NULL,NULL
+"nf0576455","5aa0f7cdc83cd310355112f9f003ae58","0","Ali","(Baby) Ginny","actor",NULL,NULL,NULL,NULL
+"nf0613417","aa5c29575003c7e7d493d861e2d0f809",NULL,"Khan","Talat","relative",NULL,"sister/Raza Murad; mother/sonam Murad
+",NULL,NULL
+"nf0620786","0654d58ec74ae3b5bfc496dca23935c3",NULL,"Karnataki","Jaiprakash","relative",NULL,NULL,NULL,NULL
+"nf0643350","06ee869767272bb21750d60e6baa0b47","1967","Oberoi","Suresh's brother","relative",NULL,NULL,NULL,NULL
+"nf0660788","5e50b07fb2b9e5d41d95bfc9c319e35b",NULL,"Haq","Masruul","relative",NULL,NULL,NULL,NULL
+"nf0788392","11346a8808ee67f5a8f80e620701a0b7",NULL,"Shantaram","Madhura","relative",NULL,NULL,NULL,NULL
+"nf0794484","868f5bb0c5914fa1a823dcdbb4d25543","1958","Shivdasani","Hari's brother","relative",NULL,NULL,NULL,NULL
+"nf0802688","e76aaaa81d95c45fe201eefe87e01aec","1957","Sippy","Mohini","relative",NULL,NULL,NULL,NULL
+"nf0802689","c05673534e040293c66e4dd8c2569062","1968","Sippy","Sunita","relative",NULL,NULL,NULL,NULL
+"nf1033012","bb20270f24dc2d0577edb675e5586c59",NULL,"Brother","Jayshree T's","relative",NULL,NULL,NULL,NULL
+"nf1184734","393013db550e933e09dd2be018bac8c5","1999","Deol","Veerta","relative",NULL,NULL,NULL,NULL
+"nf1343476","187de15f65853dc2a82b666161ee5d37",NULL,NULL,"Rita","relative",NULL,NULL,NULL,NULL
+"nf1380425","8edf9c17e62a06abd591078e74c4393d",NULL,"Pandit","Pratap Narayan","relative/music",NULL,NULL,NULL,NULL
+"nf1380427","9bf1d786c8eac8d69d6ce2f0fbac1c75",NULL,"Pandit","Maniram","relative/music",NULL,NULL,NULL,NULL
+"nf1619842","c6eb4b8397c2cf7eb43707798fb44d1b",NULL,"Bhavnani","Sunita's father","relative",NULL,NULL,NULL,NULL
+"nf1642510","a1bdd8a00617a6fc6f2f28e7da4443d9","1939","Mukherjee","Ravindramohan","relative",NULL,NULL,NULL,NULL
+"nf1963821","792a76e63a3465c87192012142575ed6","2005","Marwah","Reena","relative",NULL,NULL,NULL,NULL
+"nf1963822","b11094059cf54fe80de67d14241904ce","2018","Motiwala","Antara","other",NULL,NULL,NULL,NULL
+"nf2629998","bcbebd888f70f8a90134c292e6170d50",NULL,"Khote","Vishwanath","relative",NULL,NULL,NULL,NULL
+"nf3828983","74542d96f8962c4249725a258682c62d",NULL,"Bhavnani","Jagjit Singh's father","relative",NULL,NULL,NULL,NULL
+"nf3828984","b70cf3eb889fce4b6af1c81bc673049a",NULL,"Singh","Jagjit","relative",NULL,NULL,NULL,NULL
+"nf4221665","8988d530e03820ed96ea4c29cc4b4558","2012","Jain","Rima","relative",NULL,NULL,NULL,NULL
+"nf4468244","331764a6677db4a9ff7f1db81f392071","1985","Govil","Vijay","relative",NULL,NULL,NULL,NULL
+"nf7720306","a4fa555173b4d4095233b4e04a8e18cf","1962","Kolhapure","Krishnarao","music",NULL,NULL,NULL,NULL
+"nf7720307","d45f3adab12b3457fde4168069748cc1","1942","Abhisheki","s/Balwantrao","music",NULL,NULL,NULL,NULL
+"nf7720308","0e8e4af6d3e8f1ecf970c6e2b85f102c","1942","Abhisheki","Balwantrao","music",NULL,NULL,NULL,NULL
+"nf7720309","a093069c9676af95f223296b9e5c30f0","2004","Abhisheki","Shounak","music",NULL,NULL,NULL,NULL
+"nf8231762","714386e90bd748bde28ff467bd7d9617","1950","Jaffrey","Hamid","relative",NULL,NULL,NULL,NULL
+"nf8836090","5fc00de63ae26b34e85e7bf4ef5a1aae","1982","Kher","Adwait","other",NULL,NULL,NULL,NULL
+"nm0000818","e81c77806f6e691c27896ae2b1b0cc5f","1974","Azmi","Shabana","actor",NULL,NULL,NULL,NULL
+"nm0000821","e3169acdb1c9b52b248ce1e26628bf2a","1969","Bachchan","Amitabh","actor/producer",NULL,NULL,NULL,NULL
+"nm0001408","96a0d132b4aef9e5b673e7943359d996","1974","Kapur","Shekhar","actor/director/producer",NULL,NULL,NULL,NULL
+"nm0002172","f494ddd3aa34f2f6c1ae3f9f6179f080","1983","Anand","Mukul","director",NULL,NULL,NULL,NULL
+"nm0004291","c69578d1658129e98cb100cd873f3f5a","1935","Dutt","Nargis","actor",NULL,NULL,NULL,NULL
+"nm0004292","0fa79c58594bef31e4c1e2bd37be8f2b","1935","Kapoor","Raj","actor/producer/director",NULL,NULL,NULL,NULL
+"nm0004335","4ba633e4dd1b735f87f4e4ef50b586a5","1986","Roshan","Hrithik","actor",NULL,NULL,NULL,NULL
+"nm0004362","2742c5817047e10d96e6576e69eb85fd","1950","Roshan",,"music",NULL,NULL,NULL,NULL
+"nm0004363","838869924572b2316e274340dc92907d","1970","Roshan","Rakesh","director/producer/actor",NULL,NULL,NULL,NULL
+"nm0004418","8a6ba53e1c1a648897159a7f6dd986de","1983","Devgan","Kajol","actor",NULL,NULL,NULL,NULL
+"nm0004429","63c7e52ae0ab939cff111c0dede4cf9a","1960","Deol","Dharmendra","actor",NULL,NULL,NULL,NULL
+"nm0004430","519362114f2a03617db82d1dddcc2fcd","1982","Kapoor","Karan","actor",NULL,NULL,NULL,NULL
+"nm0004432","9268c18e309e1c9fda45747f8d0b17ad","1929","Kapoor","Prithviraj","actor",NULL,NULL,NULL,NULL
+"nm0004433","709d577458f499406ce9269b3584ebd5","1953","Kapoor","Shammi","actor",NULL,NULL,NULL,NULL
+"nm0004434","9ddb92ccd5f6678633c78f1b6e7afa39","1945","Kapoor","Shashi","actor/producer",NULL,NULL,NULL,NULL
+"nm0004435","3b69519e0919fb0454ca89de3d3ff112","1962","Khanna","Rajesh","actor",NULL,NULL,NULL,NULL
+"nm0004436","1af35f8c4cfb43bb65f81f4ad10add78","1974","Roshan","Rajesh","music",NULL,NULL,NULL,NULL
+"nm0004437","29606b8f499d1ef95f0855d4bbefc1ad","1967","Kapoor","Sridevi","actor",NULL,NULL,NULL,NULL
+"nm0004487","4dc8d925614ce428c9aceb815393590e","1986","Chawla","Juhi","actor/producer",NULL,NULL,NULL,NULL
+"nm0004564","6e4bf3f761d38694352c418e8768c3da","1965","Deol","Hema Malini","actor/producer/director",NULL,NULL,NULL,NULL
+"nm0004569","8f2018d03558c8c8a3ef1a1702d4586a","1981","Dutt","Sanjay","actor",NULL,NULL,NULL,NULL
+"nm0004570","d0395e0847468288b30d879f194ffde4","1955","Dutt","Sunil","actor",NULL,NULL,NULL,NULL
+"nm0004626","8af5b0a4864a1c3a4f3b06e1fb52d560","2000","Kapoor","Kareena","actor",NULL,NULL,NULL,NULL
+"nm0004699","eef8879e83119ce95a0e9490ff6a59fd","1961","Ali","Lucky","music/actor",NULL,NULL,NULL,NULL
+"nm0005983","89bd696c753aab238590feb46d918c0e","1961","Burman","R. D.","music",NULL,NULL,NULL,NULL
+"nm0005984","59e60710b9a4dc257278a3bcf2c0238d","1937","Burman","S. D.","music",NULL,NULL,NULL,NULL
+"nm0006182","67fbe7f7617923cc1608cddd09aef0c7",NULL,"Malik","Anu","relative",NULL,NULL,NULL,NULL
+"nm0006348","7e7c3ffc3b9cc665f8e84287f3cb19e7","1949","Kumar","Rajendra","actor/producer",NULL,NULL,NULL,NULL
+"nm0006358","eb30af7d31c693939c4b7cad230441cb","1935","Samarth","Shobhana","actor/director",NULL,NULL,NULL,NULL
+"nm0006369","90ec3fb7b574119b9163520017e0479b","1936","Ganguly","Ashok Kumar","actor",NULL,NULL,NULL,NULL
+"nm0006370","32dd0609574e3394f244d1cb511b4830","1957","Goswami","Manoj Kumar","actor",NULL,NULL,NULL,NULL
+"nm0006371","3b7ce97fe6c2c52ab4c36693ae2b9560",NULL,"Khan","Mehboob","relative",NULL,NULL,NULL,NULL
+"nm0006433","cc39a42db9ec976ed8a8f06ab16880e7","1991","Kapoor","Karisma","actor",NULL,NULL,NULL,NULL
+"nm0006715","4a876d29ff41badfdc8cce748bd90d70","1941","Mathur","Mukesh Chand","music/actor",NULL,NULL,"1923","1976"
+"nm0006762","e978bbaefa3034b467b1344eace259d2","1961","Jaffrey","Saeed","actor",NULL,NULL,NULL,NULL
+"nm0006763","363e27df670b4236e6fed7ffc4ea5264","1973","Shroff","Jackie","actor",NULL,NULL,NULL,NULL
+"nm0006795","69fc55b495c54e2405614db3a784362a","1988","Khan","Salman","actor/producer",NULL,NULL,NULL,NULL
+"nm0007012","76a8af9194a84906d8604f886927147c","1995","Khanna","Twinkle","actor",NULL,NULL,NULL,NULL
+"nm0007102","7030e8271f50caf39223f98d07fb8df9","1982","Hashmi","Tabu","actor",NULL,NULL,NULL,NULL
+"nm0007106","112cfdf9a752d7c049c76961ef169097","1975","Kapoor","Shakti","actor",NULL,NULL,NULL,NULL
+"nm0007107","7b6980fd4b648376fd8e1525843f388b","1980","Matondkar","Urmila","actor",NULL,NULL,NULL,NULL
+"nm0007123","0d7606306bf9cd77a4b77625d3dee7d7","1971",NULL,"Mammootty","actor/producer/music",NULL,NULL,"1951",NULL
+"nm0007134","0e03db1336630a7d7e5bca8fcea2f127","1981","Khan","Farah","other/actor",NULL,NULL,NULL,NULL
+"nm0007147","79862d46101f954412ec3f0c2dcb72f9","1946","Anand","Dev","actor",NULL,NULL,NULL,NULL
+"nm0007181","3560628442f8d9197301da61b63dbac3","1956","Chopra","Yash","director",NULL,NULL,NULL,NULL
+"nm0007228","612ee0fd3e96abb8d4a596c2538cc49f","1998","Khan","Fardeen","actor",NULL,NULL,NULL,NULL
+"nm0013158","7daf03140ca66df99ae74a0ad0f2d63f","1983","Agnihotri","Atul","producer/director/actor",NULL,NULL,NULL,NULL
+"nm0013159","34a8e263e7c883dbc4d3020c155072a8","1979","Agnihotri","Rati","actor",NULL,NULL,NULL,NULL
+"nm0015286","b570d867a0733e53005cd10c9865e0e0","1953","Akhtar","Jan Nissar","music/other",NULL,NULL,NULL,NULL
+"nm0015287","82006608d81aa98e03e30b10494b757f","1969","Akhtar","Javed","music/other",NULL,NULL,NULL,NULL
+"nm0015293","90c578ff2ba617623aaeeb3dc67aff19","1932","Akhtar","Sardar","actor/music",NULL,NULL,"1915","1984"
+"nm0015295","19da7883cf04b4fae554f51b4a7bc8e0","1998","Akhtar","Zoya","other/director",NULL,NULL,NULL,NULL
+"nm0019402","a860d40aca2e44bc24106f137e47ac8f","1972","Ali","Anwar","other/actor",NULL,NULL,NULL,NULL
+"nm0019462","d6cd27b43959e59dec97594e2e7848a4","1937","Ali","Mumtaz","actor/other",NULL,NULL,NULL,NULL
+"nm0023863","d369cacd1314e31509cc925ba44f3016","1951","Khan","Amanullah","other/actor",NULL,NULL,NULL,NULL
+"nm0023868","a4abc7d542c0f56c1f39faa8aa3059c0","1970","Aman","Zeenat","actor",NULL,NULL,NULL,NULL
+"nm0025399","1f132526d7fafa918577e8761e02a39d","1938","Amrohi","Kamal","director/other",NULL,NULL,NULL,NULL
+"nm0025608","8d3c004b89d6b9a69bef92ab50446009","1946","Anand","Chetan","director",NULL,NULL,NULL,NULL
+"nm0025613","85fe2032a9a41117f6bb480a2c508e90","1948","Anand","Inder Raj","writer",NULL,NULL,NULL,NULL
+"nm0025617","151b6233cac7dfce57a35c1fc1d890db","1986","Anand","Ketan","director",NULL,NULL,NULL,NULL
+"nm0025627","aa9fad57993fe1f213a47a82b8fdb20a","1965","Anand","Tinnu","actor/director",NULL,NULL,NULL,NULL
+"nm0025628","1d4defd41704d0c6d94d257b8f1f05f4","1946","Anand","Uma","actor",NULL,NULL,NULL,NULL
+"nm0025629","bf81c5c7efd2e32b17cd6df4bc09ebde","1954","Anand","Vijay","director/producer/actor",NULL,NULL,NULL,NULL
+"nm0025631","e81cdb508b7853fa36314eebbd03bb5a","1999","Anand","Vinay","actor",NULL,NULL,NULL,NULL
+"nm0031684","d867ea2597439fd8479a870d9f0ff93c","1959","Hussain","Anwar","music",NULL,NULL,NULL,NULL
+"nm0031967","0426e6829c973d1eca90315a146dbc23","1955","Sen","Aparna","actor/director/other",NULL,"writer","1945",NULL
+"nm0037019","968443351d723b16220ca1b9e9047f89","1994","Arora","Malaika","actor",NULL,NULL,NULL,NULL
+"nm0038020","3545563e9ba42c31d040d99483f10565","1936","Ahuja","Arun","actor",NULL,NULL,NULL,NULL
+"nm0039339","cfdc2ac9a65dcff5580dfd1bb49d60d4","1945","Asif","K.","director/producer/other",NULL,"writer","1922","1971"
+"nm0044337","0432997f07bb9eec72755fcbd5c6a22f","1975","Azmi","Baba","other",NULL,NULL,NULL,NULL
+"nm0044343","1bce5f759344957fb76eb8df55fb5819","1985","Azmi","Tanvi","actor",NULL,NULL,NULL,NULL
+"nm0044796","cf92f9b8f4d727cd1f637eb5e6273a41","1978","Babbar","Raj","actor",NULL,NULL,NULL,NULL
+"nm0044999","d0ee58a8ca06623fc3a187125e0920cb","1966","Kapoor","Babita","actor",NULL,NULL,NULL,NULL
+"nm0045119","3a1ea63743daf0bf1410ffb0301c38bd","1958","Irani","Aruna","actor/producer/director",NULL,NULL,NULL,NULL
+"nm0045136","f330435e959428d5e4e646c35cb6095c","1967","Thakur","Sarika","actor/other",NULL,NULL,NULL,NULL
+"nm0045141","f3a48d24a316447ed79f8d5526c3dd07","1947","Govil","Tabassum","actor",NULL,NULL,NULL,NULL
+"nm0045393","4fac510800fc2d30ad1d15bf35f34475","2000","Bachchan","Abhishek","actor",NULL,NULL,NULL,NULL
+"nm0045394","d19e6ddc790c3517e8beff11c341d65b","1971","Bachchan","Harivansh Rai","other",NULL,NULL,NULL,NULL
+"nm0046894","cfdeafc4c7e44bf0d81820c278c189c6","1983","Bahl","Mohnish","actor",NULL,NULL,NULL,NULL
+"nm0047009","d538da0f3b583a1698e850f1bd75616c","1933","Bai","Rattan","actor",NULL,NULL,NULL,NULL
+"nm0049384","a408595a045b9210a9464534eb97d336","1981","Balaje","Suresh","producer",NULL,NULL,NULL,NULL
+"nm0050188","947f8238ee2db200de6c66a405e746f2","1946","Bali","Geeta","actor",NULL,NULL,NULL,NULL
+"nm0050197","b2147228ba24e41b7cd4b08dd4ea673d","1967","Bali","Yogeeta","actor",NULL,NULL,NULL,NULL
+"nm0051119","c039903fe3a1664dde453794a0d06950","1988","Balsawar/Balsave","Ashwyn","other","sound department
+",NULL,NULL,NULL
+"nm0052455","912e36dc3aacd2a7aaf0225e8bf67c62","1942","Swaran","Lata","actor/producer/music",NULL,NULL,"1924","2008"
+"nm0052570","c3660169f73cd993114adad59c5bc78e","1961","Banu","Saira","actor/music/producer",NULL,NULL,"1944",NULL
+"nm0054743","f95e6591bf217bb8b748458373afe466","1972","Barjatya","Kamal Kumar","producer",NULL,NULL,NULL,NULL
+"nm0054744","a3bbe3a72b4ee96b3b58d3576e85c3e6","1994","Barjatya","Sooraj","producer/other/director",NULL,NULL,NULL,NULL
+"nm0054745","7c07496b2aa94b95909eeb5df3e84081","1962","Barjatya","Tarachand","producer",NULL,NULL,NULL,NULL
+"nm0056423","fb10fb9889b9eef29f3878d380ffbb69","1970","Barot","Chandra","director/other/producer",NULL,NULL,NULL,NULL
+"nm0056426","baa4733c8f15ccf3fa3b2713f24ac286","1959","Barot","Kamal","music",NULL,NULL,NULL,NULL
+"nm0056427","1172500e30ab57e651220e83ea64ff8d","1989","Barot","Ranjit","music",NULL,NULL,NULL,NULL
+"nm0059777","68b33d301584eb6d336bc69ab02fadc5","1951","Kapoor","Basheswarnath","other/actor",NULL,NULL,NULL,NULL
+"nm0062614","3ba5c67b7c45b01fc75935ed13d5bf89","2005","Baweja","Harry","producer/director/other",NULL,NULL,NULL,NULL
+"nm0066455","4db3e39f128f3334ab0f179c535dc94b","1977","Banerjee","Beena","actor/other",NULL,"make-up department","1943",NULL
+"nm0080149","d3270e143f709802977f31dda9c18cb8","1963","Bachchan","Jaya","actor/other",NULL,NULL,NULL,NULL
+"nm0080205","0dffb3052c6d751e5ae7aefc168b603d","1995","Bhalla","Vikas","actor",NULL,NULL,NULL,NULL
+"nm0080228","d41574e6c27daad68e742ab55809d9fe","1983",NULL,"Bhanupriya","actor",NULL,NULL,NULL,NULL
+"nm0080251","ed36149651922952dacdb20a64e31b15","1990","Bharti","Divya","actor",NULL,NULL,NULL,NULL
+"nm0080310","07616a4a3ed54f18dcf9f9c6290e1ad4","1952","Bhatt","Harsukh","director/other/producer",NULL,NULL,NULL,NULL
+"nm0080315","e2d0266c269510d0e09678714a42a085","1970","Bhatt","Mahesh","director",NULL,NULL,NULL,NULL
+"nm0080319","e077b2f88e20e1252354526dc3677dfe","1989","Bhatt","Mukesh","producer",NULL,NULL,NULL,NULL
+"nm0080320","42f55ed6790d1e8fbbff4217d05a7d70","1942","Bhatt","Nanabhai","director",NULL,NULL,NULL,NULL
+"nm0080324","326b9c2ecd64eeeafd214f56727019ca","1989","Bhatt","Pooja","actor",NULL,NULL,NULL,NULL
+"nm0080325","970733729cf2a1efe7ff89c2d8f149bd","1965","Bhatt","Pravin","other/director",NULL,NULL,NULL,NULL
+"nm0080327","ee570150adcbdba87cbc65ea80bc034c","1990","Bhatt","Robin","other",NULL,NULL,NULL,NULL
+"nm0080332","633fb4cc6726ba7242fc63e5b48b7491","1937","Bhatt","Vijay","producer/director",NULL,NULL,NULL,NULL
+"nm0080333","f58f1609078b8ab3048d9e567f56b845","1992","Bhatt","Vikram","director/producer",NULL,NULL,NULL,NULL
+"nm0080345","9219d4640bc597815e345466d770c7ca","1961","Bhattacharya","Basu","director",NULL,NULL,NULL,NULL
+"nm0080427","91d00151756cc513f8ebed11423527bc","1948","Bhosle","Asha","music",NULL,NULL,NULL,NULL
+"nm0084428","4d31eebdf6ba2fab10f0c6d1e076896d","1958","Chatterjee","Biswajit","actor",NULL,NULL,NULL,NULL
+"nm0084432","0555a155301a6faacfe9b587f8eb6d15","1959","Biswas","Ajoy","director/actor",NULL,NULL,NULL,NULL
+"nm0092169","be4b17ed723caefd6a3a8b8d329347d0","1990","Bohra","Sunil","producer/other/director",NULL,"writer","1972",NULL
+"nm0092170","54893c981a82f2afa5bc05c5f3a1e1d1","1994","Bohra","Surendra","producer",NULL,NULL,NULL,NULL
+"nm0149822","a3aaa31cd5f9577f0b6414a61d93c26d","1974","Chakraborty","Mithun","actor",NULL,NULL,NULL,NULL
+"nm0151293","94aada31a24bf92c5d6dee49da14f7d5","1969","Chandravarkar","Leena","actor",NULL,NULL,NULL,NULL
+"nm0153636","7289f764fd980e2ec2f1aae2b028821b","1961",NULL,"Charusheela","actor",NULL,NULL,NULL,NULL
+"nm0154146","4a83d96300164cee2b64a732e1f899b7","1968","Chatterjee","Prosenjit","actor",NULL,NULL,NULL,NULL
+"nm0159147","092a04931a422125a10ab2be54327ab6","1989","Chopra","Aditya","producer/director",NULL,NULL,NULL,NULL
+"nm0159148","01f77b0100ef05e1e128bff57a9f7b25","1949","Chopra","B. R. ","director",NULL,NULL,NULL,NULL
+"nm0159150","9e6984a59988f4d5c4c43b3512c8c139","1951","Chopra","Dharam Raj","other",NULL,NULL,NULL,NULL
+"nm0159159","4b586ffdfecbdb2d795e71bfa72d6806","1955","Chopra","Prem","actor",NULL,NULL,NULL,NULL
+"nm0159162","2e5441f7728ba22c60074042911f98d3","1969","Chopra","Ravi","director/other",NULL,NULL,NULL,NULL
+"nm0159167","fd22c36ae08c975cfaa082d8fb9e854d","1993","Chopra","Uday","actor/producer",NULL,NULL,NULL,NULL
+"nm0196380","5cbc4e3efb39e9ea1f93c5091c262880","1955","Kapoor","Randhir","actor/producer",NULL,NULL,NULL,NULL
+"nm0201710","fae553006bcf58c820ac7d2bcd9d1730","1993","Darshan","Dharmesh","other/director/music",NULL,NULL,NULL,NULL
+"nm0201713","946ea7f0c3d168d28d9e39606c26f8e9","1996","Darshan","Suneel","producer/director/other",NULL,NULL,NULL,NULL
+"nm0201869","1319c3cf579c8c4abb5a35ce285ab243",NULL,"Dasgupta","Chidananda","director/other/actor",NULL,"writer","1921","2011"
+"nm0201956","e295b7441c59b9d8e095cf4df700458a","1945","Dasgupta","Protima","actor/director",NULL,NULL,"1922",NULL
+"nm0219967","5ed93e8dae5404d310e2d2781e3efa59","1977","Deol","Bobby","actor",NULL,NULL,NULL,NULL
+"nm0219968","dd6eea06466113cfdd4dc297385bda28","2002","Deol","Esha","actor",NULL,NULL,NULL,NULL
+"nm0219971","b6e8ce0efe5d9b825f08e824c1b63aa8","1983","Deol","Sunny","actor",NULL,NULL,NULL,NULL
+"nm0220823","292a706f14c5b6cb61d139cc4414698c","1979","Desai","Ketan","producer/other",NULL,NULL,NULL,NULL
+"nm0220828","3a190cdb00b05de1ef6ef418521b9ba4","1957","Desai","Manmohan","director/producer/other ",NULL,NULL,NULL,NULL
+"nm0222426","be3ceab5f17579bcf58c4b661f002a43","1991","Devgan","Ajay","actor",NULL,NULL,NULL,NULL
+"nm0222427","7f831d52b9077895eb6e9276c58d7414","2000","Devgan","Anil","director/other",NULL,NULL,NULL,NULL
+"nm0222428","65f3042fbb6ec3875f1506e93c4a916b","1972","Devgan","Veeru","actor/other",NULL,NULL,NULL,NULL
+"nm0222469","7809cf4b2fa1d3152fc1566c7428ac89","1954","Ahuja","Nirmala","music/actor",NULL,NULL,NULL,NULL
+"nm0222493","1f5639d01c30fc9b3bedb23f63e0874a","1934","Devi","Sitara","actor/other",NULL,NULL,NULL,NULL
+"nm0223521","1c47b96b5935eae403d8666f6328e856","1970","Dhawan","Anil","actor",NULL,NULL,NULL,NULL
+"nm0223522","90a0decd791b2d1a2215c07e8ee00569","1978","Dhawan","David","director/other",NULL,NULL,NULL,NULL
+"nm0223531","b1599889a62a430324b9e47d48b3e053","1984","Dheer","Anita","other","costume designer",NULL,NULL,NULL
+"nm0223532","85000e577032209bd504692dce5a5bae","1981","Dheer","Pankaj","actor/director/other","writer
+",NULL,NULL,NULL
+"nm0223533","542dd21c41ae71ea694fbe1dc95f7ac9","1994","Dheer","Poonam","other","costume designer",NULL,NULL,NULL
+"nm0223534","e4b62fef1228340fe92478c911a5ed1d","1987","Dheer","Satluj","producer",NULL,NULL,NULL,NULL
+"nm0244869","279e7a2a8a742add79e6b4f5a9a7fe5d","1946","Dutt","Geeta","music/actor",NULL,NULL,NULL,NULL
+"nm0244870","427059cb2bd6c72c7dfe133b39684afd","1946","Dutt","Guru","actor/director/producer",NULL,NULL,NULL,NULL
+"nm0244892","810dbe99b6182acecea4a3471c1f6ec7","1970","Dutta","J. P.","director/other/producer",NULL,NULL,NULL,NULL
+"nm0244898","8ba5821237af4b1eb5bf109826047309","1958","Dutta","O. P.","other/director",NULL,NULL,NULL,NULL
+"nm0304356","d6e99b7688b36532c407a774e7216863","1969","Ganguly","Anil","director/other/producer","writer",NULL,NULL,NULL
+"nm0307231","edc2c0463b78b0a2314469fba2295cfa","1962","Garewal","Simi","actor",NULL,NULL,NULL,NULL
+"nm0310173","1bbb518705a2d438471be5f4d6bf7119","1981","Gaurav","Kumar","actor/producer",NULL,NULL,NULL,NULL
+"nm0331727","e1d9506530f40dcf70f624590b2375da","1969","Goswami","Bindiya","actor/other/producer",NULL,NULL,NULL,NULL
+"nm0332871","8f7f5863adc92002e9ef40cef3eb82e2","1986","Ahuja","Govinda","actor",NULL,NULL,NULL,NULL
+"nm0346614","a5f9dd18d64fa8d1c0458da1672a7a0c","1944","Guha Thakurta","Ruma","music/actor",NULL,NULL,NULL,NULL
+"nm0347899","ebc2311f6d4a271670725ddae33989f8","1960","Gulzar","Sampooran Singh Kalra","director/music/other",NULL,"writer","1934",NULL
+"nm0347901","b28097fb3d8aebbd71457ef32151101d","1967","Gulzar","Rakhee","actor/other",NULL,"costumes, costumes designer","1947",NULL
+"nm0352032","98f5121a03a8e4e3a5e99fe516f426c8","1960","Haasan","Kamal","actor/music/other",NULL,NULL,NULL,NULL
+"nm0368098","0dd7ed034d1c5d36e5f95cb3e9c90abb","1969","Hashmi","Jamal","actor",NULL,NULL,NULL,NULL
+"nm0374974","6632b80929f69ef1fd04b0fd5410a735","1945","Khan","Helen","actor",NULL,NULL,NULL,NULL
+"nm0403826","36c633c2bacd48911297a597784205f1","1953","Khan","Nasir Hussain","director/producer/other ",NULL,NULL,NULL,NULL
+"nm0403981","4f56b0b0525286a25d5b6dd0c03e55e2","1961","Khan","Tahir Hussain","producer/actor",NULL,NULL,NULL,NULL
+"nm0409779","2920a056fdf6a131d1d1968f2faa05b8","1982","Irani","Adi","actor/director/other",NULL,NULL,NULL,NULL
+"nm0409787","bd9b49dcd7db10375d1e51c88864d655","1960","Irani","Daisy","actor",NULL,NULL,NULL,NULL
+"nm0409790","90a2f0eaecf3444a8e93d97cae02a5a5","1956","Irani","Honey","other",NULL,NULL,NULL,NULL
+"nm0409791","b6f516a7098073d1e723e7d02539162e","1990","Kumar","Indra","director/producer/actor",NULL,NULL,NULL,NULL
+"nm0415274","e72e3ccca13877b8bb6c3a5e3aa51520","1935",,"Jaddanbai","director/actor",NULL,NULL,NULL,NULL
+"nm0415526","33be5e75aac757174a195424b1fee112","1998","Jaffrey","Bharti","actor",NULL,NULL,NULL,NULL
+"nm0415828","f2d6b7e85c8a692d40793fe4d7f886fe","1993","Jain","Ganesh","producer",NULL,NULL,NULL,NULL
+"nm0415837","52841ac48266cc9c108c0b5b746249bd","1995","Jain","Ratan","producer/other",NULL,NULL,NULL,NULL
+"nm0419320","0198bf27e84bc045931b5e58fbb63cca","1993","Jasraj","Durga","actor",NULL,NULL,NULL,NULL
+"nm0419695","94d0016d4f38f3d015b26635de9f8d10","1941","Shantaram","Jayshree","actor",NULL,NULL,NULL,NULL
+"nm0419707","9fa28e03254c79b3039938cdd9c8525e","1972","Kapoor","Jayasudha","actor",NULL,NULL,NULL,NULL
+"nm0419787","2a86c3a0128120a6015d768fd61000ba","1941","Jaywant","Nalini","actor",NULL,NULL,NULL,NULL
+"nm0420090","707e1b6b5cf834a321d8ddd2e45a8a65","1964","Kapoor","Jeetendra","actor",NULL,NULL,NULL,NULL
+"nm0422552","21a179db3bc5cba0c1135e12e34ef07e","1976","Jha","Prakash","director/producer/other",NULL,NULL,NULL,NULL
+"nm0424101","72517e1257df40d196fdc6b201008efd","1980","Johar","Hiroo","producer",NULL,NULL,NULL,NULL
+"nm0424103","7924100b7786eb0f0c78761b2ba713fa","1989","Johar","Karan","director/producer",NULL,NULL,NULL,NULL
+"nm0424105","3b327400c6696c13eca529cc353c2593","1951","Johar","Yash","producer/other",NULL,NULL,NULL,NULL
+"nm0430787","7e35251da5feeecc81d65ac4ae830782","1961","Joshi","Arvind","actor/other",NULL,NULL,NULL,NULL
+"nm0430817","30b05f03b29772e25115034f39e1acc7","1999","Joshi","Sharman","actor",NULL,NULL,NULL,NULL
+"nm0435753","1d73b2e81e6576eef18b49f9e5067d90","1962",NULL,"Kalidas","director/producer/actor",NULL,NULL,NULL,NULL
+"nm0436967","c8eb71fdf85afca2a0fd6d0d2b5f4fb2","1953","Khan","Kamran","actor",NULL,NULL,NULL,NULL
+"nm0438092","cda66c7c143cecdedff624730f62f315","1973","Kapadia","Dimple","actor",NULL,NULL,NULL,NULL
+"nm0438098","e3036bda7f5943526e1f545ffae60b2c","1977","Kapadia","Simple","actor",NULL,NULL,NULL,NULL
+"nm0438461","5f5a41457da19a9abfd313657f5707dd","1995","Kapoor","Abhishek","director/actor",NULL,NULL,NULL,NULL
+"nm0438463","1c58d33948ccfceff726a16ddc25e313","1979","Kapoor","Anil","actor",NULL,NULL,NULL,NULL
+"nm0438465","44612e4c491de5ae8830846b130de4ea","1979","Kapoor","Annu","actor/director/music",NULL,NULL,NULL,NULL
+"nm0438470","aff67cf2cd40371d1324837c648de1c6","1980","Kapoor","Boney","producer",NULL,NULL,NULL,NULL
+"nm0438471","2e0133a464b5b8da9ed3587bb780bc25","1995","Kapoor","Ekta","producer",NULL,NULL,NULL,NULL
+"nm0438479","10dc8fb868e92160146cb5542f70c27c","1954","Kapoor","Kedar","director/producer",NULL,NULL,NULL,NULL
+"nm0438480","ee445ecd1267eec7ea25df027a7cbe4b","1978","Kapoor","Madhu","actor",NULL,NULL,NULL,NULL
+"nm0438481","8531af2b5b1c752b16ed209b7da922b2","1956","Kapoor","Mahendra","music",NULL,NULL,NULL,NULL
+"nm0438488","1ae26086159cc7309c33cf0d98e8c71d","1981","Kapur","Pankaj","actor",NULL,NULL,NULL,NULL
+"nm0438497","91b0f2cd6e29d85decbd473548b40b3a","1981","Kapoor","Rajiv","actor/producer",NULL,NULL,NULL,NULL
+"nm0438499","87c5e1c5228830bff020cc09136aee04","1981","Kapoor","Ranjit","other/director/actor",NULL,NULL,NULL,NULL
+"nm0438501","78311ffa41485a32ba3ed83b2f0821c4","1955","Kapoor","Rishi","actor",NULL,NULL,NULL,NULL
+"nm0438503","57b890acd8d97856b0e9017a557c8691","1995","Kapoor","Sanjay","actor",NULL,NULL,NULL,NULL
+"nm0438504","73a3e38427410165f7274047e3a3067d","1979","Kapoor","Sanjana","actor",NULL,NULL,NULL,NULL
+"nm0438506","0acd2c38782da9371ef7315c419828f9","1995","Kapoor","Shobha","producer",NULL,NULL,NULL,NULL
+"nm0438508","1559cea672746752572f5135dfe330eb","1958","Kapoor","Surinder","other",NULL,NULL,NULL,NULL
+"nm0438510","aac6466665a82cabaf8f321a83f56162","1933","Kapoor","Trilok","actor",NULL,NULL,NULL,NULL
+"nm0439794","7a3b7d3303bd0e9c1e6ef9c8117f6205","1957","Karnataki","Vasudev","other",NULL,"cinematographer",NULL,NULL
+"nm0440235","d0535f85a4dbb461ecff7eccaa7fe791","1951","Kartik","Kalpana","actor",NULL,NULL,NULL,NULL
+"nm0443503","4cc3f2346bca35115d361c9ff6e5a22f","1989","Kaytee","Manoj","actor/other/producer",NULL,NULL,NULL,NULL
+"nm0447240","aceec351b82ecd44d2afe0c4f9503788","1987","Khemu","Kunal","actor",NULL,NULL,NULL,NULL
+"nm0447557","131bec7eeac1eaada7b8c2d57da45b3e","1961","Kapoor","Jennifer Kendal","actor",NULL,NULL,NULL,NULL
+"nm0450200","3a957606658cf1884a963ef56d1d37f9","1980","Ramsay","Keshu","producer/director/other",NULL,"cinematographer",NULL,"2010"
+"nm0451148","c33821f34e79f15621c165627d11a5b8","1973","Khan","Aamir","actor/producer",NULL,NULL,NULL,NULL
+"nm0451170","308976455851672ca6f152c1f1fb5cf5","1996","Khan","Arbaaz","actor/producer/director",NULL,NULL,NULL,NULL
+"nm0451174","70cbf07402664ded1a6aa7ad6a2275b6","1989","Warsi","Arshad","actor/other",NULL,NULL,NULL,NULL
+"nm0451175","75b70592534f3b6ae191a410f66145b5","2001","Khan","Aryan","actor",NULL,NULL,NULL,NULL
+"nm0451183","bf0fc5884222493ee75d20e83c9c10a1","1990","Khan","Ayub","actor/producer/other",NULL,NULL,NULL,NULL
+"nm0451207","f21c4f79ff1e75c0f208298ed753a135","1969","Khan","Faisal","actor",NULL,NULL,NULL,NULL
+"nm0451211","8a550b8c43e7c274f1919aa804b26350","1956","Khan","Feroze","actor/producer/director",NULL,NULL,NULL,NULL
+"nm0451215","c3527d208278daa33823baf99d30bec0","1993","Khan","Gauri","other/producer",NULL,NULL,NULL,NULL
+"nm0451234","7755226d89b51f2fb24c56231214d6d2","1986","Khan","Irrfan","actor/director/producer",NULL,NULL,NULL,NULL
+"nm0451257","f0e239c929755b9d1abb2e303b261b65","1988","Khan","Mansoor","director/producer",NULL,NULL,NULL,NULL
+"nm0451261","85eb7135061524d2d83a433ff37fa1e3","1979","Khan","Mazhar","actor/director",NULL,NULL,NULL,NULL
+"nm0451278","6ab1c1562d340e316ba0a88e49e65e48","1947","Khan","Nasir","actor/other",NULL,"IMDb lists films in 1976 and 1980, though he allegedly died in 1974",NULL,"1974"
+"nm0451307","7e0d1bb0e4c3eeb8efcf8f59b5348989","1993","Khan","Saif Ali ","actor/producer",NULL,NULL,NULL,NULL
+"nm0451309","210724c1c4314752f76308d16591baac","1957","Khan","Sajid","actor/music",NULL,NULL,"1951",NULL
+"nm0451311","a12032c697ccc9f1bc9a220985b201bf","1960","Khan","Salim","actor/producer",NULL,NULL,NULL,NULL
+"nm0451313","22a32d8f96604674bd18a76474fab800","1962","Khan","Sanjay","actor/director/producer",NULL,NULL,NULL,NULL
+"nm0451321","dfff5d38184390a30ba81bdc16a1fd80","1988","Khan","Shah Rukh","actor/producer",NULL,NULL,NULL,NULL
+"nm0451326","a71953476030a934584822da3b2c6576","1998","Khan","Sohail","actor/producer",NULL,NULL,NULL,NULL
+"nm0451379","2df34222f4bf71bf9b6ccb56b6de0dd5","1997","Khanna","Akshaye","actor",NULL,NULL,NULL,NULL
+"nm0451391","2355a95720ed884c8e04753319e7a8f8","1998","Khanna","Rahul","actor",NULL,NULL,NULL,NULL
+"nm0451392","d2878b95f174f0406087d54d341b81d1","1999","Khanna","Rinke","actor",NULL,NULL,NULL,NULL
+"nm0451396","0e45b9aadea3a1ec8be204228cfc2f8d","1969","Khanna","Vinod","actor",NULL,NULL,NULL,NULL
+"nm0451600","143b85946fcf4abb46146778950d2736","1982","Kher ","Anupam","actor/producer",NULL,NULL,NULL,NULL
+"nm0451601","8f1443acbfa4d803c568070620ed56f4","1983","Kher ","Kirron","actor",NULL,NULL,NULL,NULL
+"nm0451846","33b4aeb59e663657581487e7b58ab650","1955","Khosla","Raj","director/producer",NULL,NULL,NULL,NULL
+"nm0451861","6950a6b19b929fa07b3142636f4bf735","1984","Khote","Deven","producer/director/actor",NULL,NULL,NULL,NULL
+"nm0451862","44dff6693904fde9e8cb32228d3cc2d2","1931","Khote","Durga","actor",NULL,NULL,"1905","1991"
+"nm0451863","4fb1d65d2438155ac873a1799e4384bb","1955","Khote","Shubha","actor/director/producer",NULL,NULL,"1940",NULL
+"nm0451864","85facb14bdcf88f1abb3cae3eef68c47","1967","Khote","Viju","actor",NULL,NULL,"1941",NULL
+"nm0456096","fa81d3e445b145146d97c158adb2f919","1948","Kiran","Usha","actor",NULL,NULL,NULL,NULL
+"nm0463315","4f231dd4c0642fbc8203f75083b7facd","1991","Kohli","Kuku","director/other/actor",NULL,NULL,NULL,NULL
+"nm0464075","a7fa93cf623ac9980cb44584dff7ad29","1972","Kolhapure","Padmini","actor",NULL,NULL,NULL,NULL
+"nm0464521","ca59c118fb7a72ad7670fd7461c9a504","1969","Sinha","Poonam(Komal)","actor/producer/director",NULL,NULL,NULL,NULL
+"nm0471427","85a4ec0c7b981852ec294928fabe0c71","1975","Krishan","Prem","actor",NULL,NULL,NULL,NULL
+"nm0474774","031b2a83746085b237a346132907b45f","1987","Kumar","Akshay","actor/producer",NULL,NULL,NULL,NULL
+"nm0474776","6d67e2b9a6a5c8bb5f7a244c032003c3","1974","Ganguly","Amit Kumar","singer",NULL,NULL,NULL,NULL
+"nm0474780","9791ba0d544146857e60e87dde928d9e","1950","Ganguly","Anoop Kumar","actor",NULL,NULL,NULL,NULL
+"nm0474801","7453340b9c50f34096e8e96fd1807164","1944","Kumar (Khan)","Dilip (Yusuf)","actor/other/director",NULL,"writer","1922",NULL
+"nm0474806","fb35962e331e9880d306f7b46fdd3d74","1986","Kumar","Gulshan","producer/actor/other",NULL,NULL,"1951","1997"
+"nm0474822","730fc0e77b81368da88be5f6196553f9","1935","Ganguly","Kishore Kumar","music/actor",NULL,NULL,NULL,NULL
+"nm0474850","08b838fc8db6ffe8157220f821e4d4f0","1947","Kumar","Pradeep","actor/producer/director",NULL,NULL,"1925","2001"
+"nm0474876","44e936cf162429fabedd4939ebdae9f4","1960","Kumar","Sanjeev","actor",NULL,NULL,NULL,NULL
+"nm0474932","eee0e914b069fe63d3aea82a95c42764","1939","Kumari","Meena","actor",NULL,NULL,NULL,NULL
+"nm0482320","ae30accaa51a1e74d393ad103610bfa5","1978",NULL,"Mohanlal","actor/music/producer",NULL,NULL,"1960",NULL
+"nm0493923","9fce97e6eb33883f7e6710df257e43c2","1978","Lajmi","Kalpana","director",NULL,NULL,NULL,NULL
+"nm0498639","8b85a1f053359a70c9d2188f6e68e864","1932","Pendharkar","Leela","actor",NULL,NULL,NULL,NULL
+"nm0527453","f3db40f2fd88a22d0d446956f87146a8","1989","Luthria","Milan","director",NULL,NULL,NULL,NULL
+"nm0534501","3fe80104ba00047c53c97c2760a46926","1941","Puri","Madan","actor",NULL,NULL,"1919","1985"
+"nm0534866","40e024e969daed790fedb686dcf58f6f","1976",,"Madhoo","actor",NULL,NULL,NULL,NULL
+"nm0534870","05c9505a1aacc204a64556623dbd6448","1939",,"Madhubala","actor",NULL,NULL,NULL,NULL
+"nm0539592","356705e5c59d1d69f5a4488870d241b4","1953","Malik","Sardar","music",NULL,"composer",NULL,"2006"
+"nm0539604","f72a7542544f9434203208aef2092225","1955","Randhawa","Malika","actor",NULL,NULL,NULL,NULL
+"nm0539781","8a104d55a9205fec76d47a629c2e64d2","1993","Malkan","Sameer","director/other",NULL,NULL,NULL,NULL
+"nm0540022","40a5a31ede33fd1e8d2af72c0e567948","1983","Malik","Daboo (Krish)","actor/music",NULL,NULL,"1963",NULL
+"nm0542195","82a0cdab57f89c3ede5a4ff33f8c3702","1968","Mangeshkar","Hridaynath","music",NULL,NULL,NULL,NULL
+"nm0542196","796cb6ca341036b8598a14e71025284b","1942","Mangeshkar","Lata","music",NULL,NULL,NULL,NULL
+"nm0542197","ce895b6bc29872b94025098f3fbe624e","1954","Mangeshkar","Usha","music",NULL,NULL,NULL,NULL
+"nm0576454","ef54e454ae0bca297e991b445d66ae68","1943","Ali","Mehmood","actor/producer",NULL,NULL,NULL,NULL
+"nm0576587","e7c772f9799e463cb937064ac5b2b790","1986","Mehta","Vijaya","director/actor/other",NULL,"writer","1934",NULL
+"nm0592578","57a08031c2fce0145970b29feea98aec","1950","Mirza","Akhtar","writer",NULL,NULL,NULL,NULL
+"nm0592583","12deb80cee378fe4fe8f313911f18e42","1987","Mirza","Aziz","director/producer",NULL,NULL,NULL,NULL
+"nm0592595","a9919952df4be263f049e31bc0272cb3","1976","Mirza","Saeed","director",NULL,NULL,NULL,NULL
+"nm0595909","c429127fb5d392ff7b62a2efbfd16cf6",NULL,"Mohan","Mac","actor",NULL,NULL,NULL,NULL
+"nm0611535","558b0c2a88e8407cee967573e51ebe1f","1960","Mukherjee","Joy","actor",NULL,NULL,NULL,NULL
+"nm0611550","d4aefac36ac993042e7c47934a5fd233","1960","Mukherjee","Ram","director",NULL,NULL,NULL,NULL
+"nm0611552","7972773af44f4e932f2bb3bcbd01c365","1989","Mukherjee","Rani","actor",NULL,NULL,NULL,NULL
+"nm0611558","e9261027f461ca67a9b1c7c98afc6f61","1977","Mukherjee","Samrat","actor",NULL,NULL,NULL,NULL
+"nm0611582","d4ec1da619511a42df299986e6591b5d","1955","Mukherjee","Subodh","director/producer",NULL,NULL,NULL,NULL
+"nm0612614","806f7126b8d1446ab4124c48f39743e6","1958",NULL,"Mumtaz","actor/music",NULL,NULL,NULL,NULL
+"nm0612618","d41a5622ba3592e35b96dd5be8aca516","1955","Mumtaz","Minoo","actor",NULL,NULL,NULL,NULL
+"nm0612870","604ff912f15e9c2539bd167d3f37df95","1978","Ambani","Tina","actor",NULL,NULL,NULL,NULL
+"nm0613407","bd726540a2006b0198a2237687dab343",NULL,NULL,"Murad","actor",NULL,NULL,NULL,NULL
+"nm0613417","4679abdeb08778ba3d8db627cece70ec","1965","Murad","Raza","actor/music",NULL,NULL,"1950",NULL
+"nm0618898","c186a070721e454243cdd590c6f07484","1967","Nadiadwala","Sajid","producer",NULL,NULL,NULL,NULL
+"nm0620785","eadbf54494929e7a07871ee9bb5fc1d1","1948",NULL,"Nanda","actor",NULL,NULL,NULL,NULL
+"nm0621251","ab87c67eb51e58f61c98ac68c7fb254f","1995","Narayan","Aditya","music/actor",NULL,NULL,"1987",NULL
+"nm0621257","3dd9596a4f7b5a03a279722ea44681fa","1980","Narayan","Udit","music/actor",NULL,NULL,"1955",NULL
+"nm0622193","def2a3eb4f88ecd4927528a191e9a5ea","1947","Malhotra","Prem Nath","actor",NULL,NULL,NULL,NULL
+"nm0622196","ec1aaa80f8a8450e42040834053712aa","1993","Nath","Rakesh","producer",NULL,NULL,NULL,NULL
+"nm0622732","c37e759bc22cfde07aca001ea7265376","1977","Naval","Deepti","actor/director/other",NULL,NULL,NULL,NULL
+"nm0623321","52067d9d0b442d84f9505ecfbb3d2682","1958","Shivdasani","Sadhana","actor",NULL,NULL,NULL,NULL
+"nm0623419","5b0e9257eb455e898e27488a97f97d11","1930","Khan","Nazir Ahmed","actor/director/producer",NULL,NULL,"1910","1983"
+"nm0631416","bd41ab63423743cb8f1165be9665e8bd","1946","Sultana","Nigar","actor",NULL,NULL,"1932","2000"
+"nm0632615","c4db43aebcba8e07d91afbcd4c583d14","1971","Nischol","Navin","actor",NULL,NULL,NULL,NULL
+"nm0638295","90dcf3b2856fd93ef8120d10d8e653cd","1950","Bahl","Nutan","actor",NULL,NULL,NULL,NULL
+"nm0643348","e60715ef159ba9b5a6dc6993183101ee","2001","Oberoi","Akshay","actor",NULL,NULL,NULL,NULL
+"nm0643349","27b7e676c7b85abcfb2f2d6d4be8f083","1998","Oberoi","Anahita","actor",NULL,NULL,NULL,NULL
+"nm0643350","9f6484676293647ecd87426023a9c467","1967","Oberoi","Suresh","actor",NULL,NULL,NULL,NULL
+"nm0657159","c738678910347c55222cb79c2d08b144","1958","Pal","Colin","other/actor",NULL,NULL,NULL,NULL
+"nm0657176","3c20ad12b1b22d16a7e4fb3034c382ff","1915","Pal","Niranjan","other/director",NULL,"writer","1889","1959"
+"nm0659156","1e7b3f0a06fb5f6d61dc7115aa016136","1986","Pancholi","Aditya","actor/producer",NULL,NULL,NULL,NULL
+"nm0659233","466e8bf12e8ce60ff8bcf601a3399196","1987","Pandey","Chunky","actor/music",NULL,NULL,NULL,NULL
+"nm0659264","75cc19d73799311599bf8de167ea2d08","1967","Pandit","Sulakshana","music/actor",NULL,NULL,NULL,NULL
+"nm0659266","0d666145043c78906137297ff1222a60","1972","Pandit","Vijayata","music/actor",NULL,NULL,NULL,NULL
+"nm0660788","1c11870ef0c3a9074fa067423c1bc390","1944","Para","Begum","actor/other",NULL,"costumes",NULL,"2008"
+"nm0661239","891af9f5bee36bf437185e8478ddb792","1952","Parekh","Asha","actor",NULL,NULL,NULL,NULL
+"nm0665349","83937197ea23ca9994b7507843c17219","2000","Patel","Ameesha","actor/producer",NULL,NULL,"1975",NULL
+"nm0665351","d14b9653a927968ce2cad64be0c6c839","1983","Patel","Anuradha","actor",NULL,NULL,NULL,NULL
+"nm0665352","5ae88381a41b7fbaf7f53be4de5843de","1981","Patel","Asha","actor",NULL,NULL,NULL,NULL
+"nm0665544","9a4e7241d44f2178a247efac5835a772","1948","Pathak","Dina","actor",NULL,NULL,NULL,NULL
+"nm0665550","1f45f654ddacd7947636c1dba3a0590f","1983","Pathak","Ratna","actor",NULL,NULL,NULL,NULL
+"nm0665554","8325e6654164154c618c81b6904e4e9a","1981","Pathak","Supriya","actor",NULL,NULL,NULL,NULL
+"nm0665599","3ced05cb87e6a724287a79efd1341a8b","1974","Patil","Smita","actor",NULL,NULL,NULL,NULL
+"nm0671707","4b4c45eceda72014bc9794e4caabe325","1920","Pendharkar","Baburao","actor/director/producer",NULL,NULL,"1896","1967"
+"nm0671708","ecd4bf806e89b595845e067a8af8f921","1925","Pendharkar","Bhalji","director/other/producer",NULL,"writer","1898","1994"
+"nm0695170","aff85d9a641f11fb908df0c1b6976fa8","1944","Bakshi","Om Prakash","actor/director/producer",NULL,NULL,NULL,NULL
+"nm0698183","730541103b72bdd4aa5b089bfd5b3321","1987",NULL,"Shantipriya","actor",NULL,NULL,NULL,NULL
+"nm0700869","02af93616f9299f432ef9d92248a1488","1967","Puri","Amrish","actor/music",NULL,NULL,"1932","2005"
+"nm0700875","d5a449f90cc0ca579b697ce8c4a3d511","1975","Puri","Om","actor/music",NULL,NULL,NULL,NULL
+"nm0706787","57e0a5b6900c19cd8b852228a01a37c5","1997","Bachchan","Aishwarya Rai","actor",NULL,NULL,NULL,NULL
+"nm0706790","21b7a21a2824278fa89ed6e3083437be","1951","Rai","Bina","actor",NULL,NULL,NULL,NULL
+"nm0706794","bc3f9eed19559213c7bfbac92e150898","1979","Rai","Gulshan","producer/other",NULL,NULL,"1924","2004"
+"nm0706800","c463b743acdaf7da6e795cdb91903d6c","1977","Rai","Rajiv","director/other",NULL,"writer, editor","1955",NULL
+"nm0707398","b9521c34eeb0c9f482030594d735b06e","1938","Malhotra","Rajendra Nath","actor",NULL,NULL,NULL,NULL
+"nm0707471","027f0bd202b6520f7a73491a9aa34022","1954","Shantaram","Rajshree","actor/other",NULL,NULL,NULL,NULL
+"nm0707502","e8de564d2915a14f4ec605d477293df1","1964","Rajvansh","Priya","actor",NULL,NULL,NULL,NULL
+"nm0707534","f7eddf31123d9ee8ca2d6131f1b8768f","1955","Nath","Reema ","director",NULL,NULL,NULL,NULL
+"nm0708899","f59cacaed271af44df4864e3b8043292","1975","Ramsay","Kiran","other/producer/director","sound department",NULL,NULL,NULL
+"nm0708900","5650d833ec1b645587479e224b8de483","1967","Ramsay","Kumar","other/producer",NULL,"writer
+",NULL,NULL
+"nm0708913","255293db0192312b466fba4aa875f257","1971","Ramsay","Shyam","director/other",NULL,"editor, writer","1952",NULL
+"nm0708917","c61b00e0f260541c1b5b10170811b195","1971","Ramsay","Tulsi","director/producer/other",NULL,NULL,"1944","2018"
+"nm0709784","9f5a16ce0ff76dfb0c0eab44da34962f","1963","Randhawa","Sardara Singh","actor",NULL,NULL,NULL,NULL
+"nm0713618","ec4ad6fd85e6b9d9a348f3d1fbd6528e","1981","Razdan","Soni","actor",NULL,NULL,NULL,NULL
+"nm0746950","3a93d5ce2c52e32711151da05b502be6","1929","Roy","Bimal","director/producer/other ",NULL,NULL,NULL,NULL
+"nm0746987","9d16661eb10b08da63e8854af6e00ff8","1971","Roy","Debashree","actor/politics",NULL,NULL,NULL,NULL
+"nm0747149","c4e9527932c5306a0c0cf6c026e3e987","1990","Roy","Rahul","actor",NULL,NULL,NULL,NULL
+"nm0747172","e1bf717e768d18b6ff554f375b3a2283","1992","Roy","Ronit","actor",NULL,NULL,NULL,NULL
+"nm0755091","9cbe0a5aeab82da61e853b1b9c9ff3a4","1972","Sachdev","Asha","actor",NULL,NULL,NULL,NULL
+"nm0756010","9da00002e3f3251add1b5a47ce152e09","1979","Mukherjee","Sagarika","music/actor/other",NULL,NULL,NULL,NULL
+"nm0756378","e041a1b6452b2e48974852d93ee6330d","1951","Sahni","Parikshat","actor",NULL,NULL,NULL,NULL
+"nm0756379","82ee0f906c0fa5f9b234372f4e2a844b","1946","Sahni","Balraj","actor/director",NULL,NULL,NULL,NULL
+"nm0756380","6c27f43e91a5111fc909fb6bea1b96cb","1984","Sahni","Bhisham","actor/producer",NULL,NULL,NULL,NULL
+"nm0756489","235d5991f8c290bf98d86d8717943936","1987","Saigal","Sumeet","actor/producer",NULL,NULL,NULL,NULL
+"nm0756950","ec75f3db659b3f0f87cb96ecea44abd9","1948",NULL,"Sajjan","actor",NULL,NULL,NULL,NULL
+"nm0759662","a971110d077c88bd0c898f4503e03574","1955","Samanta","Shakti","director/producer",NULL,NULL,NULL,NULL
+"nm0761890","8f4bab0951dd0f1559740d5f6998ab83","1952","Shantaram","Sandhya","actor",NULL,NULL,NULL,NULL
+"nm0764314","0b051847fb989fd8f9c8826f940c0cc6","1946","Santoshi","P. L.","director",NULL,NULL,NULL,NULL
+"nm0764316","c29ea0baceea4662e13689ea38ea8e0d","1990","Santoshi","Rajkumar","director/producer",NULL,NULL,NULL,NULL
+"nm0764667","f3231a2af6eead2e3d5c0e9dcfb0dd10","1975","Sapru","Priti","actor",NULL,NULL,NULL,NULL
+"nm0764669","286f0b71d9ac8f1085443e2445c6f85d","1965","Sapru","Tej","actor/director",NULL,NULL,NULL,NULL
+"nm0782247","27e8bc0f2ff542bb340e0893ab7383d4","1946","Sehgal","Zohra","actor/other",NULL,NULL,"1912","2014"
+"nm0784018","c763a08267b5be28c06b566702be6f5f","1967","Sen","Moon Moon","actor",NULL,NULL,"1948",NULL
+"nm0784025","e70b638989922b6467f833fede11bc75","1998","Sen","Raima","actor",NULL,NULL,"1979",NULL
+"nm0784042","59e7d83bfa8d00e9b9a9670bacfd2c76","1953","Sen","Suchitra","actor",NULL,NULL,"1931","2014"
+"nm0787447","26888d765bcf5130e9a4a8a129d5d2d7","1994","Shah","Kashmira","actor/other/director","writer",NULL,NULL,NULL
+"nm0787462","b2d0d47d0509e34d28808f9a781ee855","1967","Shah","Naseeruddin","actor",NULL,NULL,NULL,NULL
+"nm0788391","273ea23c48bc42c453388aa2672a32e4","1927","Shantaram","V","director/producer/actor",NULL,NULL,NULL,NULL
+"nm0792901","00aa2f926d2db5049c5c0938761c0019","1956","Shetty","Muddu B.","other/actor",NULL,"stunts","1938","1982"
+"nm0792906","ecbafc185bfdb2512c5d63613e4d0449","2000","Shetty","Shamita","actor",NULL,NULL,"1979",NULL
+"nm0792908","b62aa2614d58e6951d5bd30ed6625f30","1993","Shetty","Shilpa","actor/producer",NULL,NULL,"1975",NULL
+"nm0792911","5fa9860fdb1ab94809736b594573d2b7","1992","Shetty","Sunil","actor",NULL,NULL,NULL,NULL
+"nm0794484","e69f7dfb58c4493e8c6cc0001fbad57f","1935","Shivdasani","Hari","actor",NULL,NULL,NULL,NULL
+"nm0795411","7da296df954075018a4a1cbc5f1430d1","1990","Shrivastava","Adesh","music",NULL,NULL,NULL,NULL
+"nm0795652","c16d000099ea82dc11d57a0386d1a1e2","1973","Shukla","K. K.","other",NULL,NULL,NULL,NULL
+"nm0796494","01be09a9b908a9b607d23b7aac665f97","1971",NULL,"Siddharth","actor",NULL,NULL,NULL,"2004"
+"nm0802080","5e8630a33eb72c825c80f23f46be61ff","1983","Singh","Amrita","actor",NULL,NULL,NULL,NULL
+"nm0802107","02d5a8286bc7ac3ca9656fdff639f13c","1952","Singh","Dara","actor",NULL,NULL,NULL,NULL
+"nm0802182","ba3aebd0d1a55fcc5010d381528e2409","1999","Singh","Neelam","actor",NULL,NULL,NULL,NULL
+"nm0802183","a495e66156fdcf50db001ca28306ee70","1966","Kapoor","Neetu Singh","actor",NULL,NULL,NULL,NULL
+"nm0802374","78b66fbcc0569208b5c18664d57ebacd","1967","Sinha","Shatrughan","actor/music",NULL,NULL,NULL,NULL
+"nm0802688","ec3327ad04f963be7bdcc1c991342709","1951","Sippy","G. P.","producer/director",NULL,NULL,NULL,NULL
+"nm0802693","a79ac9ee8602c76313e786d83c4b26a2","1968","Sippy","Ramesh","director/producer",NULL,NULL,NULL,NULL
+"nm0802695","50d1ad12447b2434a3cc024510e1f4fd","1975","Sippy","Vijay","other/producer",NULL,NULL,NULL,NULL
+"nm0814193","6c75bf23cb8abb902b59427656957761","1980","Murad","Sonam (Bakhtawar)","actor",NULL,NULL,"1972",NULL
+"nm0837199","41128ae372ac0a10fb1d0f3f899be731","1954","Luthria","Sudhir","actor",NULL,NULL,NULL,NULL
+"nm0839634","d336c636323bb059e16fe1d6cb0ba01c","1999","Suri","Sanjay","actor/producer",NULL,NULL,NULL,NULL
+"nm0846616","89d144576fd477acec091e265b2e695d","1959","Tagore","Sharmila","actor",NULL,NULL,NULL,NULL
+"nm0849195","53f3e175d3480cef11b1002b4b2ae414","1962","Tandon","Lekh","director/actor/other",NULL,NULL,NULL,NULL
+"nm0849199","3a47bad5669144fbf48d12fe98876e95","1991","Tandon","Raveena","actor/producer",NULL,NULL,NULL,NULL
+"nm0849200","2f70749fad3d3cc971ca08c0dc9612d0","1971","Tandon","Ravi","director/producer/actor",NULL,NULL,NULL,NULL
+"nm0849500","0b588f357a6975cafb550c36dcbf6f06","2003","Mukherjee","Tanisha","actor/producer",NULL,NULL,NULL,NULL
+"nm0849863","3977d8fc4f6df777b665284394c70b12","1950","Mukherjee","Tanuja","actor",NULL,NULL,NULL,NULL
+"nm0894340","0991a567ca2dcb4a7e2c2f3e63e497c8","1961","Verma","Deven","actor",NULL,NULL,NULL,NULL
+"nm0898521","05a1a538b402d2d071538bd7c98ea361","1932","Karnataki","Master Vinayak","actor/director/producer",NULL,NULL,NULL,NULL
+"nm0906226","6fa6119fb12933898879110738e65491","1974","Wahab","Zarina","actor",NULL,NULL,NULL,NULL
+"nm0944406","5e63d762d1c9fc664188a3a225c95715","1986","Xavier","Thomas","other",NULL,NULL,NULL,NULL
+"nm0958861","76ce3828badbf4b90790ff8004eae0e6","1985","Zutshi","Raj","actor/other",NULL,NULL,"1961",NULL
+"nm0961448","fd429d6a535940d58f31aa3e1cee75cb","1966","Malhotra","Narendra Nath","actor",NULL,NULL,NULL,NULL
+"nm0969428","9ab7d76f451c9d2ab3f1bfb2eaa1db4a","2001","Kapoor","Tusshar","actor",NULL,NULL,NULL,NULL
+"nm0971111","47857d68fc6ca6522a497b2fce799aa0","1965","Mukherjee","Deb","actor/director/producer",NULL,NULL,NULL,NULL
+"nm0989106","f4de5175588a11be0617f0c9680bb6e2","1982","Dave","Ketki","actor/music",NULL,NULL,NULL,NULL
+"nm0992664","983d6c23087e4d3cd4c5fa4bc4eaf701","1993","Nath","Karan","actor",NULL,NULL,NULL,NULL
+"nm0995505","426baacd0cf680c98b2059470977bb38","2001","Khan","Saqib","producer",NULL,NULL,NULL,NULL
+"nm0996449","4ccdf2d342125112e83a23d0d07c017b","1994","Baweja","Paramjeet","producer",NULL,NULL,NULL,NULL
+"nm0996960","8d3654567a1f2342dfde39199ebfbc74","1981","Goswami","Kunal","actor",NULL,NULL,NULL,NULL
+"nm0999225","fc84c82739fc514cc3914e6fb00c28ca","2011","Kapoor","Seema","other/director",NULL,NULL,NULL,NULL
+"nm1001620","8183812bbac114ee51b69fa9e551d063","1993","Pal","Deep","other",NULL,"camera, electrical, cinematographer",NULL,NULL
+"nm1006855","c3f9506f07bb2ef8a7c00df7242f2008","1989","Dev","Shaarang","music",NULL,NULL,NULL,NULL
+"nm1017633","50b3358c1b339c9e3c4f189a018d97b9","1999","Bhatt","Alia","actor",NULL,NULL,NULL,NULL
+"nm1018669","0e4d0a80b3fe6ecfebe6e045906aadab","1997","Pandit","Shraddha","music",NULL,NULL,NULL,NULL
+"nm1023986","f8c464b71558ff760a53b4277d3e4c22","1983","Bhattacharya","Aditya","director",NULL,NULL,NULL,NULL
+"nm1024536","f0f05088f230e69ea63d811dc22d712d","1994","Irani","Balraj","other/producer",NULL,NULL,NULL,NULL
+"nm1024685","4f818a781ef989be32d65663d9a62340","2000","Kumar","Bhushan","producer/other",NULL,NULL,NULL,NULL
+"nm1025258","ef0c549b71921b23fb3c600c9e3302fe","1999","Shetty","Navin","other",NULL,"costumes, production designer
+",NULL,NULL
+"nm1027679","8a1da28c44173c3be198d0c1cc37b871","1955","Adarsh","B. K.","director/producer/other ",NULL,NULL,NULL,NULL
+"nm1027719","d895b01ed0e4432af78405088a79790d","2004","Akhtar","Farhan","director",NULL,NULL,NULL,NULL
+"nm1027791","437b693b7eeb0a1d40d8d33378077b55","1965","Anand","Bittu","producer",NULL,NULL,NULL,NULL
+"nm1030225","0042451982c86631779dd931fe62d164","1967","Irani","Firoz","actor/director/other",NULL,NULL,NULL,NULL
+"nm1033012","2afd8cd03a9f83871ca493b505cbfe64","1959","Talpade","Jayshree","actor/other",NULL,NULL,NULL,NULL
+"nm1034805","a458709d75782b988830f24ed6050394","1989","Mukherjee","Shaan (Shantanu)","music/actor",NULL,NULL,"1972",NULL
+"nm1042471","702f0863c2a2091ccbe2d7d65ce43cbb","1970","Mukesh","Nitin","music/actor",NULL,NULL,NULL,NULL
+"nm1042581","077806907474b7491acba4cf0aedb1bf","1956","Bhatt","Arun","director/other",NULL,NULL,NULL,NULL
+"nm1059103","5f7eaba0d7db9d0550d09c23b447e6f0","2002","Oberoi","Vivek","actor",NULL,NULL,NULL,NULL
+"nm1062896","13fff056cd3fa61c9014564164ded0e2","1982","Samanta","Ashim","director/producer",NULL,NULL,NULL,NULL
+"nm1069453","9b69379aa679cbf2076c7ba8fedbf1da","1997","Roy","Rajlaxmi R.","actor",NULL,NULL,NULL,NULL
+"nm10892211","d9dfb735052ee5a2fd3a8584b5e0bbe5","2020","Shetty","Ahan","actor",NULL,NULL,NULL,NULL
+"nm1105183","157b4f0b2f06da528d40de2dce8fe906","1980","Ganguly","Rajani","producer/other","writer",NULL,NULL,NULL
+"nm1116258","9b13cdef7f06c97a505c2e7193e13e3f","1991","Sen","Riya","actor",NULL,NULL,"1981",NULL
+"nm1123937","5b317a9687eb5442269fcb6f0748dd8c","1994","Roy","Rohit","actor",NULL,NULL,NULL,NULL
+"nm1125302","c3e467324a0cb2274b9077fc701280c5","1971","Bhattacharya","Rinki Roy","other",NULL,NULL,NULL,NULL
+"nm1126068","994a274b14d7ff8f5f95305fe8f3de67","1993","Gulzar","Meghna","director/other",NULL,"Director | Writer | Second Unit Director or Assistant Director",NULL,NULL
+"nm1126884","5a7db3cd2e15493081e9cbc6fcaf85d3","1973","Mukherjee","Shomu","director/producer",NULL,NULL,NULL,NULL
+"nm1127177","6d3073424e199c52b6d9449a403efa61","1949","Puri","Chaman","actor",NULL,NULL,NULL,NULL
+"nm1128454","a2378cecc1419a2a6cdbaae5848cc3a5","1984","Shah","Karan/Sanjay","actor/producer/other",NULL,NULL,NULL,NULL
+"nm1139068","c27ee2a9923eb6ff675bf973d84c374b","1974","Khan","Akbar","actor/director/producer",NULL,NULL,NULL,NULL
+"nm1145607","66b04247d8fb1975e264bcdffd8003e3","1967","Khan","Nuzhat","actor",NULL,NULL,NULL,NULL
+"nm1145655","a072bfd574aab8eca22d031a1a8b4eeb","2000","Kunder","Shirish","other/music",NULL,NULL,NULL,NULL
+"nm1147677","68f5c40bf8ecfb1c967fb03338f30700","1999","Arora","Amrita","actor",NULL,NULL,NULL,NULL
+"nm1149859","6167cb84f2ee7439b39b8892ebd4c8eb","1982","Malkan","Jayant","producer",NULL,NULL,NULL,NULL
+"nm1159360","a323ecce25025d8b19c48f32893dac05","1945","Kabir","N. S.","actor/producer/other",NULL,NULL,NULL,NULL
+"nm1163202","08a9014c890a032c7030ec2014480858","1958","Balaji","K.","actor/producer/other",NULL,NULL,NULL,"2009"
+"nm1166510","a56b2f42e9ca23715fda823c813262cb","1977","Mukherjee","Sharbani","actor",NULL,NULL,NULL,NULL
+"nm1178825","1c076e5e318c7096697391a1d6060ab0","2001","Malhotra","Akanksha","actor",NULL,NULL,NULL,NULL
+"nm1184733","66712c3a81468c2eddc049be66608ed8","1969","Deol","Ajit Singh","actor/producer/director",NULL,NULL,NULL,NULL
+"nm1185265","1f37cb9860a769d7628c25a625f0cad0","1984","Juneja","Kiran","actor",NULL,NULL,NULL,NULL
+"nm1191646","44604289a528e0ea9429c0796a7b1d3d","2002","Babbar","Arya","actor",NULL,NULL,NULL,NULL
+"nm1195705","4d1d472ea3fc09da3c4d56de6e037b48","1963","Nadiadwala","A. K.","producer",NULL,NULL,NULL,NULL
+"nm1199508","480673361d0939cb19fa94c00b0d624e","1985","Kher ","Raju","actor",NULL,NULL,NULL,NULL
+"nm1201873","2720db79c23e33065094cfae1c95392d","1989","Azim","Neelima","actor",NULL,NULL,NULL,NULL
+"nm1202244","47874604f2a05e155164ef2c4ad42737","1979","Chandrahasan"," ","other/director/actor",NULL,NULL,NULL,NULL
+"nm1207480","7008a59c30a8d00737bf6f44020e7b6d","1975","Kapoor","Aditya Raj","actor/other",NULL,NULL,NULL,NULL
+"nm1207634","de0ea44b6bc4c9f56bc1bf92e38cab73","1980","Sippy","Suresh","producer",NULL,NULL,NULL,NULL
+"nm1216260","e63aa00b169429163baf6964aad13c98","2002","Desai","Kanchan","producer",NULL,NULL,NULL,NULL
+"nm1225454","e1db2abbad69264115b5d7c999bb1180","1985","Kapoor","Rohan","actor/music",NULL,NULL,NULL,NULL
+"nm1228897","d94b30083735afd49d528b9274d6c660","1984","Shroff","Ayesha","producer/actor",NULL,NULL,NULL,NULL
+"nm1231899","1501fc2b3b18184bde09fc823b7feacf","2001","Chopra","Priyanka","actor",NULL,NULL,NULL,NULL
+"nm1234298","1fd3f58f56b2fa0f196711b172b8bdb1","1983","Sen Sharma","Konkona","actor/director/other",NULL,"writer","1979",NULL
+"nm1242277","a78be91fe12bdc4aca5d4fe26d31b05a","2000","Sippy","Sunhil","director/producer/other ",NULL,NULL,NULL,NULL
+"nm1244979","91d5bccb47a1b9f29fed5f2df64189a6","1970","Kausar","Heena","actor",NULL,NULL,NULL,NULL
+"nm1248288","c359474e72244495674c3edf2ee63be0","1983","Goswami","Rajiv","actor/director/other",NULL,"editor",NULL,NULL
+"nm1249116","053a82c6f4f6179ddfd3bf99e20cabef","1999","Shorey","Ranvir","actor/music",NULL,NULL,"1972",NULL
+"nm1261158","bb7ca7d1ba0c0a53819afd50ea68883a","1985","Nagrath","Ira","music",NULL,NULL,NULL,NULL
+"nm1261343","fc9d1163ded1c51813d3ff98a6fff311","2001","Puri","Anoop","actor",NULL,NULL,NULL,NULL
+"nm1267029","9387e5d9f8e4bf71e713bd426d192fde","1992","Shetty","Hriday","director/other",NULL,NULL,NULL,NULL
+"nm1267095","9b3171ec35a55f7aae93fe22badf2795","1995","Soni","Samir","actor",NULL,NULL,NULL,NULL
+"nm1267440","f20e90228f92ce0cb273ed1a799d8109","1999","Xavier","Swati","other",NULL,NULL,NULL,NULL
+"nm1268956","d5ae9736f3c9a76f4e73f3c5a98c9f6b","1999","Kabir","Sanober","actor/music",NULL,NULL,NULL,NULL
+"nm1269729","5514dfb15692bb24edc33e745031d302","1982","Pandit","Jatin","music",NULL,NULL,NULL,NULL
+"nm1269730","9054a3fd1067d1071d014636da1f763b","1991","Pandit","Lalit","music",NULL,NULL,NULL,NULL
+"nm1274179","6a80a4500e807a6494a7f148795aaffa","1979","Mukherjee","Manas","music",NULL,"composer
+",NULL,NULL
+"nm1276931","dff423d4aca1153fc053b4dcb7ef264a","1985","Pandit","Yash","actor",NULL,NULL,NULL,NULL
+"nm1279922","f61a8db94dd2734f5e653fc47c8efa33","1989","Khatter","Rajesh","actor",NULL,NULL,NULL,NULL
+"nm1299011","5d4278e4c870897e4030eb879a2d78d2","2003","Deshmukh","Riteish","actor",NULL,NULL,NULL,NULL
+"nm1299510","42cf8c1bd69387198ea2bfe736231c9a","1999","Deshmukh","Genelia D'Souza","actor/other",NULL,NULL,NULL,NULL
+"nm1300301","023f7771ed7ae39d119dae60a92eab30","2003","Khan","Zayed","actor",NULL,NULL,NULL,NULL
+"nm1306744","11d281adbeb2f75c2932f7002c013523","1956",NULL,"Meena","actor",NULL,NULL,NULL,NULL
+"nm1310264","67f1b55ffb9cd442801711b7856b598b","1982","Irani","Ratan","producer",NULL,NULL,NULL,NULL
+"nm1318320","02a05dd98a863ea3e7e0437580904352","2003","Babbar","Juhi","actor",NULL,NULL,NULL,NULL
+"nm1318321","bcab31b2b1437c252424577866ce6ec8","2003","Babbar","Nadira","actor",NULL,NULL,NULL,NULL
+"nm1327594","0b3f4f545a3342eabe6417b187705488","1988","Mehta","Farroukh","actor",NULL,NULL,NULL,NULL
+"nm1338477","faede38ee3c58576f0b5a2733a2c22eb","1969","Bohra","Shree Ram","director",NULL,NULL,NULL,NULL
+"nm1339267","f205111fc4166a36bdbcc18c5c23c10d","2000","Kolhapure","Tejaswini","actor",NULL,NULL,NULL,NULL
+"nm1339776","765f37abbef137567c75e0a52284fdbe","1969","Puri","Ramesh","director/other/actor",NULL,NULL,NULL,NULL
+"nm1343477","d20149d597d12eb1506d0015a180efba","2003","Sharma","Sameer","other/director",NULL,"writer",NULL,NULL
+"nm1345669","b4e549a7dad382f1959369c3e439e9f2","1959","Bohra","Ramkumar","director/producer",NULL,NULL,NULL,NULL
+"nm1347210","eae9ec865fad09a69bf71fb8a4c8dcd4","1961","Purohit","Shekhar","actor",NULL,NULL,NULL,NULL
+"nm1349318","c94d42e963c4b24be99622ffb15c2a97","1989","Khan","Sajid","actor/other",NULL,NULL,NULL,NULL
+"nm1372788","54a4c6a2b124c8a2f4b8148ed7559930","1997","Kapoor","Shahid","actor",NULL,NULL,NULL,NULL
+"nm1379240","93cf5e77f84950f7a1e2c6d33cab7766","1972","Barjatya","Ajit Kumar","producer",NULL,NULL,NULL,NULL
+"nm1379241","8e5e7a60e40f4cd995b4999a4a90a04b","1972","Barjatya","Raj Kumar","producer",NULL,NULL,NULL,NULL
+"nm1380426","f65cf51f75c167cb04a8964c47fdd95f","1987","Jasraj","Pandit","music",NULL,NULL,NULL,NULL
+"nm1391682","ba0cf453500b38e99c3d53f9e7674dcc","1995","Sippy","Rohan","producer/director",NULL,NULL,NULL,NULL
+"nm1393654","6aa62a1dba4fe849f22dd0a9af91eca8","1973","Ganapathy","Vani","actor/other",NULL,NULL,NULL,NULL
+"nm1396405","dfe31c2fb5481d0d1460ee24a70a1777","1977","Nadiadwala","H. A.","producer",NULL,NULL,NULL,NULL
+"nm1399188","f703d9e3116ebd9eb80d8f06f96009c1","2016","Sikdar","Sutapa","other/producer/music","writer",NULL,NULL,NULL
+"nm1405359","2dc7ee33171611aff1e8dbc7bdb8d528","1988","Khan","Imran","actor/director",NULL,NULL,NULL,NULL
+"nm1431656","092a88f6abf2348731dcfe476fc4d0eb","1999","Hashmi","Emran","actor/other",NULL,NULL,NULL,NULL
+"nm1437485","b9bf1250eaf006732b058f16f4c9dd57","2010","Shah","Imaad","actor/music",NULL,NULL,NULL,NULL
+"nm1442631","50f1256ea76ed26e22b6f509eec6fa08","1946","Sahni","Damayanti","actor",NULL,NULL,NULL,NULL
+"nm1444479","e0e2d2b8aed25e871f69ef8c7995536d","2001","Rao","Kiran","producer/other/actor",NULL,NULL,NULL,NULL
+"nm1460159","6878f918b2c63ca7dcdd9ffd60d41f0e","1994","Shetty","Rohit","actor/director/other",NULL,"stunts","1974",NULL
+"nm1464043","3007540e1f9f4a5db1a63a9ee418b8f9","1950","Bali","Jaswant","actor",NULL,NULL,NULL,NULL
+"nm1483377","98e5b8814400b079b2b411e7bc5d9bca","2003","Patel","Ashmit","actor/other/music",NULL,NULL,"1978",NULL
+"nm1487785","e65a209eb60e3d1959ad044111de530c","1959","Pacchi","Ram Prakash","actor/producer/director",NULL,NULL,NULL,NULL
+"nm1498914","a15a95a60d8a705d43153c398b2cd8f2","1953","Dheer","C. L.","director",NULL,NULL,NULL,NULL
+"nm1513920","e2b4c33bd370533e046e8c96bb0e46f0",NULL,NULL,"Digvijay","director/producer",NULL,NULL,NULL,NULL
+"nm1516055","0d3d9853be1059107b955170cd9dae3e","1972","Ramsay","Gangu","other/producer",NULL,"cinematographer",NULL,NULL
+"nm1524731","67c473dd46e604df93db4e7978ce87be","1970","Rajput","Mona","actor",NULL,NULL,NULL,NULL
+"nm1531347","f53d5b30a62bae3ec7bc7d8010b8f95f","1965","Chopra","Raj","other",NULL,NULL,NULL,NULL
+"nm1532632","45e98bc99140443f17b484b738754eac","1962","Randhawa","Parduman","actor/other/producer",NULL,NULL,NULL,NULL
+"nm1538764","616290bdd0717ac35e7f8c00360991b1","1982","Dave","Rasik","actor",NULL,NULL,NULL,NULL
+"nm1539779","11ed016b6db7b43518b55e7c83cd01cc","1977","Khan","Nikhat","other",NULL,NULL,NULL,NULL
+"nm1539788","006fd5740a2ce8cd4637b20e912edbb9","2003","Khosla Kumar","Divya","actor/producer/director",NULL,NULL,NULL,NULL
+"nm1550531","065daad6fe90adcf0f2804900af6270b","1976","Bhayani","Mamta","actor",NULL,NULL,NULL,NULL
+"nm1550928","7ddb2be2d4f872e5fdffa9f3a44d9c5e","1972","Nath","Monty","actor/director/producer",NULL,NULL,NULL,NULL
+"nm1553117","62db50123121bc36e54a63cda37beafc","1959","Purohit","Suraj","actor/other",NULL,"editor",NULL,NULL
+"nm1560638","edef9c64dc0504691a1e655f4f993b51","1990","Banu","Shaheen","actor",NULL,NULL,NULL,NULL
+"nm1562798","33c00e3b657ee6cd7e19667de342671d","1967","Ramsay","F. U.","producer/other",NULL,"writer",NULL,NULL
+"nm1566649","89771eb37240e2b9c64c397ca2fa0522","1976","Sachdev","Ranjana","actor/other",NULL,NULL,NULL,NULL
+"nm1571396","22b687a5b6e8d70c84f3f10083b29e66","2003","Goswami","Udita","actor",NULL,NULL,NULL,NULL
+"nm1574540","f57aa6394b1f63296b9f96729ab27b06","1997","Pandit","Shweta","music",NULL,NULL,NULL,NULL
+"nm1577858","422376ef280928896cc0e739c7170bfd","2001","Kapoor","Kunal","actor/other",NULL,NULL,NULL,NULL
+"nm1598320","50bd67f0a1bb9a5b504dda817a2c09f6","1988","Ramsay","Deepak","other/director",NULL,NULL,NULL,NULL
+"nm1599046","8336612a34effb9c65da546dea43692c","1997","Haasan","Shruti","actor/music",NULL,NULL,NULL,NULL
+"nm1599231","d7f5d4b89152fca12efe29092ed03337","1954","Khadikar","Meena","music",NULL,NULL,NULL,NULL
+"nm1618284","739291e5f971ab01aefd6b208f3162e2","1967","Ramsay","Arjun","other",NULL,"writer, editor, 2nd unit assistant director",NULL,NULL
+"nm1620077","34fe08bd782b64faffe54bd4036f6004","1992","Pandit","Vishwaraj","music",NULL,NULL,NULL,NULL
+"nm1629053","8967f056ff2697768ed3148a0d6c6557","1978","Barot","Nutan (Nuti)","other",NULL,NULL,NULL,NULL
+"nm1629078","680e8b8378a9f6605b425c03b5896994","1988","Kapoor","Nitin","producer",NULL,NULL,NULL,NULL
+"nm1633541","8624ac1f73f69ec43d4738015837ac0a","2004","Kapoor","Ranbir","actor",NULL,NULL,NULL,NULL
+"nm1637738","aec7a97e706b5030372e7ca7ae1ac452","1971","Parekh","Sudha","other",NULL,NULL,NULL,NULL
+"nm1642511","f4f432cfff736a3296b595e46c5a0087","1939","Mukherjee","Sashadhar","producer",NULL,NULL,NULL,NULL
+"nm1662277","c4d6c983047540b4fcb58f039bb68b93","1988","Talpade","Shreyas","actor/producer/music",NULL,NULL,NULL,NULL
+"nm1675786","228f88102abc1cc458f9ae20d18f0961","2004","Khan","Soha Ali","actor",NULL,NULL,NULL,NULL
+"nm1762903","1435eaff1f023b80a2c047a6aa3c3605","2005","Sippy","Sheena","other",NULL,NULL,NULL,NULL
+"nm1778703","aed45818ddade2d2e22fdee7bdcc2ebc","1988","Mukesh","Neil Nitin","actor/music/other",NULL,"writer","1982",NULL
+"nm1794338","0fe2519ba9d096209fb71633c485ebe4","1991","Ramsay","Aryeman (Mayur)","actor/director/other",NULL,NULL,NULL,NULL
+"nm1799038","704900bac175f94b819f8af06252c1a4","1995","Balan","Vidya","actor",NULL,NULL,NULL,NULL
+"nm1815193","e0a61e5defe42d399d200df68884c86b","1979","Ali","Pucky","actor",NULL,NULL,NULL,NULL
+"nm1815713","574d2d6ebbefdea0067adaf221d81e16","1983","Gautam","Mukesh","actor/director/producer",NULL,NULL,NULL,NULL
+"nm1819083","95c2e2d69e362bb51cc5938493515147","2002","Kapoor","Arjun","actor",NULL,NULL,NULL,NULL
+"nm1860887","66284a51bd2d50d51c26d3c936ad6680","1979","Mukherjee","Shyam","relative",NULL,NULL,NULL,NULL
+"nm1865311","20e72885de55322b2bb8d102e383314f","2005","Suri","Ambika","director",NULL,NULL,NULL,NULL
+"nm1867717","30647c5732cff23ebfe571a304e8ee95","1999","Deol","Abhay","actor",NULL,NULL,NULL,NULL
+"nm1887138","dfe3fa05f228ad50284cbc307662df48","2005","Suri","Mohit","director",NULL,NULL,NULL,NULL
+"nm1893457","c624fbbcff13cb6c884ef46e1aa5de41","1982","Anand","Siddharth","director",NULL,NULL,NULL,NULL
+"nm1927212","152515b55f434afa1952bcbc31637a49","1944","Sapru","D. K.","actor",NULL,NULL,NULL,NULL
+"nm1934428","78b9cea2ce4370cf6ab23374d6b2975b","1974","Joshi","Sarita","actor",NULL,NULL,NULL,NULL
+"nm1942776","0e9b20b368febdd8cc9a4940a7d22fd0","1964","Singh","Kanwaljit","actor",NULL,NULL,NULL,NULL
+"nm1946407","a70bba341c504498d0d491b9d4549d1f","1995","Menon","Kay Kay","actor",NULL,NULL,NULL,NULL
+"nm1963822","d6c5421c4d7034d9e555405c93e2ca17","2005","Marwah","Mohit","actor",NULL,NULL,NULL,NULL
+"nm2020109","1bf1ac6eeef5d445e4cf0987bea725bd","2005","Khatter","Ishaan","actor",NULL,NULL,NULL,NULL
+"nm2049722","6a5c4b2032ec71d12704a37ab1a82fa2","1987","Kapoor","Krishna","relative",NULL,NULL,NULL,NULL
+"nm2054330","f94ae9da72d66293ca1dc90d74887973","1972","Mahmood","Mini","actor",NULL,NULL,NULL,NULL
+"nm2083709","c970882ad1722988cd25761bf8b838db","1996","Malik","Anmol","music/other",NULL,"writer",NULL,NULL
+"nm2099162","699225891aacf15f471bb4d197fa8778","2005","Baweja","Rowena","other",NULL,NULL,NULL,NULL
+"nm2102514","3edc857d6f97fc82616f0580f33efd72","2009","Baweja","Harman","actor/producer/other",NULL,NULL,NULL,NULL
+"nm2102682","99f621bfea3e9a948cff59a5c3bcaccc","1998","Dhawan","Siddharth","actor",NULL,NULL,NULL,NULL
+"nm2104913","8189d4fa8e053021aaf3303b0050943f","2000","Adarsh","Taran","other",NULL,NULL,NULL,NULL
+"nm2106220","a716317c0e07af2c9fc58cffec728c52","2004","Chopra","Rahul","other",NULL,NULL,NULL,NULL
+"nm2124966","e8b225c0a90d71c0fee7304e18b33825","2005","Suri","Smiley","actor",NULL,NULL,NULL,NULL
+"nm2128238","d93a8bfdcee6543e089b53f623e3aac1","2005","Kapoor","Sonam","actor",NULL,NULL,NULL,NULL
+"nm2138653","db7460df263c8cccc6b1262845f50ff9","2006","Padukone","Deepika","actor",NULL,NULL,NULL,NULL
+"nm2140421","7dfef6394a9aa2580aae07e5cd1cafaf","1969","Jariwala","Kishore Kumar","actor",NULL,NULL,NULL,NULL
+"nm2142231","c9744955287f8c986dc0b51d2f2a184d","1969","Shetty","Ratna","actor",NULL,NULL,NULL,NULL
+"nm2143210","bb3f85d61de3d2f52d04e0bb0f0590c7","2006","Nair","Onjolee","actor",NULL,NULL,NULL,NULL
+"nm2172997","f79926e566aec9ae9e9cfa8607ce7eac","1996","Barot","Pratap","music/director/producer",NULL,NULL,NULL,NULL
+"nm2173354","162c3c13b447185dbbb8fdb48a6564de","1983","Amrohi","Tajdar","director/actor",NULL,NULL,NULL,NULL
+"nm2176659","2ca52f0ffe94c52ee19989a295787b79","1981","Motiwala","Bhavna","other",NULL,NULL,NULL,NULL
+"nm2182334","af22ca5aa9375d436e2855018d7f6d00","1960","Sippy","Ajit","other",NULL,NULL,NULL,NULL
+"nm2187933","c96eb4922ebebcddf263d97a4f47933f","1982","Pandit","Mandhir","music",NULL,NULL,NULL,NULL
+"nm2209781","a70fadb79846de5601f5c2e0a9cf1aaf","2005","Mukerjee","Ayan","director/actor",NULL,NULL,NULL,NULL
+"nm2226774","7f083dcc3820fba7c83823f44426cd28","1985","Hashmi","Farha Naaz","actor",NULL,NULL,NULL,NULL
+"nm2243737","ed28ab8a1aee97577ac4a1371e8d9622","2002","Abhishek","Krishna","actor",NULL,NULL,NULL,NULL
+"nm2260359","139e2cfb7f4d301e96b929c07451b1df","1963","Katrak","Zarine","actor",NULL,NULL,NULL,NULL
+"nm2265217","83b9ab53416f2861193dc4b05f0bcbb0","1997","Roy","Manasi Joshi","actor",NULL,NULL,NULL,NULL
+"nm2276001","37526350a6d21f9c340fc27831f7a3f5","2006","Kumar","Tulsi","music/actor",NULL,NULL,NULL,NULL
+"nm2279870","cea7a1456633ee2e2ae49b033d581d19","1986","Goswami","Vishal","music/other/producer",NULL,"visual effects",NULL,NULL
+"nm2337375","b5fee08a1b1a452cb72dd672ab04a028","2006","Randhawa","Shaad","actor",NULL,NULL,NULL,NULL
+"nm2366197","8f844c739d1b480a9308c597865a8c41","2000","Kabir","Faruk","director/other",NULL,NULL,NULL,NULL
+"nm2385800","188a2c444c33dfe8ed05e9682975e0ff","1960","Irani","Sarosh","actor",NULL,NULL,NULL,NULL
+"nm2390814","1320e1a53743624a8df7b6f0167c67e4","2006","Rao Hydari","Aditi","actor/music",NULL,NULL,NULL,NULL
+"nm2419285","b6cfcd8ca726b993c91878a9bc6c00b3","1994","Khanna","Praveen","producer",NULL,NULL,NULL,NULL
+"nm2475355","9f9db6f6ccb6a65148eebe09f6205a96","2006","Lulla","Kishore","producer",NULL,NULL,NULL,NULL
+"nm2517876","62bb5fe8e000051b1b35fdde02e41b9e","1987","Balsawar","Bhavana","actor",NULL,NULL,"1975",NULL
+"nm2525334","4a96a6661fc15cd5224d72bb4ef6e947","1968","Tandon","Dev","other",NULL,NULL,NULL,NULL
+"nm2539328","8604fd2e307e390260cb4f993c845cd9","2006","Dhawan","Rohit","director",NULL,NULL,NULL,NULL
+"nm2552990","d336fd6a1a9bbaf0aaba9e52e2d41cbe","1973","Kolhapure","Shivangi","music",NULL,NULL,NULL,NULL
+"nm2602251","b9182c4151433e62d23623099ed6fccc","2007","Lulla","Sunil","producer/actor",NULL,NULL,NULL,NULL
+"nm2622986","68e64290c14bbb01eccc43bee5f16c57","1996","Roy Kapur","Kunaal","actor/director",NULL,NULL,NULL,NULL
+"nm2629998","29c69c46a72e29a1dd62e7d627ed1854","1934","Khote","Nandu","actor",NULL,NULL,NULL,NULL
+"nm2655625","dd1b0e9eee05be81b000c044b3c35bb5","2006","Agnihotri","Alvira Khan","producer/other",NULL,NULL,NULL,NULL
+"nm2738083","e25d47f1bc82367688e5d577e8ee6273","1970","Singh","Vindu Dara","actor",NULL,NULL,NULL,NULL
+"nm2740304","7b4ba12a6139a9bd54081ba41e28dd61","1972","Khan","Laila","actor/other",NULL,NULL,NULL,NULL
+"nm2752803","461436d8d929b6dda6aeaf517a13f4fa","1964","Mukherjee","Krishna","singer",NULL,NULL,NULL,NULL
+"nm2838280","45edfa317b737ee188e11df2ae89f0cb","1997","Thapar","Valmik","producer",NULL,NULL,NULL,NULL
+"nm2846672","e84c3dd8f9c409a126440c43e40fa68a","2003","Kumar","Sandeep","director/other",NULL,"writer",NULL,NULL
+"nm2936282","90c60cf08980fc4e37419707e69ff6e6","1988","Nijjar","Jai Singh","other",NULL,NULL,NULL,NULL
+"nm2936469","70aa5e3b044c85a6174c3807a251106a","2005","Jha","Disha","other/producer",NULL,NULL,NULL,NULL
+"nm2996210","87dd9321d00516351c497f919e883f2f","1946","Sehgal","Kameshwar","other",NULL,"art director",NULL,NULL
+"nm3002347","8d3be507cf726f71497ce86c1d65c581","2007","Chakraborty","Mahaakshay","actor",NULL,NULL,NULL,NULL
+"nm3032965","e2d83af8b647ebfa080b07c1ed2d5c6d","2007","Roy Kapur","Siddharth","producer",NULL,NULL,NULL,NULL
+"nm3046740","3e7b8999a546ce4ceeb882e5a70711da","1996","Dhillon","Rammi","actor",NULL,NULL,NULL,NULL
+"nm3049068","163f230db1a70d996c20809e1c26dba8","2008","Dheer","Nikitin","actor",NULL,NULL,NULL,NULL
+"nm3070408","0c634e00cd22d2997dff5b92a9f9a15a","2008","Babbar","Prateik","actor",NULL,NULL,NULL,NULL
+"nm3071488","40bd9371714c2694f3a3a3a19618d728","2008","Kher ","Sikandar","actor",NULL,NULL,NULL,NULL
+"nm3078948","13be6c0ffa698d9a7d2ffb9e362997de","1965","Kapoor","Madhumalti","actor",NULL,NULL,NULL,NULL
+"nm3083916","fd279400d4ae8c253e5dfeb53b3d6f79","2007","Singh","Aarti","actor",NULL,NULL,NULL,NULL
+"nm3093254","66ab74c63742cb578633184f48021342","2010","Sinha","Luv","actor",NULL,NULL,NULL,NULL
+"nm3126754","2fd49df5f89d5305d02970ec59d42813","2011","Joshi","Purbi","actor/music",NULL,NULL,NULL,NULL
+"nm3134033","f88cf4743350894e337914ef3ce73cdc","2008","Bhatt","Chirantan","music",NULL,NULL,NULL,NULL
+"nm3149050","bb226618739bdcbf6b2f1acb5d440da3","2008","Kumar","Shweta","actor",NULL,NULL,NULL,NULL
+"nm3169069","da46ebf23b4ac5e36185b88bf21018ee","2009","Roy Kapur","Aditya","actor",NULL,NULL,NULL,NULL
+"nm3190972","0d11251fcbe631b8b5e4f43513b2456a","2008","Singh","Manjot","actor",NULL,NULL,NULL,NULL
+"nm3211340","7e9f96701abd960b1c826f61528c7182","1985","Ganguly","Vijay","other/actor/director","choreographer
+",NULL,NULL,NULL
+"nm3263017","e9eaa302a4014c385d1c68fd32796281","2007","Malik","Armaan","music/actor",NULL,NULL,NULL,NULL
+"nm3315894","8dd84b6282615aac55b85ca7918d2984","2010","Dhawan","Varun","actor",NULL,NULL,NULL,NULL
+"nm3389361","ad578669b603c44a8633efd6685894c9","2006","Jaffrey","Saahil","actor",NULL,NULL,NULL,NULL
+"nm3392486","8834d405173c08fe4ee17515f9c8eacf","2006","Ganguly","Rupali","actor",NULL,NULL,NULL,NULL
+"nm3464311","c6840bd29fa0842af2f44794a0c18846","2008","Singh","Sehebjot","actor",NULL,NULL,NULL,NULL
+"nm3473452","9b06a025fe14750b8b93157d05696d3f","2007","Akhtar","Mohsin","actor/producer",NULL,NULL,NULL,NULL
+"nm3477013","34b844ddfbc13740c136823ea2f1f5e8","1998","Bhattacharya","Nivedita","actor",NULL,NULL,NULL,NULL
+"nm3571404","8c09165b92178d187f6da66fef871a0a","2010","Dutt","Priya","other",NULL,NULL,NULL,NULL
+"nm3583633","cb25f550c59429537103f2d4f3735175","1975","Shorey","K. D.","producer/other",NULL,"writer
+",NULL,NULL
+"nm3593194","e45e67e6231a842c1aad6c77ec26dd30","2005","Barjatya","Kavita","producer",NULL,NULL,NULL,NULL
+"nm3601766","673fa218410ca40c99224ae43990563c","2010","Kapoor","Shraddha","actor",NULL,NULL,NULL,NULL
+"nm3608045","bf69c70241a5f5544a031ec855c751e1","2014","Kapoor","Rhea","producer/other",NULL,NULL,NULL,NULL
+"nm3648164","212287d8c06a3bdd83b90b4bde29be17","1977","Kabir","Sabiha","other/producer",NULL,"costume designer",NULL,NULL
+"nm3672390","42e81adab2784a9830a8d6df9cd1b338","2011","Makijany","Manjari","other/producer",NULL,NULL,NULL,NULL
+"nm3779174","7cc1cfecba70ea3a663afdd0f25cff96","1993","Tandon","Veena","other",NULL,NULL,NULL,NULL
+"nm3828984","e79dc2c5caed0a8e798e21d7f2277b44","2010","Singh","Ranveer","actor",NULL,NULL,NULL,NULL
+"nm3848064","86d9016b0bb2246be1888e78a4843f77","2010","Sinha","Sonakshi","actor/other/music","costumes",NULL,NULL,NULL
+"nm3865073","2985943816015ea8413dd394e8b89d34","2011","Shah","Vivaan","actor",NULL,NULL,NULL,NULL
+"nm4004908","0e51d124cf269394a3aa1e4c79dbc714","2008","Khanna","Ragini","actor",NULL,NULL,NULL,NULL
+"nm4141638","d7396044f9995a8ff63a2cee92dba894","1990","Amrohi","Mashhoor","actor/director",NULL,NULL,NULL,NULL
+"nm4221666","d0192960697373089f0b6631ac1ea295","2012","Jain","Armaan","other/actor",NULL,NULL,NULL,NULL
+"nm4288932","d9189de1c69daea60aa0fcaa8c7f9c3b","2011","Misra","Satyadeep","actor",NULL,NULL,NULL,NULL
+"nm4299305","167055e72adc1de59218ff35d9a0b9a5","2010","Lulla","Krishika","producer/other",NULL,"writer",NULL,NULL
+"nm4335706","60fb00b18761ed8ecbd04003157ffb6d","1965","Mukherjee","Rono","director",NULL,NULL,NULL,NULL
+"nm4417069","509a7931b85584e6aaab34b836672d69","2008","Gautam","Yami","actor",NULL,NULL,NULL,NULL
+"nm4419038","cd8cc58d87edc9fd3d4d5c15b9e64c5c","2011","Kher","Saunskruti","actor",NULL,NULL,NULL,NULL
+"nm4468244","276d5886c9494e9a7855b1a07ccb4053","1977","Govil","Arun","actor",NULL,NULL,NULL,NULL
+"nm4495174","27acd21df18468df771bd238078be69f","2011","Chopra","Parineeti","actor",NULL,NULL,NULL,NULL
+"nm4554077","ae51054fba1d9b2c2f42b4a9832a3842","1947","Mukherjee","Sati devi","actor",NULL,NULL,NULL,NULL
+"nm4640704","ad70a8b62277bd6675b5cb2c2327e64a","2009","Govil","Kkhushi","actor",NULL,NULL,NULL,NULL
+"nm4731677","394d9f5f68f3d85f179f4c4ad506726c","2003","Khurrana","Ayusmann","actor/music",NULL,NULL,NULL,NULL
+"nm4808460","266c66916e4ddca6c59eb2ccd2b5c96f","2012","Pancholi","Sooraj","actor",NULL,NULL,NULL,NULL
+"nm4829299","3f320c553ef7f77fe7236594f58a2ef5","2011","Makijany","Vikrant","actor",NULL,NULL,NULL,NULL
+"nm4829303","21e2d44b15475a9d1b9abeb1954ce5e0","2011","Makijany","Vinati","actor/other",NULL,NULL,NULL,NULL
+"nm4858207","80fcf3b7ff7528fc9e220cf7db7764b6","2012","Virwani","Tanuj","actor",NULL,NULL,NULL,NULL
+"nm4870433","1ab56f7a38001e51610b2e7276179103","1965","Roy Kapur","Salomi","actor/other",NULL,NULL,NULL,NULL
+"nm4921260","62cc5ec4f8793150654c66369de631b9","2010","Salmaan","Dulquer","actor/music",NULL,NULL,"1986",NULL
+"nm4948769","989f39fa14b4ad2e2f86348b904490da","1997","Kapoor","Siddhanth","actor",NULL,NULL,NULL,NULL
+"nm5047799","0dc2dd76f7e1348c1394467727f96038","2012","Shetty","Mehek (Mahek)","other",NULL,"costume designer",NULL,NULL
+"nm5055052","a1d7cd7349febf87f6357370881fa811","2012","Samanta","Aditya","actor",NULL,NULL,NULL,NULL
+"nm5055250","ab1934b3148ad16c862628df52e9d9fb","1963","Irani","Menka","actor",NULL,NULL,NULL,NULL
+"nm5068738","37c2bd0cc2acb127fbcbcf20d825f9f0","2013","Mukesh","Naman Nitin","other/director",NULL,NULL,NULL,NULL
+"nm5070967","f6bb8fb0b748e095a13b6f65127728a1","2011","Banerjee","Siddharth","other",NULL,"second unit assistant director",NULL,NULL
+"nm5244740","63409dd11ced238ceb28ebc06919e018",NULL,"Kapoor","Nikhil","actor/other",NULL,"writer",NULL,NULL
+"nm5376616","d5699ecb40b1b31e4ecc11690e0c584f","2013","Deol","Karan","actor",NULL,NULL,NULL,NULL
+"nm5429831","14a73c3fcdd4976708c6936e8aef945e","2003","Tandon","Rajiv","producer",NULL,NULL,NULL,NULL
+"nm5458614","3ad9de0eaf00631c84829f4be0aeb2f9","1989","Bhatt","Sakshi","producer/actor",NULL,NULL,NULL,NULL
+"nm5478232","49a64af565d837db96c872361e45727f","2009","Nijjar","Sunny","actor",NULL,NULL,NULL,NULL
+"nm5506476","de82fcee8bc47120162050701f6d0aa9","1998","Shorey","Lokesh","actor",NULL,NULL,NULL,NULL
+"nm5578266","3d5abc51567bf4ce17f5becf64020456","1985","Govil ","Hoshang","actor",NULL,NULL,NULL,NULL
+"nm5619229","2a26dc74ad12ba1feef29d0905f097a3","1977","Mukherjee","Raja","director",NULL,NULL,NULL,NULL
+"nm5648841","162e6e662de4749142e3df10d176f070","1998","Malhotra","Siddharth","director/other",NULL,NULL,NULL,NULL
+"nm5840639","63b6469ad593e326ae8a75d162d48502","1972","Joshi","Pravin","actor",NULL,NULL,NULL,NULL
+"nm5899377","8ae1e8e4d58a1c4c2131e3ca1b99e8da","2014","Shroff","Tiger","actor",NULL,NULL,NULL,NULL
+"nm5934356","906c9236cf4c0e09a3b9f491b3eca259","1974","Ali","Macky","actor",NULL,NULL,NULL,NULL
+"nm5934357","eaeaf62b8640af40e0ba22a38e7356b6","1978","Ali","Tracy","actor",NULL,NULL,NULL,NULL
+"nm5980225","ae4d29dce2d24d918b05045a863ad3c3","1988","Jariwala","Nakul","producer",NULL,NULL,NULL,NULL
+"nm6021891","6789df554e83eb7fc512347a87d0d112","2013","Shukla","Ritu","producer",NULL,NULL,NULL,NULL
+"nm6153653","03dc7b877abb927b9cd15acba99a47a1","2009","Malik","Amal","music",NULL,NULL,NULL,NULL
+"nm6235678","878b7a9dbdd63fb960124675f561b037","1990","Amrohi","Bilal","actor/producer",NULL,NULL,NULL,NULL
+"nm6264567","486b5f637627232d739caf4c8a9608c9","1982","Pendharkar","Prabhakar","director",NULL,NULL,NULL,NULL
+"nm6269780","4a1018440b4d8bb76f673bf56a5dd0cb","2014","Khurrana","Aparshakti","actor",NULL,NULL,NULL,NULL
+"nm6327493","2cc129b89aa88bfaa23261a7f0b01900","2006","Uttamsingh","Shaan","other ",NULL,NULL,NULL,NULL
+"nm6327494","939cc803da2ac10cefebc3a8f2ec8402","2014","Sippy","Sascha","producer",NULL,NULL,NULL,NULL
+"nm6334631","2cbeb01ad0f0b3a4579faed5e27bf60e","1953","Kaur","Haridarshan","producer",NULL,NULL,NULL,NULL
+"nm6497558","af2f73a044996cbfe1dcd448f035cdfa","2011","Gautam","Surilie","other/actor",NULL,NULL,NULL,NULL
+"nm6535488","0511841e1a7bfb517cd341bf719970e5","1995","Pandit","Vinod","actor",NULL,NULL,NULL,NULL
+"nm6754036","c182286f7ee5e71867ccbfd0a4de2326","2012","Shetty","Uday","producer",NULL,NULL,NULL,NULL
+"nm6886938","bba57ef1de34dfb94c0224f77d748e46","2015","Kapur","Sanah","actor",NULL,NULL,NULL,NULL
+"nm7248508","43308b9b3b174ad9e0349c7bb28b1dbd","1989","Bhatt","Shaheen","other",NULL,NULL,NULL,NULL
+"nm7418890","b894f491b06dd2aa2434b5b832ea1760","2015","Ahuja","Tina","actor/other","costumes",NULL,NULL,NULL
+"nm7432227","ab6a01b8ceb7fa7bfbe7fdb7a09ba888","2015","Haasan","Akshara","actor",NULL,NULL,NULL,NULL
+"nm7508187","f079ebe4ce5beb81430ba239adb0ecc5","2015","Shetty","Athiya","actor",NULL,NULL,NULL,NULL
+"nm7517362","96b3ff9d3ca9faa5cee31389912c50d2","2016","Kher","Saiyami","actor",NULL,NULL,NULL,NULL
+"nm7548924","e715e0f93bd9b7c740d4c4ce59afcb2e","2015","Saigal","Sayesha","actor",NULL,NULL,NULL,NULL
+"nm7561367","0012b863e92e4973dda5a3338837f761","2015","Kapoor","Harshvardhan","actor/other",NULL,NULL,NULL,NULL
+"nm7720308","2229c3e556f489e836de17bfaaa7b867","1960","Abhisheki","Jitendra ","music",NULL,NULL,NULL,NULL
+"nm7827767","10599571c5fa919057704387209191b1","1980","Khan","Simone","actor",NULL,NULL,NULL,NULL
+"nm8001267","86940af27a9e1bed82cdd9c37add95e2","2006","Khanna","Amit","actor",NULL,NULL,NULL,NULL
+"nm8087086","71c76a1d49feeaa1afff27ba927ba86f","2016","Ramsay","Namrata","actor/other",NULL,"writer
+",NULL,NULL
+"nm8562373","5fdb81993638b82ba4ebc959fb145ae6","1994","Ambani","Anil","producer",NULL,NULL,NULL,NULL
+"nm8836090","0ee8fb209ebdf8edfa9aa4465b41d8ea","1982","Kher","Uttara Mhatre","other",NULL,NULL,NULL,NULL
+"nm8938569","c9871f819342c48008dbed901dd73810","2016","Jain","Aadar","actor",NULL,NULL,NULL,NULL
+"nm9071083","27d848f183ab31dfc8f93ae6d2f87b9c","2018","Khan","Sara Ali","actor",NULL,NULL,NULL,NULL
+"nm9076358","a57bfe4671ffc3e44afbbaf5ea555aee","1979","Kapadia","Chunnibai","producer",NULL,NULL,NULL,NULL
+"nm9181878","1afd4eac972d3f5fae51c4ac22539276","1962","Kolhapure","Pandharinath","music",NULL,NULL,NULL,NULL
+"nm9203528","c67448298016f915ef0fb37f978a1a24","2019","Pandey","Ananya","actor",NULL,NULL,NULL,NULL
+"nm9427099","2e863df9e11d12d05038ad6e238fbdad","2018","Kapoor","Janhvi","actor",NULL,NULL,NULL,NULL
+"nm9669384","4f9dab5fcdeedc526c8fe796163722de","1987","Naaz","Razvanah","actor",NULL,NULL,NULL,NULL
+"nm9913465","b068644fb6e03681757f1ce55bd0c07e","1994","Anand","Ravi","music",NULL,NULL,NULL,NULL

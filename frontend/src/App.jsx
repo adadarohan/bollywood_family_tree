@@ -1,9 +1,28 @@
 import { ReactFlow, Background, Panel } from "reactflow";
 import  { useState } from "react";
 import "reactflow/dist/style.css";
-import data from "./data.json";
+import nodes_json from "./nodes.json";
+import edges_json from "./edges.json";
 import Sidebar from "./Sidebar";
 import Searchbar from "./Searchbar";
+
+function getNodeName(poi){
+  // Binary search to find the node with the given id
+  var left = 0;
+  var right = nodes_json.length - 1;
+  while (left <= right) {
+    var mid = Math.floor((left + right) / 2);
+    if (nodes_json[mid]["id"] == poi) {
+      return nodes_json[mid]["first_name"] + " " + nodes_json[mid]["last_name"];
+    } else if (nodes_json[mid]["id"] < poi) {
+      left = mid + 1;
+    } else {
+      right = mid - 1;
+    }
+  }
+  return null;
+
+}
 
 function updateNodes(poi) {
   console.log("updateNodes", poi);
@@ -12,19 +31,20 @@ function updateNodes(poi) {
   var numSameCount = 1;
   var numBelowCount = 0;
 
-  var nodes = [{ id: poi, position: { x: 300, y: 300 }, data: { label: poi } }];
+  var nodes = [{ id: poi, position: { x: 300, y: 300 }, data: { label: getNodeName(poi)} }];
   var edges = [];
 
   // Add nodes and edges for all links that have the poi as source or target
-  for (var i = 0; i < data["links"].length; i++) {
-    var link = data["links"][i];
+  for (var i = 0; i < edges_json.length; i++) {
+    var link = edges_json[i]; // Link is an object with source_id, target_id, relation
     var position = { x: 0, y: 0 };
     var sourcePosition = 'bottom'; // default
     var targetPosition = 'top'; // default
 
-    if (link["source"] == poi) {
+    // If the link has the poi as source, add the target as a node
+    if (link["source_id"] == poi) {
 
-
+      // If the relation is parent-child, add the target below the poi  
       if (link["relation"] == "parent-child") {
         if (numBelowCount%2 == 0) {
           position.x = 300 + 200 *  (numBelowCount/2);
@@ -35,6 +55,7 @@ function updateNodes(poi) {
         numBelowCount += 1;
 
       } else if ( link["relation"] == "marriage" || link["relation"] == "sibling") {
+        // If the relation is marriage or sibling, add the target at the same level as the poi
 
         if (numSameCount%2 == 0) {
           position.x = 300 + 200 * (numSameCount/2);
@@ -50,21 +71,21 @@ function updateNodes(poi) {
 
 
       nodes.push({
-        id: link["target"],
+        id: link["target_id"],
         position: position,
-        data: { label: link["target"] },
+        data: { label: getNodeName(link["target_id"])},
         sourcePosition: sourcePosition,
         targetPosition: targetPosition,
       });
       edges.push({
-        id: "e" + link["source"] + link["target"],
-        source: link["source"],
-        target: link["target"],
+        id: "e" + link["source_id"] + link["target_id"],
+        source: link["source_id"],
+        target: link["target_id"],
         label: link["relation"],
       });
     }
 
-    if (link["target"] == poi) {
+    if (link["target_id"] == poi) {
       if (link["relation"] == "parent-child") {
         if (numAboveCount%2 == 0) {
           position.x = 300 + 200 * (numAboveCount/2);
@@ -88,18 +109,18 @@ function updateNodes(poi) {
       }
 
       nodes.push({
-        id: link["source"],
+        id: link["source_id"],
         position: position,
-        data: { label: link["source"] },
+        data: { label: getNodeName(link["source_id"])},
         sourcePosition: sourcePosition,
         targetPosition: targetPosition,
 
       });
 
       edges.push({
-        id: "e" + link["source"] + link["target"],
-        source: link["source"],
-        target: link["target"],
+        id: "e" + link["source_id"] + link["target_id"],
+        source: link["source_id"],
+        target: link["target_id"],
         label: link["relation"],
       });
     }
@@ -111,9 +132,11 @@ function updateNodes(poi) {
 
 export default function App() {
   
-  let [poi, setPoi] = useState("Raj Kapoor"); // Default Person
-  let { nodes, edges } = updateNodes(poi);
+  // POI = Person of Interest's ID
+  let [poi, setPoi] = useState("nm0004292"); // Default Person - Raj Kapoor for now
+  let { nodes, edges } = updateNodes(poi); // Initial nodes and edges
 
+  // Update nodes and edges when POI changes
   const handleNodeClick = (event, node) => {
     console.log("click", node);
     setPoi(node.id);
@@ -122,11 +145,12 @@ export default function App() {
   return (
     <div className="w-screen h-screen flex flex-row">
       <ReactFlow nodes={nodes} edges={edges} draggable={true} fitView onNodeClick={handleNodeClick} >
-      <Panel position="top-left">     <Searchbar names={data['nodes']} setPoi={setPoi} /></Panel>
-
+        <Panel position="top-left">     
+          <Searchbar names={nodes_json} setPoi={setPoi} />
+        </Panel>
         <Background variant="dots" gap={12} size={1} />
       </ReactFlow>
-      <Sidebar poi={poi} />
+      <Sidebar name={getNodeName(poi)} id={poi} />
     </div>
   );
 }

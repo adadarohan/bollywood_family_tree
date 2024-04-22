@@ -7,7 +7,7 @@ export default function Searchbar(props) {
 
     function ItemChosen( item , props) {
         console.log("Item chosen")
-        props.setPoi(item.name);
+        props.setPoi(item.id);
     }
 
     function getNameFilter(inputValue) {
@@ -16,7 +16,8 @@ export default function Searchbar(props) {
       return function nameFilter(node) {
         return (
           !inputValue ||
-          node.name.toLowerCase().replaceAll(" ", "").includes(lowerCasedInputValue)
+          (node.first_name && node.first_name.toLowerCase().replaceAll(" ", "").includes(lowerCasedInputValue))
+          || (node.last_name && node.last_name.toLowerCase().replaceAll(" ", "").includes(lowerCasedInputValue))
         )
       }
     }
@@ -67,11 +68,11 @@ export default function Searchbar(props) {
               items.slice(0,5).map((item, index) => (
                 <li
                   className="text-2xl py-2 px-2 max-w-max cursor-pointer hover:scale-105 transition duration-150"
-                  key={item.name}
+                  key={item.id}
                   {...getItemProps({ item, index })}
                   onClick={() => ItemChosen(item, props)}
                 >
-                  <span>{item.name}</span>
+                  <span>{item.first_name + " " + item.last_name}</span>
                 </li>
               ))}
   
